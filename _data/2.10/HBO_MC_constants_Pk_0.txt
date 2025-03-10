@@ -1,0 +1,153 @@
+asc_motor_0veh     =            0
+asc_motor_1veh     =            0
+asc_motor_2veh     =            0
+asc_motor_all      =            0
+
+asc_nonmotor_0veh  =       2.5990
+asc_nonmotor_1veh  =      -0.2633
+asc_nonmotor_2veh  =      -0.1459
+asc_nonmotor_all   =            0
+
+
+asc_auto_0veh      =            0
+asc_auto_1veh      =            0
+asc_auto_2veh      =            0
+asc_auto_all       =            0
+
+asc_transit_0veh   =       1.5436
+asc_transit_1veh   =      -1.8562
+asc_transit_2veh   =      -2.4616
+asc_transit_all    =            0
+
+
+asc_alone_0veh     =            0
+asc_alone_1veh     =            0
+asc_alone_2veh     =            0
+asc_alone_all      =            0
+
+asc_shared_0veh    =            0
+asc_shared_1veh    =      -0.1729
+asc_shared_2veh    =       0.1389
+asc_shared_all     =            0
+
+
+asc_sr2_0veh       =            0
+asc_sr2_1veh       =            0
+asc_sr2_2veh       =            0
+asc_sr2_all        =            0
+
+asc_sr3_0veh       =            0
+asc_sr3_1veh       =            0
+asc_sr3_2veh       =            0
+asc_sr3_all        =       0.1491
+
+
+asc_hov_0veh       =            0
+asc_hov_1veh       =            0
+asc_hov_2veh       =            0
+asc_hov_all        =       0.0875
+
+asc_toll_0veh      =            0
+asc_toll_1veh      =            0
+asc_toll_2veh      =            0
+asc_toll_all       =      -0.3500
+
+
+asc_LCL_0veh       =            0
+asc_LCL_1veh       =            0
+asc_LCL_2veh       =            0
+asc_LCL_all        =            0
+
+asc_EXP_0veh       =            0
+asc_EXP_1veh       =            0
+asc_EXP_2veh       =            0
+asc_EXP_all        =       0.2464
+
+asc_BRT_0veh       =            0
+asc_BRT_1veh       =            0
+asc_BRT_2veh       =            0
+asc_BRT_all        =      -0.0994
+
+asc_LRT_0veh       =            0
+asc_LRT_1veh       =            0
+asc_LRT_2veh       =            0
+asc_LRT_all        =       0.2714
+
+asc_CRT_0veh       =            0
+asc_CRT_1veh       =            0
+asc_CRT_2veh       =            0
+asc_CRT_all        =       1.4099
+
+
+asc_walkacc_0veh   =            0
+asc_walkacc_1veh   =            0
+asc_walkacc_2veh   =            0
+asc_walkacc_all    =            0
+
+asc_driveacc_0veh  =           0
+asc_driveacc_1veh  =     -1.0367
+asc_driveacc_2veh  =     -0.8035
+asc_driveacc_all   =           0
+
+
+asc_wLCL_0veh      =            0
+asc_wLCL_1veh      =            0
+asc_wLCL_2veh      =            0
+asc_wLCL_all       =            0
+
+asc_wEXP_0veh      =            0
+asc_wEXP_1veh      =            0
+asc_wEXP_2veh      =            0
+asc_wEXP_all       =       0.8355
+
+asc_wBRT_0veh      =            0
+asc_wBRT_1veh      =            0
+asc_wBRT_2veh      =            0
+asc_wBRT_all       =       0.2563
+
+asc_wLRT_0veh      =            0
+asc_wLRT_1veh      =            0
+asc_wLRT_2veh      =            0
+asc_wLRT_all       =       0.5258
+
+asc_wCRT_0veh      =            0
+asc_wCRT_1veh      =            0
+asc_wCRT_2veh      =            0
+asc_wCRT_all       =       0.8868
+
+
+asc_dLCL_0veh      =            0
+asc_dLCL_1veh      =            0
+asc_dLCL_2veh      =            0
+asc_dLCL_all       =            0
+
+asc_dEXP_0veh      =            0
+asc_dEXP_1veh      =            0
+asc_dEXP_2veh      =            0
+asc_dEXP_all       =      -0.1724
+
+asc_dBRT_0veh      =            0
+asc_dBRT_1veh      =            0
+asc_dBRT_2veh      =            0
+asc_dBRT_all       =      -0.4180
+
+asc_dLRT_0veh      =            0
+asc_dLRT_1veh      =            0
+asc_dLRT_2veh      =            0
+asc_dLRT_all       =       0.3019
+
+asc_dCRT_0veh      =            0
+asc_dCRT_1veh      =            0
+asc_dCRT_2veh      =            0
+asc_dCRT_all       =       0.2414
+
+
+asc_walk_0veh      =            0
+asc_walk_1veh      =            0
+asc_walk_2veh      =            0
+asc_walk_all       =            0
+
+asc_bike_0veh      =            0
+asc_bike_1veh      =            0
+asc_bike_2veh      =            0
+asc_bike_all       =      -2.9272
