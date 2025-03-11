@@ -1,0 +1,8 @@
+# all of the below are required except description and idColumn.
+title: 'CRT Station Pairs'
+shpFile: stations.shp
+dbfFile: stations.dbf
+csvFile: station-pair-trips.csv
+scaleFactor: 1
+idColumn: 'STATION_ID'
+lineWidth: 2
