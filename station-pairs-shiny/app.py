@@ -313,14 +313,19 @@ def server(input, output, session):
                     norm_val = max(min(num_val, max_val), -max_val)
                     scale_factor = (abs(norm_val) / max_val) ** 0.7  
 
-                    if norm_val > 0:
-                        green_intensity = int((1 - scale_factor) * 255)
-                        color = f'rgba({green_intensity}, 255, {green_intensity}, 0.9)'  
-                    elif norm_val < 0:
+                    if norm_val < 0:
+                        blue_intensity = int((1 - scale_factor) * 255)
+                        color = f'rgba({blue_intensity}, {blue_intensity}, 255, 0.9)'
+                        text_color = "white" if blue_intensity < 128 else "black"  # White text for dark blue
+
+                    elif norm_val > 0:
                         red_intensity = int((1 - scale_factor) * 255)
-                        color = f'rgba(255, {red_intensity}, {red_intensity}, 0.9)'  
+                        color = f'rgba(255, {red_intensity}, {red_intensity}, 0.9)'
+                        text_color = "white" if red_intensity < 128 else "black"  # White text for dark red
+
                     else:
                         color = "white"
+                        text_color = "black"  # Default text color for white background
 
                     # Append styling rule for this specific row/col
                     styles.append({
@@ -328,6 +333,7 @@ def server(input, output, session):
                         "rows": [i],  # Row index
                         "cols": [col_idx],  # Column index
                         "style": {
+                            "color": text_color,
                             "background-color": color
                         },
                     })
