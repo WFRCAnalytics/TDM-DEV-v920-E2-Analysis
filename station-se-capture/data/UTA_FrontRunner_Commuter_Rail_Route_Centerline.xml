@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>UTA FrontRunner Commuter Rail Centerline</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Centerline of UTA's FrontRunner Commuter Rail from Ogden in the north to Provo in the south. This centerline is the Main (M1) track. Siding Track (S) is not included. Includes FrontRunner North and South lines. Each line begins at MP 0.0 at Salt Lake Central Station. Milepost ascending on FrontRunner North from SL Central station to Ogden. Milepost ascending for FrontRunner South from SL Central Station to Provo.</abstract>
+            <purpose>UTA FrontRunner Commuter Rail (North and South) Centerline</purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-112.045580772059</westbc>
+                <eastbc>-111.651951455051</eastbc>
+                <northbc>41.2265623864401</northbc>
+                <southbc>40.2206542393899</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>FrontRunner</themekey>
+                <themekey>Commuter Rail</themekey>
+                <themekey>UTA_SERVICE_DATA</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Published data made
+available in the UTA Open Data Portal is a public service to enhance open
+government, transparency, and accountability. All data is made available on an
+“as is” basis. All data that has been published on the Open Data Portal has
+been determined to be public data. Although UTA strives to ensure that such
+published data are accurate, UTA shall make no warranty, representation or
+guaranty of any type as to the content, accuracy, timeliness, completeness or
+fitness for any particular purpose or use of any published data provided on
+such portal; nor shall any such warranty be implied, including, without
+limitation, the implied warranties of merchantability and fitness for a
+particular purpose. UTA shall assume no liability for:&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;
+
+
+ any errors, omissions or inaccuracies in the data
+     provided on the UTA Open Data Portal regardless of how caused;&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;
+ any decision made or action taken or not taken by
+     anyone using or relying upon such data;&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;
+ any other act identified in any disclaimer of
+     liability or indemnification provision&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;
+ UTA shall reserve the right to discontinue
+     availability of content on the UTA Open Data Portal at any time and for
+     any reason. If UTA learns that any dataset or portion thereof posted on
+     the data portal is factually inaccurate or misleading or is protected
+     data, UTA will correct or remove such data from the UTA Open Data Portal
+     without prior notice.&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;
+</useconst>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

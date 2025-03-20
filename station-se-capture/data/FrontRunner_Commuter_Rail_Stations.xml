@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>FrontRunnerStations</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>UTA FrontRunner Commuter Rail Stations - 16 In Service and 1 Out of Service include: Ogden Central, Clearfield,
+Layton, Woods Cross, Farmington, Roy, Lehi, American Fork, Orem Central, Provo
+Central, Murray Central, South Jordan, Draper, Salt Lake Central, North Temple,
+Pleasant View (Out of Service) and Vineyard.</abstract>
+            <purpose>UTA FrontRunner Commuter Rail Stations. </purpose>
+        </descript>
+        <spdom>
+            <bounding>
+                <westbc>-112.039410143921</westbc>
+                <eastbc>-111.660239840507</eastbc>
+                <northbc>41.3075694266348</northbc>
+                <southbc>40.2253914583893</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Published data made
+available in the UTA Open Data Portal is a public service to enhance open
+government, transparency, and accountability. All data is made available on an
+“as is” basis. All data that has been published on the Open Data Portal has
+been determined to be public data. Although UTA strives to ensure that such
+published data are accurate, UTA shall make no warranty, representation or
+guaranty of any type as to the content, accuracy, timeliness, completeness or
+fitness for any particular purpose or use of any published data provided on
+such portal; nor shall any such warranty be implied, including, without
+limitation, the implied warranties of merchantability and fitness for a
+particular purpose. UTA shall assume no liability for:
+
+
+ any errors, omissions or inaccuracies in the data
+     provided on the UTA Open Data Portal regardless of how caused;
+ any decision made or action taken or not taken by
+     anyone using or relying upon such data;
+ any other act identified in any disclaimer of
+     liability or indemnification provision
+ UTA shall reserve the right to discontinue
+     availability of content on the UTA Open Data Portal at any time and for
+     any reason. If UTA learns that any dataset or portion thereof posted on
+     the data portal is factually inaccurate or misleading or is protected
+     data, UTA will correct or remove such data from the UTA Open Data Portal
+     without prior notice.
+</useconst>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
