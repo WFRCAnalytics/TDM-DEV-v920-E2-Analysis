@@ -1,0 +1,2018 @@
+﻿Service,Route,DirName,FX_DirNum,Sequence,Station,StopID,TimePeriod, AvgDailyBoardings , AvgDailyAlightings 
+SAT,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,1-AM Peak, 127 , 6 
+SAT,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,2-Midday, 435 , 25 
+SAT,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,3-PM Peak, 277 , 27 
+SAT,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,4-Evening, 117 , 16 
+SAT,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,1-AM Peak, 97 , 8 
+SAT,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,2-Midday, 155 , 17 
+SAT,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,3-PM Peak, 60 , 7 
+SAT,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,4-Evening, 39 , 8 
+SAT,701,TO DRAPER      ,0,3,Planetarium Station,21762,1-AM Peak, 44 , 7 
+SAT,701,TO DRAPER      ,0,3,Planetarium Station,21762,2-Midday, 254 , 62 
+SAT,701,TO DRAPER      ,0,3,Planetarium Station,21762,3-PM Peak, 167 , 31 
+SAT,701,TO DRAPER      ,0,3,Planetarium Station,21762,4-Evening, 86 , 12 
+SAT,701,TO DRAPER      ,0,4,Arena Station,18406,1-AM Peak, 45 , 19 
+SAT,701,TO DRAPER      ,0,4,Arena Station,18406,2-Midday, 202 , 66 
+SAT,701,TO DRAPER      ,0,4,Arena Station,18406,3-PM Peak, 124 , 43 
+SAT,701,TO DRAPER      ,0,4,Arena Station,18406,4-Evening, 71 , 28 
+SAT,701,TO DRAPER      ,0,5,Temple Square Station,18408,1-AM Peak, 23 , 69 
+SAT,701,TO DRAPER      ,0,5,Temple Square Station,18408,2-Midday, 145 , 201 
+SAT,701,TO DRAPER      ,0,5,Temple Square Station,18408,3-PM Peak, 116 , 121 
+SAT,701,TO DRAPER      ,0,5,Temple Square Station,18408,4-Evening, 117 , 47 
+SAT,701,TO DRAPER      ,0,6,City Center Station,18386,1-AM Peak, 45 , 47 
+SAT,701,TO DRAPER      ,0,6,City Center Station,18386,2-Midday, 381 , 268 
+SAT,701,TO DRAPER      ,0,6,City Center Station,18386,3-PM Peak, 365 , 178 
+SAT,701,TO DRAPER      ,0,6,City Center Station,18386,4-Evening, 295 , 73 
+SAT,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,1-AM Peak, 27 , 16 
+SAT,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,2-Midday, 158 , 87 
+SAT,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,3-PM Peak, 104 , 62 
+SAT,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,4-Evening, 66 , 48 
+SAT,701,TO DRAPER      ,0,8,Courthouse Station,18410,1-AM Peak, 37 , 95 
+SAT,701,TO DRAPER      ,0,8,Courthouse Station,18410,2-Midday, 119 , 391 
+SAT,701,TO DRAPER      ,0,8,Courthouse Station,18410,3-PM Peak, 86 , 275 
+SAT,701,TO DRAPER      ,0,8,Courthouse Station,18410,4-Evening, 53 , 207 
+SAT,701,TO DRAPER      ,0,9,900 South Station,20973,1-AM Peak, 36 , 16 
+SAT,701,TO DRAPER      ,0,9,900 South Station,20973,2-Midday, 66 , 65 
+SAT,701,TO DRAPER      ,0,9,900 South Station,20973,3-PM Peak, 36 , 46 
+SAT,701,TO DRAPER      ,0,9,900 South Station,20973,4-Evening, 19 , 29 
+SAT,701,TO DRAPER      ,0,10,Ballpark Station,18412,1-AM Peak, 32 , 36 
+SAT,701,TO DRAPER      ,0,10,Ballpark Station,18412,2-Midday, 90 , 118 
+SAT,701,TO DRAPER      ,0,10,Ballpark Station,18412,3-PM Peak, 51 , 73 
+SAT,701,TO DRAPER      ,0,10,Ballpark Station,18412,4-Evening, 33 , 46 
+SAT,701,TO DRAPER      ,0,11,Central Pointe Station,18414,1-AM Peak, 41 , 50 
+SAT,701,TO DRAPER      ,0,11,Central Pointe Station,18414,2-Midday, 118 , 123 
+SAT,701,TO DRAPER      ,0,11,Central Pointe Station,18414,3-PM Peak, 72 , 63 
+SAT,701,TO DRAPER      ,0,11,Central Pointe Station,18414,4-Evening, 54 , 44 
+SAT,701,TO DRAPER      ,0,12,Millcreek Station,18388,1-AM Peak, 32 , 34 
+SAT,701,TO DRAPER      ,0,12,Millcreek Station,18388,2-Midday, 79 , 105 
+SAT,701,TO DRAPER      ,0,12,Millcreek Station,18388,3-PM Peak, 43 , 65 
+SAT,701,TO DRAPER      ,0,12,Millcreek Station,18388,4-Evening, 19 , 38 
+SAT,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,1-AM Peak, 19 , 15 
+SAT,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,2-Midday, 48 , 70 
+SAT,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,3-PM Peak, 30 , 53 
+SAT,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,4-Evening, 15 , 34 
+SAT,701,TO DRAPER      ,0,14,Murray North Station,18392,1-AM Peak, 22 , 13 
+SAT,701,TO DRAPER      ,0,14,Murray North Station,18392,2-Midday, 44 , 62 
+SAT,701,TO DRAPER      ,0,14,Murray North Station,18392,3-PM Peak, 24 , 44 
+SAT,701,TO DRAPER      ,0,14,Murray North Station,18392,4-Evening, 12 , 31 
+SAT,701,TO DRAPER      ,0,15,Murray Central Station,18394,1-AM Peak, 40 , 46 
+SAT,701,TO DRAPER      ,0,15,Murray Central Station,18394,2-Midday, 98 , 159 
+SAT,701,TO DRAPER      ,0,15,Murray Central Station,18394,3-PM Peak, 52 , 114 
+SAT,701,TO DRAPER      ,0,15,Murray Central Station,18394,4-Evening, 31 , 88 
+SAT,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,1-AM Peak, 42 , 27 
+SAT,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,2-Midday, 91 , 109 
+SAT,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,3-PM Peak, 60 , 71 
+SAT,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,4-Evening, 36 , 49 
+SAT,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,1-AM Peak, 18 , 50 
+SAT,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,2-Midday, 40 , 125 
+SAT,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,3-PM Peak, 28 , 76 
+SAT,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,4-Evening, 15 , 49 
+SAT,701,TO DRAPER      ,0,18,Midvale Center Station,18400,1-AM Peak, 15 , 26 
+SAT,701,TO DRAPER      ,0,18,Midvale Center Station,18400,2-Midday, 23 , 95 
+SAT,701,TO DRAPER      ,0,18,Midvale Center Station,18400,3-PM Peak, 13 , 60 
+SAT,701,TO DRAPER      ,0,18,Midvale Center Station,18400,4-Evening, 6 , 36 
+SAT,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,1-AM Peak, 12 , 35 
+SAT,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,2-Midday, 22 , 96 
+SAT,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,3-PM Peak, 12 , 87 
+SAT,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,4-Evening, 7 , 66 
+SAT,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,1-AM Peak, 3 , 28 
+SAT,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,2-Midday, 8 , 53 
+SAT,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,3-PM Peak, 6 , 38 
+SAT,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,4-Evening, 4 , 22 
+SAT,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,1-AM Peak, 4 , 30 
+SAT,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,2-Midday, 11 , 84 
+SAT,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,3-PM Peak, 6 , 55 
+SAT,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,4-Evening, 4 , 32 
+SAT,701,TO DRAPER      ,0,22,Crescent View Station,23319,1-AM Peak, 2 , 15 
+SAT,701,TO DRAPER      ,0,22,Crescent View Station,23319,2-Midday, 4 , 60 
+SAT,701,TO DRAPER      ,0,22,Crescent View Station,23319,3-PM Peak, 4 , 49 
+SAT,701,TO DRAPER      ,0,22,Crescent View Station,23319,4-Evening, 3 , 39 
+SAT,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,1-AM Peak, 1 , 14 
+SAT,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,2-Midday, 4 , 35 
+SAT,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,3-PM Peak, 3 , 31 
+SAT,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,4-Evening, 1 , 20 
+SAT,701,TO DRAPER      ,0,24,Draper Town Center,23323,1-AM Peak, -   , 62 
+SAT,701,TO DRAPER      ,0,24,Draper Town Center,23323,2-Midday, 0 , 120 
+SAT,701,TO DRAPER      ,0,24,Draper Town Center,23323,3-PM Peak, -   , 70 
+SAT,701,TO DRAPER      ,0,24,Draper Town Center,23323,4-Evening, 0 , 42 
+SAT,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,1-AM Peak, 69 , 9 
+SAT,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,2-Midday, 172 , 23 
+SAT,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,3-PM Peak, 122 , 21 
+SAT,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,4-Evening, 50 , 13 
+SAT,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,1-AM Peak, 19 , 0 
+SAT,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,2-Midday, 47 , 3 
+SAT,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,3-PM Peak, 38 , 2 
+SAT,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,4-Evening, 11 , 1 
+SAT,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,1-AM Peak, 39 , 1 
+SAT,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,2-Midday, 76 , 3 
+SAT,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,3-PM Peak, 66 , 3 
+SAT,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,4-Evening, 20 , 1 
+SAT,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,1-AM Peak, 40 , 3 
+SAT,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,2-Midday, 101 , 9 
+SAT,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,3-PM Peak, 70 , 6 
+SAT,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,4-Evening, 25 , 3 
+SAT,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,1-AM Peak, 10 , 3 
+SAT,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,2-Midday, 45 , 8 
+SAT,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,3-PM Peak, 40 , 8 
+SAT,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,4-Evening, 17 , 6 
+SAT,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,1-AM Peak, 68 , 4 
+SAT,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,2-Midday, 128 , 20 
+SAT,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,3-PM Peak, 109 , 13 
+SAT,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,4-Evening, 28 , 7 
+SAT,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,1-AM Peak, 54 , 5 
+SAT,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,2-Midday, 113 , 21 
+SAT,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,3-PM Peak, 61 , 14 
+SAT,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,4-Evening, 31 , 8 
+SAT,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,1-AM Peak, 57 , 15 
+SAT,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,2-Midday, 144 , 40 
+SAT,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,3-PM Peak, 86 , 24 
+SAT,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,4-Evening, 36 , 12 
+SAT,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,1-AM Peak, 42 , 25 
+SAT,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,2-Midday, 107 , 79 
+SAT,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,3-PM Peak, 90 , 49 
+SAT,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,4-Evening, 29 , 18 
+SAT,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,1-AM Peak, 82 , 36 
+SAT,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,2-Midday, 208 , 94 
+SAT,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,3-PM Peak, 143 , 59 
+SAT,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,4-Evening, 53 , 24 
+SAT,701,TO SALT LAKE CT,1,11,Murray North Station,18391,1-AM Peak, 36 , 14 
+SAT,701,TO SALT LAKE CT,1,11,Murray North Station,18391,2-Midday, 95 , 35 
+SAT,701,TO SALT LAKE CT,1,11,Murray North Station,18391,3-PM Peak, 60 , 27 
+SAT,701,TO SALT LAKE CT,1,11,Murray North Station,18391,4-Evening, 21 , 12 
+SAT,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,1-AM Peak, 46 , 19 
+SAT,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,2-Midday, 108 , 44 
+SAT,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,3-PM Peak, 63 , 23 
+SAT,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,4-Evening, 25 , 14 
+SAT,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,1-AM Peak, 52 , 33 
+SAT,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,2-Midday, 120 , 87 
+SAT,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,3-PM Peak, 66 , 45 
+SAT,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,4-Evening, 26 , 24 
+SAT,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,1-AM Peak, 57 , 68 
+SAT,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,2-Midday, 150 , 150 
+SAT,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,3-PM Peak, 90 , 75 
+SAT,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,4-Evening, 43 , 38 
+SAT,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,1-AM Peak, 56 , 32 
+SAT,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,2-Midday, 135 , 104 
+SAT,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,3-PM Peak, 75 , 60 
+SAT,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,4-Evening, 39 , 30 
+SAT,701,TO SALT LAKE CT,1,16,900 South Station,20982,1-AM Peak, 37 , 36 
+SAT,701,TO SALT LAKE CT,1,16,900 South Station,20982,2-Midday, 84 , 66 
+SAT,701,TO SALT LAKE CT,1,16,900 South Station,20982,3-PM Peak, 41 , 40 
+SAT,701,TO SALT LAKE CT,1,16,900 South Station,20982,4-Evening, 24 , 23 
+SAT,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,1-AM Peak, 181 , 83 
+SAT,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,2-Midday, 479 , 172 
+SAT,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,3-PM Peak, 360 , 101 
+SAT,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,4-Evening, 147 , 52 
+SAT,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,1-AM Peak, 20 , 81 
+SAT,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,2-Midday, 108 , 178 
+SAT,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,3-PM Peak, 82 , 110 
+SAT,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,4-Evening, 42 , 45 
+SAT,701,TO SALT LAKE CT,1,19,City Center Station,18385,1-AM Peak, 31 , 216 
+SAT,701,TO SALT LAKE CT,1,19,City Center Station,18385,2-Midday, 221 , 576 
+SAT,701,TO SALT LAKE CT,1,19,City Center Station,18385,3-PM Peak, 184 , 357 
+SAT,701,TO SALT LAKE CT,1,19,City Center Station,18385,4-Evening, 132 , 112 
+SAT,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,1-AM Peak, 13 , 134 
+SAT,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,2-Midday, 119 , 230 
+SAT,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,3-PM Peak, 158 , 229 
+SAT,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,4-Evening, 111 , 68 
+SAT,701,TO SALT LAKE CT,1,21,Arena Station,18405,1-AM Peak, 21 , 65 
+SAT,701,TO SALT LAKE CT,1,21,Arena Station,18405,2-Midday, 53 , 275 
+SAT,701,TO SALT LAKE CT,1,21,Arena Station,18405,3-PM Peak, 46 , 345 
+SAT,701,TO SALT LAKE CT,1,21,Arena Station,18405,4-Evening, 41 , 114 
+SAT,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,1-AM Peak, 8 , 58 
+SAT,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,2-Midday, 44 , 280 
+SAT,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,3-PM Peak, 30 , 174 
+SAT,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,4-Evening, 20 , 92 
+SAT,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,1-AM Peak, 20 , 54 
+SAT,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,2-Midday, 26 , 125 
+SAT,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,3-PM Peak, 15 , 85 
+SAT,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,4-Evening, 9 , 56 
+SAT,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,1-AM Peak, 0 , 70 
+SAT,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,2-Midday, -   , 265 
+SAT,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,3-PM Peak, 0 , 227 
+SAT,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,4-Evening, 0 , 205 
+SAT,703,TO DAYBREAK    ,0,1,University Medical Center,19171,1-AM Peak, 74 , 2 
+SAT,703,TO DAYBREAK    ,0,1,University Medical Center,19171,2-Midday, 230 , 7 
+SAT,703,TO DAYBREAK    ,0,1,University Medical Center,19171,3-PM Peak, 211 , 5 
+SAT,703,TO DAYBREAK    ,0,1,University Medical Center,19171,4-Evening, 119 , 2 
+SAT,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,1-AM Peak, 48 , 1 
+SAT,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,2-Midday, 323 , 6 
+SAT,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,3-PM Peak, 232 , 4 
+SAT,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,4-Evening, 129 , 2 
+SAT,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,1-AM Peak, 16 , 1 
+SAT,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,2-Midday, 121 , 26 
+SAT,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,3-PM Peak, 93 , 28 
+SAT,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,4-Evening, 69 , 11 
+SAT,703,TO DAYBREAK    ,0,4,Stadium Station,18384,1-AM Peak, 28 , 27 
+SAT,703,TO DAYBREAK    ,0,4,Stadium Station,18384,2-Midday, 365 , 258 
+SAT,703,TO DAYBREAK    ,0,4,Stadium Station,18384,3-PM Peak, 439 , 239 
+SAT,703,TO DAYBREAK    ,0,4,Stadium Station,18384,4-Evening, 682 , 153 
+SAT,703,TO DAYBREAK    ,0,5,900 East Station,18381,1-AM Peak, 47 , 8 
+SAT,703,TO DAYBREAK    ,0,5,900 East Station,18381,2-Midday, 171 , 82 
+SAT,703,TO DAYBREAK    ,0,5,900 East Station,18381,3-PM Peak, 81 , 86 
+SAT,703,TO DAYBREAK    ,0,5,900 East Station,18381,4-Evening, 58 , 123 
+SAT,703,TO DAYBREAK    ,0,6,Trolley Station,18379,1-AM Peak, 54 , 20 
+SAT,703,TO DAYBREAK    ,0,6,Trolley Station,18379,2-Midday, 249 , 189 
+SAT,703,TO DAYBREAK    ,0,6,Trolley Station,18379,3-PM Peak, 158 , 166 
+SAT,703,TO DAYBREAK    ,0,6,Trolley Station,18379,4-Evening, 100 , 188 
+SAT,703,TO DAYBREAK    ,0,7,Library Station,18377,1-AM Peak, 35 , 22 
+SAT,703,TO DAYBREAK    ,0,7,Library Station,18377,2-Midday, 216 , 139 
+SAT,703,TO DAYBREAK    ,0,7,Library Station,18377,3-PM Peak, 174 , 81 
+SAT,703,TO DAYBREAK    ,0,7,Library Station,18377,4-Evening, 65 , 71 
+SAT,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,1-AM Peak, 26 , 101 
+SAT,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,2-Midday, 127 , 437 
+SAT,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,3-PM Peak, 132 , 335 
+SAT,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,4-Evening, 112 , 251 
+SAT,703,TO DAYBREAK    ,0,9,900 South Station,20973,1-AM Peak, 25 , 8 
+SAT,703,TO DAYBREAK    ,0,9,900 South Station,20973,2-Midday, 57 , 56 
+SAT,703,TO DAYBREAK    ,0,9,900 South Station,20973,3-PM Peak, 34 , 41 
+SAT,703,TO DAYBREAK    ,0,9,900 South Station,20973,4-Evening, 31 , 28 
+SAT,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,1-AM Peak, 22 , 15 
+SAT,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,2-Midday, 88 , 99 
+SAT,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,3-PM Peak, 49 , 65 
+SAT,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,4-Evening, 30 , 54 
+SAT,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,1-AM Peak, 63 , 32 
+SAT,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,2-Midday, 197 , 105 
+SAT,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,3-PM Peak, 133 , 60 
+SAT,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,4-Evening, 88 , 53 
+SAT,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,1-AM Peak, 28 , 34 
+SAT,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,2-Midday, 65 , 118 
+SAT,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,3-PM Peak, 35 , 79 
+SAT,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,4-Evening, 24 , 55 
+SAT,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,1-AM Peak, 18 , 21 
+SAT,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,2-Midday, 42 , 89 
+SAT,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,3-PM Peak, 23 , 68 
+SAT,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,4-Evening, 17 , 50 
+SAT,703,TO DAYBREAK    ,0,14,Murray North Station,18392,1-AM Peak, 21 , 17 
+SAT,703,TO DAYBREAK    ,0,14,Murray North Station,18392,2-Midday, 40 , 77 
+SAT,703,TO DAYBREAK    ,0,14,Murray North Station,18392,3-PM Peak, 22 , 48 
+SAT,703,TO DAYBREAK    ,0,14,Murray North Station,18392,4-Evening, 13 , 44 
+SAT,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,1-AM Peak, 35 , 73 
+SAT,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,2-Midday, 103 , 208 
+SAT,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,3-PM Peak, 62 , 150 
+SAT,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,4-Evening, 50 , 136 
+SAT,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,1-AM Peak, 19 , 45 
+SAT,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,2-Midday, 71 , 141 
+SAT,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,3-PM Peak, 66 , 95 
+SAT,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,4-Evening, 48 , 69 
+SAT,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,1-AM Peak, -   , -   
+SAT,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,2-Midday, -   , -   
+SAT,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,3-PM Peak, -   , 2 
+SAT,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,4-Evening, -   , -   
+SAT,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,1-AM Peak, 4 , 21 
+SAT,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,2-Midday, 12 , 50 
+SAT,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,3-PM Peak, 6 , 41 
+SAT,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,4-Evening, 3 , 33 
+SAT,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,1-AM Peak, 2 , 7 
+SAT,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,2-Midday, 16 , 42 
+SAT,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,3-PM Peak, 10 , 29 
+SAT,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,4-Evening, 19 , 24 
+SAT,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,1-AM Peak, 6 , 22 
+SAT,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,2-Midday, 19 , 70 
+SAT,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,3-PM Peak, 11 , 51 
+SAT,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,4-Evening, 5 , 46 
+SAT,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,1-AM Peak, 0 , 5 
+SAT,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,2-Midday, 4 , 33 
+SAT,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,3-PM Peak, 1 , 32 
+SAT,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,4-Evening, 1 , 35 
+SAT,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,1-AM Peak, 1 , 15 
+SAT,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,2-Midday, 3 , 47 
+SAT,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,3-PM Peak, 2 , 41 
+SAT,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,4-Evening, 2 , 34 
+SAT,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,1-AM Peak, 1 , 12 
+SAT,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,2-Midday, 2 , 59 
+SAT,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,3-PM Peak, 2 , 71 
+SAT,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,4-Evening, 1 , 68 
+SAT,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,1-AM Peak, 0 , 4 
+SAT,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,2-Midday, 0 , 15 
+SAT,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,3-PM Peak, 1 , 15 
+SAT,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,4-Evening, 1 , 16 
+SAT,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,1-AM Peak, 1 , 3 
+SAT,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,2-Midday, 3 , 17 
+SAT,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,3-PM Peak, 2 , 17 
+SAT,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,4-Evening, 1 , 20 
+SAT,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,1-AM Peak, 1 , 58 
+SAT,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,2-Midday, -   , 156 
+SAT,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,3-PM Peak, 0 , 137 
+SAT,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,4-Evening, 0 , 103 
+SAT,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,1-AM Peak, 98 , 8 
+SAT,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,2-Midday, 264 , 15 
+SAT,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,3-PM Peak, 189 , 5 
+SAT,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,4-Evening, 56 , 5 
+SAT,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,1-AM Peak, 12 , 0 
+SAT,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,2-Midday, 28 , 3 
+SAT,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,3-PM Peak, 25 , 4 
+SAT,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,4-Evening, 5 , 1 
+SAT,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,1-AM Peak, 12 , 0 
+SAT,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,2-Midday, 26 , 1 
+SAT,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,3-PM Peak, 18 , 1 
+SAT,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,4-Evening, 5 , 1 
+SAT,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,1-AM Peak, 49 , 1 
+SAT,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,2-Midday, 129 , 3 
+SAT,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,3-PM Peak, 87 , 2 
+SAT,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,4-Evening, 23 , 1 
+SAT,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,1-AM Peak, 29 , 1 
+SAT,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,2-Midday, 65 , 4 
+SAT,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,3-PM Peak, 44 , 4 
+SAT,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,4-Evening, 14 , 1 
+SAT,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,1-AM Peak, 24 , 1 
+SAT,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,2-Midday, 62 , 5 
+SAT,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,3-PM Peak, 48 , 3 
+SAT,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,4-Evening, 13 , 2 
+SAT,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,1-AM Peak, 37 , 7 
+SAT,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,2-Midday, 102 , 20 
+SAT,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,3-PM Peak, 67 , 9 
+SAT,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,4-Evening, 26 , 5 
+SAT,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,1-AM Peak, 10 , 2 
+SAT,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,2-Midday, 49 , 21 
+SAT,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,3-PM Peak, 37 , 17 
+SAT,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,4-Evening, 16 , 10 
+SAT,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,1-AM Peak, 27 , 2 
+SAT,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,2-Midday, 83 , 11 
+SAT,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,3-PM Peak, 47 , 5 
+SAT,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,4-Evening, 16 , 4 
+SAT,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,1-AM Peak, 1 , -   
+SAT,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,2-Midday, -   , -   
+SAT,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,3-PM Peak, -   , -   
+SAT,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,4-Evening, -   , -   
+SAT,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,1-AM Peak, 41 , 32 
+SAT,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,2-Midday, 125 , 89 
+SAT,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,3-PM Peak, 80 , 50 
+SAT,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,4-Evening, 25 , 18 
+SAT,703,TO MEDICAL     ,1,12,Murray Central Station,18393,1-AM Peak, 87 , 31 
+SAT,703,TO MEDICAL     ,1,12,Murray Central Station,18393,2-Midday, 249 , 84 
+SAT,703,TO MEDICAL     ,1,12,Murray Central Station,18393,3-PM Peak, 173 , 46 
+SAT,703,TO MEDICAL     ,1,12,Murray Central Station,18393,4-Evening, 55 , 16 
+SAT,703,TO MEDICAL     ,1,13,Murray North Station,18391,1-AM Peak, 32 , 12 
+SAT,703,TO MEDICAL     ,1,13,Murray North Station,18391,2-Midday, 87 , 29 
+SAT,703,TO MEDICAL     ,1,13,Murray North Station,18391,3-PM Peak, 45 , 23 
+SAT,703,TO MEDICAL     ,1,13,Murray North Station,18391,4-Evening, 24 , 10 
+SAT,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,1-AM Peak, 46 , 9 
+SAT,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,2-Midday, 109 , 42 
+SAT,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,3-PM Peak, 48 , 25 
+SAT,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,4-Evening, 18 , 13 
+SAT,703,TO MEDICAL     ,1,15,Millcreek Station,18387,1-AM Peak, 56 , 28 
+SAT,703,TO MEDICAL     ,1,15,Millcreek Station,18387,2-Midday, 129 , 67 
+SAT,703,TO MEDICAL     ,1,15,Millcreek Station,18387,3-PM Peak, 61 , 35 
+SAT,703,TO MEDICAL     ,1,15,Millcreek Station,18387,4-Evening, 27 , 16 
+SAT,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,1-AM Peak, 33 , 63 
+SAT,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,2-Midday, 107 , 158 
+SAT,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,3-PM Peak, 67 , 83 
+SAT,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,4-Evening, 28 , 37 
+SAT,703,TO MEDICAL     ,1,17,Ballpark Station,18411,1-AM Peak, 31 , 24 
+SAT,703,TO MEDICAL     ,1,17,Ballpark Station,18411,2-Midday, 118 , 82 
+SAT,703,TO MEDICAL     ,1,17,Ballpark Station,18411,3-PM Peak, 75 , 49 
+SAT,703,TO MEDICAL     ,1,17,Ballpark Station,18411,4-Evening, 22 , 22 
+SAT,703,TO MEDICAL     ,1,18,900 South Station,20982,1-AM Peak, 26 , 27 
+SAT,703,TO MEDICAL     ,1,18,900 South Station,20982,2-Midday, 73 , 62 
+SAT,703,TO MEDICAL     ,1,18,900 South Station,20982,3-PM Peak, 28 , 32 
+SAT,703,TO MEDICAL     ,1,18,900 South Station,20982,4-Evening, 16 , 19 
+SAT,703,TO MEDICAL     ,1,19,Courthouse Station,18409,1-AM Peak, 147 , 136 
+SAT,703,TO MEDICAL     ,1,19,Courthouse Station,18409,2-Midday, 573 , 270 
+SAT,703,TO MEDICAL     ,1,19,Courthouse Station,18409,3-PM Peak, 305 , 204 
+SAT,703,TO MEDICAL     ,1,19,Courthouse Station,18409,4-Evening, 169 , 65 
+SAT,703,TO MEDICAL     ,1,20,Library Station,18378,1-AM Peak, 47 , 74 
+SAT,703,TO MEDICAL     ,1,20,Library Station,18378,2-Midday, 185 , 235 
+SAT,703,TO MEDICAL     ,1,20,Library Station,18378,3-PM Peak, 100 , 93 
+SAT,703,TO MEDICAL     ,1,20,Library Station,18378,4-Evening, 38 , 36 
+SAT,703,TO MEDICAL     ,1,21,Trolley Station,18380,1-AM Peak, 58 , 78 
+SAT,703,TO MEDICAL     ,1,21,Trolley Station,18380,2-Midday, 303 , 324 
+SAT,703,TO MEDICAL     ,1,21,Trolley Station,18380,3-PM Peak, 192 , 157 
+SAT,703,TO MEDICAL     ,1,21,Trolley Station,18380,4-Evening, 79 , 81 
+SAT,703,TO MEDICAL     ,1,22,900 East Station,18382,1-AM Peak, 51 , 46 
+SAT,703,TO MEDICAL     ,1,22,900 East Station,18382,2-Midday, 185 , 143 
+SAT,703,TO MEDICAL     ,1,22,900 East Station,18382,3-PM Peak, 115 , 78 
+SAT,703,TO MEDICAL     ,1,22,900 East Station,18382,4-Evening, 33 , 50 
+SAT,703,TO MEDICAL     ,1,23,Stadium Station,18383,1-AM Peak, 17 , 188 
+SAT,703,TO MEDICAL     ,1,23,Stadium Station,18383,2-Midday, 200 , 864 
+SAT,703,TO MEDICAL     ,1,23,Stadium Station,18383,3-PM Peak, 180 , 653 
+SAT,703,TO MEDICAL     ,1,23,Stadium Station,18383,4-Evening, 221 , 181 
+SAT,703,TO MEDICAL     ,1,24,University South Campus Station,19166,1-AM Peak, 1 , 82 
+SAT,703,TO MEDICAL     ,1,24,University South Campus Station,19166,2-Midday, 13 , 244 
+SAT,703,TO MEDICAL     ,1,24,University South Campus Station,19166,3-PM Peak, 9 , 148 
+SAT,703,TO MEDICAL     ,1,24,University South Campus Station,19166,4-Evening, 9 , 64 
+SAT,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,1-AM Peak, 3 , 45 
+SAT,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,2-Midday, 9 , 310 
+SAT,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,3-PM Peak, 4 , 192 
+SAT,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,4-Evening, 5 , 155 
+SAT,703,TO MEDICAL     ,1,26,University Medical Center,19170,1-AM Peak, -   , 81 
+SAT,703,TO MEDICAL     ,1,26,University Medical Center,19170,2-Midday, -   , 192 
+SAT,703,TO MEDICAL     ,1,26,University Medical Center,19170,3-PM Peak, -   , 125 
+SAT,703,TO MEDICAL     ,1,26,University Medical Center,19170,4-Evening, -   , 128 
+SAT,704,TO WEST VALLEY ,0,1,Airport Station,23049,1-AM Peak, 123 , 4 
+SAT,704,TO WEST VALLEY ,0,1,Airport Station,23049,2-Midday, 434 , 8 
+SAT,704,TO WEST VALLEY ,0,1,Airport Station,23049,3-PM Peak, 242 , 3 
+SAT,704,TO WEST VALLEY ,0,1,Airport Station,23049,4-Evening, 169 , 2 
+SAT,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,1-AM Peak, 76 , 6 
+SAT,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,2-Midday, 170 , 33 
+SAT,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,3-PM Peak, 73 , 22 
+SAT,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,4-Evening, 39 , 18 
+SAT,704,TO WEST VALLEY ,0,3,Power Station,23046,1-AM Peak, 55 , 6 
+SAT,704,TO WEST VALLEY ,0,3,Power Station,23046,2-Midday, 116 , 11 
+SAT,704,TO WEST VALLEY ,0,3,Power Station,23046,3-PM Peak, 52 , 14 
+SAT,704,TO WEST VALLEY ,0,3,Power Station,23046,4-Evening, 32 , 6 
+SAT,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,1-AM Peak, 9 , 3 
+SAT,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,2-Midday, 71 , 19 
+SAT,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,3-PM Peak, 56 , 15 
+SAT,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,4-Evening, 58 , 12 
+SAT,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,1-AM Peak, 69 , 17 
+SAT,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,2-Midday, 219 , 70 
+SAT,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,3-PM Peak, 112 , 35 
+SAT,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,4-Evening, 71 , 22 
+SAT,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,1-AM Peak, 67 , 42 
+SAT,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,2-Midday, 296 , 174 
+SAT,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,3-PM Peak, 159 , 100 
+SAT,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,4-Evening, 68 , 77 
+SAT,704,TO WEST VALLEY ,0,7,Arena Station,18406,1-AM Peak, 21 , 34 
+SAT,704,TO WEST VALLEY ,0,7,Arena Station,18406,2-Midday, 116 , 118 
+SAT,704,TO WEST VALLEY ,0,7,Arena Station,18406,3-PM Peak, 71 , 79 
+SAT,704,TO WEST VALLEY ,0,7,Arena Station,18406,4-Evening, 54 , 40 
+SAT,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,1-AM Peak, 9 , 62 
+SAT,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,2-Midday, 51 , 196 
+SAT,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,3-PM Peak, 48 , 91 
+SAT,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,4-Evening, 42 , 39 
+SAT,704,TO WEST VALLEY ,0,9,City Center Station,18386,1-AM Peak, 21 , 51 
+SAT,704,TO WEST VALLEY ,0,9,City Center Station,18386,2-Midday, 177 , 240 
+SAT,704,TO WEST VALLEY ,0,9,City Center Station,18386,3-PM Peak, 149 , 134 
+SAT,704,TO WEST VALLEY ,0,9,City Center Station,18386,4-Evening, 117 , 69 
+SAT,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,1-AM Peak, 14 , 23 
+SAT,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,2-Midday, 78 , 96 
+SAT,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,3-PM Peak, 50 , 52 
+SAT,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,4-Evening, 29 , 39 
+SAT,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,1-AM Peak, 22 , 74 
+SAT,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,2-Midday, 66 , 309 
+SAT,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,3-PM Peak, 48 , 181 
+SAT,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,4-Evening, 26 , 138 
+SAT,704,TO WEST VALLEY ,0,12,900 South Station,20973,1-AM Peak, 17 , 20 
+SAT,704,TO WEST VALLEY ,0,12,900 South Station,20973,2-Midday, 40 , 67 
+SAT,704,TO WEST VALLEY ,0,12,900 South Station,20973,3-PM Peak, 23 , 35 
+SAT,704,TO WEST VALLEY ,0,12,900 South Station,20973,4-Evening, 14 , 30 
+SAT,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,1-AM Peak, 27 , 41 
+SAT,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,2-Midday, 78 , 125 
+SAT,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,3-PM Peak, 39 , 64 
+SAT,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,4-Evening, 27 , 49 
+SAT,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,1-AM Peak, 38 , 66 
+SAT,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,2-Midday, 150 , 167 
+SAT,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,3-PM Peak, 86 , 92 
+SAT,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,4-Evening, 56 , 66 
+SAT,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,1-AM Peak, -   , -   
+SAT,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,2-Midday, -   , 0 
+SAT,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,3-PM Peak, -   , -   
+SAT,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,4-Evening, -   , -   
+SAT,704,TO WEST VALLEY ,0,16,River Trail Station,22645,1-AM Peak, 4 , 12 
+SAT,704,TO WEST VALLEY ,0,16,River Trail Station,22645,2-Midday, 13 , 45 
+SAT,704,TO WEST VALLEY ,0,16,River Trail Station,22645,3-PM Peak, 5 , 19 
+SAT,704,TO WEST VALLEY ,0,16,River Trail Station,22645,4-Evening, 3 , 11 
+SAT,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,1-AM Peak, 8 , 24 
+SAT,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,2-Midday, 30 , 81 
+SAT,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,3-PM Peak, 13 , 42 
+SAT,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,4-Evening, 6 , 22 
+SAT,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,1-AM Peak, 6 , 13 
+SAT,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,2-Midday, 19 , 53 
+SAT,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,3-PM Peak, 8 , 62 
+SAT,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,4-Evening, 4 , 46 
+SAT,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,1-AM Peak, -   , 91 
+SAT,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,2-Midday, 2 , 312 
+SAT,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,3-PM Peak, -   , 197 
+SAT,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,4-Evening, 1 , 129 
+SAT,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,1-AM Peak, 129 , 5 
+SAT,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,2-Midday, 341 , 8 
+SAT,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,3-PM Peak, 203 , 5 
+SAT,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,4-Evening, 107 , 5 
+SAT,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,1-AM Peak, 40 , 2 
+SAT,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,2-Midday, 91 , 16 
+SAT,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,3-PM Peak, 54 , 10 
+SAT,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,4-Evening, 21 , 7 
+SAT,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,1-AM Peak, 32 , 6 
+SAT,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,2-Midday, 88 , 24 
+SAT,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,3-PM Peak, 37 , 14 
+SAT,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,4-Evening, 22 , 7 
+SAT,704,TO AIRPORT     ,1,4,River Trail Station,22646,1-AM Peak, 15 , 3 
+SAT,704,TO AIRPORT     ,1,4,River Trail Station,22646,2-Midday, 35 , 9 
+SAT,704,TO AIRPORT     ,1,4,River Trail Station,22646,3-PM Peak, 16 , 7 
+SAT,704,TO AIRPORT     ,1,4,River Trail Station,22646,4-Evening, 11 , 3 
+SAT,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,1-AM Peak, -   , -   
+SAT,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,2-Midday, -   , -   
+SAT,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,3-PM Peak, -   , -   
+SAT,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,4-Evening, -   , -   
+SAT,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,1-AM Peak, 46 , 61 
+SAT,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,2-Midday, 137 , 166 
+SAT,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,3-PM Peak, 88 , 88 
+SAT,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,4-Evening, 36 , 45 
+SAT,704,TO AIRPORT     ,1,7,Ballpark Station,18411,1-AM Peak, 30 , 15 
+SAT,704,TO AIRPORT     ,1,7,Ballpark Station,18411,2-Midday, 93 , 55 
+SAT,704,TO AIRPORT     ,1,7,Ballpark Station,18411,3-PM Peak, 62 , 29 
+SAT,704,TO AIRPORT     ,1,7,Ballpark Station,18411,4-Evening, 31 , 14 
+SAT,704,TO AIRPORT     ,1,8,900 South Station,20982,1-AM Peak, 21 , 15 
+SAT,704,TO AIRPORT     ,1,8,900 South Station,20982,2-Midday, 57 , 35 
+SAT,704,TO AIRPORT     ,1,8,900 South Station,20982,3-PM Peak, 28 , 19 
+SAT,704,TO AIRPORT     ,1,8,900 South Station,20982,4-Evening, 19 , 14 
+SAT,704,TO AIRPORT     ,1,9,Courthouse Station,18409,1-AM Peak, 83 , 34 
+SAT,704,TO AIRPORT     ,1,9,Courthouse Station,18409,2-Midday, 232 , 73 
+SAT,704,TO AIRPORT     ,1,9,Courthouse Station,18409,3-PM Peak, 187 , 32 
+SAT,704,TO AIRPORT     ,1,9,Courthouse Station,18409,4-Evening, 79 , 23 
+SAT,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,1-AM Peak, 34 , 24 
+SAT,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,2-Midday, 93 , 70 
+SAT,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,3-PM Peak, 67 , 35 
+SAT,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,4-Evening, 37 , 15 
+SAT,704,TO AIRPORT     ,1,11,City Center Station,18385,1-AM Peak, 28 , 47 
+SAT,704,TO AIRPORT     ,1,11,City Center Station,18385,2-Midday, 176 , 175 
+SAT,704,TO AIRPORT     ,1,11,City Center Station,18385,3-PM Peak, 157 , 112 
+SAT,704,TO AIRPORT     ,1,11,City Center Station,18385,4-Evening, 91 , 38 
+SAT,704,TO AIRPORT     ,1,12,Temple Square Station,18407,1-AM Peak, 24 , 25 
+SAT,704,TO AIRPORT     ,1,12,Temple Square Station,18407,2-Midday, 122 , 62 
+SAT,704,TO AIRPORT     ,1,12,Temple Square Station,18407,3-PM Peak, 102 , 60 
+SAT,704,TO AIRPORT     ,1,12,Temple Square Station,18407,4-Evening, 71 , 26 
+SAT,704,TO AIRPORT     ,1,13,Arena Station,18405,1-AM Peak, 50 , 27 
+SAT,704,TO AIRPORT     ,1,13,Arena Station,18405,2-Midday, 146 , 113 
+SAT,704,TO AIRPORT     ,1,13,Arena Station,18405,3-PM Peak, 77 , 125 
+SAT,704,TO AIRPORT     ,1,13,Arena Station,18405,4-Evening, 58 , 53 
+SAT,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,1-AM Peak, 40 , 29 
+SAT,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,2-Midday, 145 , 171 
+SAT,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,3-PM Peak, 69 , 159 
+SAT,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,4-Evening, 42 , 122 
+SAT,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,1-AM Peak, 17 , 47 
+SAT,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,2-Midday, 61 , 191 
+SAT,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,3-PM Peak, 34 , 121 
+SAT,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,4-Evening, 18 , 71 
+SAT,704,TO AIRPORT     ,1,16,Fairpark Station,23043,1-AM Peak, 6 , 12 
+SAT,704,TO AIRPORT     ,1,16,Fairpark Station,23043,2-Midday, 17 , 130 
+SAT,704,TO AIRPORT     ,1,16,Fairpark Station,23043,3-PM Peak, 11 , 104 
+SAT,704,TO AIRPORT     ,1,16,Fairpark Station,23043,4-Evening, 8 , 41 
+SAT,704,TO AIRPORT     ,1,17,Power Station,23045,1-AM Peak, 10 , 22 
+SAT,704,TO AIRPORT     ,1,17,Power Station,23045,2-Midday, 13 , 85 
+SAT,704,TO AIRPORT     ,1,17,Power Station,23045,3-PM Peak, 4 , 68 
+SAT,704,TO AIRPORT     ,1,17,Power Station,23045,4-Evening, 3 , 40 
+SAT,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,1-AM Peak, 26 , 30 
+SAT,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,2-Midday, 34 , 118 
+SAT,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,3-PM Peak, 5 , 91 
+SAT,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,4-Evening, 4 , 54 
+SAT,704,TO AIRPORT     ,1,19,Airport Station,23049,1-AM Peak, -   , 228 
+SAT,704,TO AIRPORT     ,1,19,Airport Station,23049,2-Midday, -   , 378 
+SAT,704,TO AIRPORT     ,1,19,Airport Station,23049,3-PM Peak, -   , 118 
+SAT,704,TO AIRPORT     ,1,19,Airport Station,23049,4-Evening, -   , 82 
+SAT,710,TO DRAPER      ,0,1,University Medical Center,19171,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,1,University Medical Center,19171,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,1,University Medical Center,19171,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,2,Fort Douglas Station,19169,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,2,Fort Douglas Station,19169,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,2,Fort Douglas Station,19169,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,3,University South Campus Station,19167,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,3,University South Campus Station,19167,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,3,University South Campus Station,19167,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,4,Stadium Station,18384,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,4,Stadium Station,18384,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,4,Stadium Station,18384,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,5,900 East Station,18381,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,5,900 East Station,18381,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,5,900 East Station,18381,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,6,Trolley Station,18379,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,6,Trolley Station,18379,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,6,Trolley Station,18379,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,7,Library Station,18377,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,7,Library Station,18377,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,7,Library Station,18377,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,8,Courthouse Station,18410,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,8,Courthouse Station,18410,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,8,Courthouse Station,18410,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,9,900 South Station,20973,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,9,900 South Station,20973,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,9,900 South Station,20973,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,10,Ballpark Station,18412,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,10,Ballpark Station,18412,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,10,Ballpark Station,18412,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,11,Central Pointe Station,18414,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,11,Central Pointe Station,18414,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,11,Central Pointe Station,18414,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,11,Central Pointe Station,18414,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,12,Millcreek Station,18388,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,12,Millcreek Station,18388,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,12,Millcreek Station,18388,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,13,Meadowbrook Station,18390,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,13,Meadowbrook Station,18390,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,13,Meadowbrook Station,18390,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,14,Murray North Station,18392,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,14,Murray North Station,18392,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,14,Murray North Station,18392,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,15,Murray Central Station,18394,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,15,Murray Central Station,18394,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,15,Murray Central Station,18394,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,16,Fashion Place West Station,18396,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,16,Fashion Place West Station,18396,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,16,Fashion Place West Station,18396,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,18,Midvale Center Station,18400,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,18,Midvale Center Station,18400,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,18,Midvale Center Station,18400,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,18,Midvale Center Station,18400,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,19,Historic Sandy Staion,18402,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,19,Historic Sandy Staion,18402,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,19,Historic Sandy Staion,18402,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,19,Historic Sandy Staion,18402,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,20,Sandy Expo Station,21226,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,20,Sandy Expo Station,21226,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,20,Sandy Expo Station,21226,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,20,Sandy Expo Station,21226,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,22,Crescent View Station,23319,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,22,Crescent View Station,23319,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,22,Crescent View Station,23319,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,22,Crescent View Station,23319,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,23,Kimballs Lane Station,23321,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,23,Kimballs Lane Station,23321,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,23,Kimballs Lane Station,23321,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,23,Kimballs Lane Station,23321,4-Evening, NULL , NULL 
+SAT,710,TO DRAPER      ,0,24,Draper Town Center,23323,1-AM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,24,Draper Town Center,23323,2-Midday, NULL , NULL 
+SAT,710,TO DRAPER      ,0,24,Draper Town Center,23323,3-PM Peak, NULL , NULL 
+SAT,710,TO DRAPER      ,0,24,Draper Town Center,23323,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,1,Draper Town Center,23323,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,1,Draper Town Center,23323,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,1,Draper Town Center,23323,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,1,Draper Town Center,23323,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,2,Kimballs Lane Station,23320,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,2,Kimballs Lane Station,23320,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,2,Kimballs Lane Station,23320,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,2,Kimballs Lane Station,23320,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,3,Crescent View Station,23318,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,3,Crescent View Station,23318,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,3,Crescent View Station,23318,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,3,Crescent View Station,23318,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,4,Sandy Civic Center Station,18403,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,4,Sandy Civic Center Station,18403,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,4,Sandy Civic Center Station,18403,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,4,Sandy Civic Center Station,18403,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,5,Sandy Expo Station,21225,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,5,Sandy Expo Station,21225,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,5,Sandy Expo Station,21225,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,5,Sandy Expo Station,21225,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,6,Historic Sandy Staion,18401,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,6,Historic Sandy Staion,18401,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,6,Historic Sandy Staion,18401,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,6,Historic Sandy Staion,18401,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,7,Midvale Center Station,18399,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,7,Midvale Center Station,18399,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,7,Midvale Center Station,18399,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,7,Midvale Center Station,18399,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,8,Midvale Fort Union Station,18397,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,8,Midvale Fort Union Station,18397,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,8,Midvale Fort Union Station,18397,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,8,Midvale Fort Union Station,18397,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,9,Fashion Place West Station,18395,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,9,Fashion Place West Station,18395,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,9,Fashion Place West Station,18395,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,9,Fashion Place West Station,18395,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,10,Murray Central Station,18393,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,10,Murray Central Station,18393,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,10,Murray Central Station,18393,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,10,Murray Central Station,18393,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,11,Murray North Station,18391,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,11,Murray North Station,18391,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,11,Murray North Station,18391,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,11,Murray North Station,18391,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,12,Meadowbrook Station,18389,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,12,Meadowbrook Station,18389,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,12,Meadowbrook Station,18389,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,12,Meadowbrook Station,18389,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,13,Millcreek Station,18387,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,13,Millcreek Station,18387,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,13,Millcreek Station,18387,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,13,Millcreek Station,18387,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,14,Central Pointe Station,18413,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,14,Central Pointe Station,18413,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,14,Central Pointe Station,18413,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,14,Central Pointe Station,18413,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,15,Ballpark Station,18411,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,15,Ballpark Station,18411,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,15,Ballpark Station,18411,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,15,Ballpark Station,18411,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,16,900 South Station,20982,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,16,900 South Station,20982,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,16,900 South Station,20982,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,16,900 South Station,20982,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,17,Courthouse Station,18409,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,17,Courthouse Station,18409,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,17,Courthouse Station,18409,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,17,Courthouse Station,18409,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,18,Library Station,18378,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,18,Library Station,18378,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,18,Library Station,18378,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,18,Library Station,18378,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,19,Trolley Station,18380,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,19,Trolley Station,18380,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,19,Trolley Station,18380,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,19,Trolley Station,18380,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,20,900 East Station,18382,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,20,900 East Station,18382,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,20,900 East Station,18382,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,20,900 East Station,18382,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,21,Stadium Station,18383,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,21,Stadium Station,18383,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,21,Stadium Station,18383,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,21,Stadium Station,18383,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,22,University South Campus Station,19166,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,22,University South Campus Station,19166,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,22,University South Campus Station,19166,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,22,University South Campus Station,19166,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,23,Fort Douglas Station,19168,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,23,Fort Douglas Station,19168,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,23,Fort Douglas Station,19168,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,23,Fort Douglas Station,19168,4-Evening, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,24,University Medical Center,19170,1-AM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,24,University Medical Center,19170,2-Midday, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,24,University Medical Center,19170,3-PM Peak, NULL , NULL 
+SAT,710,TO UNIVERSITY  ,1,24,University Medical Center,19170,4-Evening, NULL , NULL 
+SAT,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,1-AM Peak, 49 , 5 
+SAT,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,2-Midday, 176 , 17 
+SAT,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,3-PM Peak, 102 , 14 
+SAT,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,4-Evening, 66 , 10 
+SAT,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,1-AM Peak, 5 , 3 
+SAT,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,2-Midday, 18 , 21 
+SAT,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,3-PM Peak, 10 , 12 
+SAT,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,4-Evening, 7 , 8 
+SAT,720,TO FAIRMONT    ,0,3,300 East Station,23567,1-AM Peak, 3 , 3 
+SAT,720,TO FAIRMONT    ,0,3,300 East Station,23567,2-Midday, 16 , 17 
+SAT,720,TO FAIRMONT    ,0,3,300 East Station,23567,3-PM Peak, 6 , 10 
+SAT,720,TO FAIRMONT    ,0,3,300 East Station,23567,4-Evening, 6 , 8 
+SAT,720,TO FAIRMONT    ,0,4,500 East Station,23568,1-AM Peak, 4 , 6 
+SAT,720,TO FAIRMONT    ,0,4,500 East Station,23568,2-Midday, 18 , 25 
+SAT,720,TO FAIRMONT    ,0,4,500 East Station,23568,3-PM Peak, 14 , 22 
+SAT,720,TO FAIRMONT    ,0,4,500 East Station,23568,4-Evening, 3 , 12 
+SAT,720,TO FAIRMONT    ,0,5,700 East Station,23569,1-AM Peak, 2 , 13 
+SAT,720,TO FAIRMONT    ,0,5,700 East Station,23569,2-Midday, 7 , 34 
+SAT,720,TO FAIRMONT    ,0,5,700 East Station,23569,3-PM Peak, 5 , 17 
+SAT,720,TO FAIRMONT    ,0,5,700 East Station,23569,4-Evening, 4 , 9 
+SAT,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,1-AM Peak, 2 , 11 
+SAT,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,2-Midday, 11 , 44 
+SAT,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,3-PM Peak, 6 , 25 
+SAT,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,4-Evening, 3 , 14 
+SAT,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,1-AM Peak, -   , 25 
+SAT,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,2-Midday, -   , 86 
+SAT,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,3-PM Peak, -   , 43 
+SAT,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,4-Evening, -   , 27 
+SAT,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,1-AM Peak, 23 , 5 
+SAT,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,2-Midday, 89 , 13 
+SAT,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,3-PM Peak, 60 , 9 
+SAT,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,4-Evening, 39 , 7 
+SAT,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,1-AM Peak, 5 , 0 
+SAT,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,2-Midday, 30 , 3 
+SAT,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,3-PM Peak, 16 , 3 
+SAT,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,4-Evening, 10 , 1 
+SAT,720,TO CENTRAL PNTE,1,3,700 East Station,23569,1-AM Peak, 8 , 1 
+SAT,720,TO CENTRAL PNTE,1,3,700 East Station,23569,2-Midday, 35 , 6 
+SAT,720,TO CENTRAL PNTE,1,3,700 East Station,23569,3-PM Peak, 24 , 3 
+SAT,720,TO CENTRAL PNTE,1,3,700 East Station,23569,4-Evening, 14 , 4 
+SAT,720,TO CENTRAL PNTE,1,4,500 East Station,23568,1-AM Peak, 14 , 1 
+SAT,720,TO CENTRAL PNTE,1,4,500 East Station,23568,2-Midday, 30 , 15 
+SAT,720,TO CENTRAL PNTE,1,4,500 East Station,23568,3-PM Peak, 16 , 11 
+SAT,720,TO CENTRAL PNTE,1,4,500 East Station,23568,4-Evening, 9 , 7 
+SAT,720,TO CENTRAL PNTE,1,5,300 East Station,23567,1-AM Peak, 10 , 0 
+SAT,720,TO CENTRAL PNTE,1,5,300 East Station,23567,2-Midday, 21 , 10 
+SAT,720,TO CENTRAL PNTE,1,5,300 East Station,23567,3-PM Peak, 12 , 9 
+SAT,720,TO CENTRAL PNTE,1,5,300 East Station,23567,4-Evening, 6 , 6 
+SAT,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,1-AM Peak, 4 , 2 
+SAT,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,2-Midday, 19 , 20 
+SAT,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,3-PM Peak, 13 , 12 
+SAT,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,4-Evening, 6 , 8 
+SAT,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,1-AM Peak, -   , 54 
+SAT,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,2-Midday, -   , 156 
+SAT,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,3-PM Peak, -   , 94 
+SAT,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,4-Evening, -   , 52 
+SUN,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,1-AM Peak, 57 , 4 
+SUN,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,2-Midday, 141 , 10 
+SUN,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,3-PM Peak, 52 , 4 
+SUN,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,4-Evening, 33 , 5 
+SUN,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,1-AM Peak, 68 , 5 
+SUN,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,2-Midday, 141 , 16 
+SUN,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,3-PM Peak, 54 , 9 
+SUN,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,4-Evening, 35 , 3 
+SUN,701,TO DRAPER      ,0,3,Planetarium Station,21762,1-AM Peak, 30 , 3 
+SUN,701,TO DRAPER      ,0,3,Planetarium Station,21762,2-Midday, 118 , 14 
+SUN,701,TO DRAPER      ,0,3,Planetarium Station,21762,3-PM Peak, 74 , 6 
+SUN,701,TO DRAPER      ,0,3,Planetarium Station,21762,4-Evening, 29 , 3 
+SUN,701,TO DRAPER      ,0,4,Arena Station,18406,1-AM Peak, 19 , 13 
+SUN,701,TO DRAPER      ,0,4,Arena Station,18406,2-Midday, 84 , 37 
+SUN,701,TO DRAPER      ,0,4,Arena Station,18406,3-PM Peak, 47 , 22 
+SUN,701,TO DRAPER      ,0,4,Arena Station,18406,4-Evening, 24 , 13 
+SUN,701,TO DRAPER      ,0,5,Temple Square Station,18408,1-AM Peak, 14 , 21 
+SUN,701,TO DRAPER      ,0,5,Temple Square Station,18408,2-Midday, 115 , 41 
+SUN,701,TO DRAPER      ,0,5,Temple Square Station,18408,3-PM Peak, 99 , 11 
+SUN,701,TO DRAPER      ,0,5,Temple Square Station,18408,4-Evening, 12 , 4 
+SUN,701,TO DRAPER      ,0,6,City Center Station,18386,1-AM Peak, 24 , 26 
+SUN,701,TO DRAPER      ,0,6,City Center Station,18386,2-Midday, 163 , 73 
+SUN,701,TO DRAPER      ,0,6,City Center Station,18386,3-PM Peak, 128 , 36 
+SUN,701,TO DRAPER      ,0,6,City Center Station,18386,4-Evening, 36 , 16 
+SUN,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,1-AM Peak, 17 , 14 
+SUN,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,2-Midday, 72 , 44 
+SUN,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,3-PM Peak, 52 , 20 
+SUN,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,4-Evening, 28 , 15 
+SUN,701,TO DRAPER      ,0,8,Courthouse Station,18410,1-AM Peak, 28 , 54 
+SUN,701,TO DRAPER      ,0,8,Courthouse Station,18410,2-Midday, 81 , 249 
+SUN,701,TO DRAPER      ,0,8,Courthouse Station,18410,3-PM Peak, 59 , 114 
+SUN,701,TO DRAPER      ,0,8,Courthouse Station,18410,4-Evening, 28 , 47 
+SUN,701,TO DRAPER      ,0,9,900 South Station,20973,1-AM Peak, 21 , 11 
+SUN,701,TO DRAPER      ,0,9,900 South Station,20973,2-Midday, 48 , 39 
+SUN,701,TO DRAPER      ,0,9,900 South Station,20973,3-PM Peak, 27 , 24 
+SUN,701,TO DRAPER      ,0,9,900 South Station,20973,4-Evening, 14 , 15 
+SUN,701,TO DRAPER      ,0,10,Ballpark Station,18412,1-AM Peak, 22 , 27 
+SUN,701,TO DRAPER      ,0,10,Ballpark Station,18412,2-Midday, 72 , 93 
+SUN,701,TO DRAPER      ,0,10,Ballpark Station,18412,3-PM Peak, 54 , 57 
+SUN,701,TO DRAPER      ,0,10,Ballpark Station,18412,4-Evening, 29 , 23 
+SUN,701,TO DRAPER      ,0,11,Central Pointe Station,18414,1-AM Peak, 22 , 32 
+SUN,701,TO DRAPER      ,0,11,Central Pointe Station,18414,2-Midday, 84 , 83 
+SUN,701,TO DRAPER      ,0,11,Central Pointe Station,18414,3-PM Peak, 43 , 50 
+SUN,701,TO DRAPER      ,0,11,Central Pointe Station,18414,4-Evening, 23 , 22 
+SUN,701,TO DRAPER      ,0,12,Millcreek Station,18388,1-AM Peak, 17 , 22 
+SUN,701,TO DRAPER      ,0,12,Millcreek Station,18388,2-Midday, 51 , 64 
+SUN,701,TO DRAPER      ,0,12,Millcreek Station,18388,3-PM Peak, 27 , 40 
+SUN,701,TO DRAPER      ,0,12,Millcreek Station,18388,4-Evening, 12 , 17 
+SUN,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,1-AM Peak, 9 , 7 
+SUN,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,2-Midday, 31 , 49 
+SUN,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,3-PM Peak, 17 , 29 
+SUN,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,4-Evening, 8 , 14 
+SUN,701,TO DRAPER      ,0,14,Murray North Station,18392,1-AM Peak, 11 , 8 
+SUN,701,TO DRAPER      ,0,14,Murray North Station,18392,2-Midday, 25 , 39 
+SUN,701,TO DRAPER      ,0,14,Murray North Station,18392,3-PM Peak, 14 , 29 
+SUN,701,TO DRAPER      ,0,14,Murray North Station,18392,4-Evening, 8 , 18 
+SUN,701,TO DRAPER      ,0,15,Murray Central Station,18394,1-AM Peak, 15 , 24 
+SUN,701,TO DRAPER      ,0,15,Murray Central Station,18394,2-Midday, 51 , 69 
+SUN,701,TO DRAPER      ,0,15,Murray Central Station,18394,3-PM Peak, 26 , 63 
+SUN,701,TO DRAPER      ,0,15,Murray Central Station,18394,4-Evening, 10 , 14 
+SUN,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,1-AM Peak, 21 , 13 
+SUN,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,2-Midday, 68 , 69 
+SUN,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,3-PM Peak, 48 , 43 
+SUN,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,4-Evening, 24 , 15 
+SUN,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,1-AM Peak, 10 , 24 
+SUN,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,2-Midday, 30 , 82 
+SUN,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,3-PM Peak, 18 , 56 
+SUN,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,4-Evening, 12 , 32 
+SUN,701,TO DRAPER      ,0,18,Midvale Center Station,18400,1-AM Peak, 5 , 12 
+SUN,701,TO DRAPER      ,0,18,Midvale Center Station,18400,2-Midday, 14 , 46 
+SUN,701,TO DRAPER      ,0,18,Midvale Center Station,18400,3-PM Peak, 10 , 42 
+SUN,701,TO DRAPER      ,0,18,Midvale Center Station,18400,4-Evening, 5 , 21 
+SUN,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,1-AM Peak, 8 , 20 
+SUN,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,2-Midday, 13 , 65 
+SUN,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,3-PM Peak, 9 , 53 
+SUN,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,4-Evening, 3 , 22 
+SUN,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,1-AM Peak, 1 , 12 
+SUN,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,2-Midday, 5 , 32 
+SUN,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,3-PM Peak, 4 , 22 
+SUN,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,4-Evening, 5 , 4 
+SUN,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,1-AM Peak, 3 , 16 
+SUN,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,2-Midday, 5 , 53 
+SUN,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,3-PM Peak, 4 , 36 
+SUN,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,4-Evening, 2 , 15 
+SUN,701,TO DRAPER      ,0,22,Crescent View Station,23319,1-AM Peak, 1 , 11 
+SUN,701,TO DRAPER      ,0,22,Crescent View Station,23319,2-Midday, 3 , 33 
+SUN,701,TO DRAPER      ,0,22,Crescent View Station,23319,3-PM Peak, 2 , 30 
+SUN,701,TO DRAPER      ,0,22,Crescent View Station,23319,4-Evening, 0 , 14 
+SUN,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,1-AM Peak, 1 , 9 
+SUN,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,2-Midday, 3 , 21 
+SUN,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,3-PM Peak, 1 , 17 
+SUN,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,4-Evening, 1 , 6 
+SUN,701,TO DRAPER      ,0,24,Draper Town Center,23323,1-AM Peak, -   , 37 
+SUN,701,TO DRAPER      ,0,24,Draper Town Center,23323,2-Midday, 1 , 100 
+SUN,701,TO DRAPER      ,0,24,Draper Town Center,23323,3-PM Peak, -   , 56 
+SUN,701,TO DRAPER      ,0,24,Draper Town Center,23323,4-Evening, -   , 20 
+SUN,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,1-AM Peak, 43 , 9 
+SUN,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,2-Midday, 107 , 11 
+SUN,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,3-PM Peak, 51 , 6 
+SUN,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,4-Evening, 31 , 5 
+SUN,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,1-AM Peak, 6 , 0 
+SUN,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,2-Midday, 19 , 1 
+SUN,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,3-PM Peak, 14 , 1 
+SUN,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,4-Evening, 6 , 1 
+SUN,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,1-AM Peak, 14 , 1 
+SUN,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,2-Midday, 41 , 2 
+SUN,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,3-PM Peak, 16 , 2 
+SUN,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,4-Evening, 8 , 1 
+SUN,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,1-AM Peak, 19 , 2 
+SUN,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,2-Midday, 55 , 7 
+SUN,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,3-PM Peak, 34 , 4 
+SUN,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,4-Evening, 16 , 2 
+SUN,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,1-AM Peak, 9 , 1 
+SUN,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,2-Midday, 24 , 3 
+SUN,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,3-PM Peak, 18 , 5 
+SUN,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,4-Evening, 19 , 2 
+SUN,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,1-AM Peak, 31 , 3 
+SUN,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,2-Midday, 71 , 13 
+SUN,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,3-PM Peak, 39 , 10 
+SUN,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,4-Evening, 22 , 6 
+SUN,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,1-AM Peak, 26 , 2 
+SUN,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,2-Midday, 61 , 12 
+SUN,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,3-PM Peak, 28 , 12 
+SUN,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,4-Evening, 17 , 7 
+SUN,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,1-AM Peak, 30 , 8 
+SUN,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,2-Midday, 95 , 31 
+SUN,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,3-PM Peak, 45 , 19 
+SUN,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,4-Evening, 24 , 11 
+SUN,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,1-AM Peak, 16 , 14 
+SUN,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,2-Midday, 49 , 49 
+SUN,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,3-PM Peak, 33 , 27 
+SUN,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,4-Evening, 17 , 16 
+SUN,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,1-AM Peak, 30 , 14 
+SUN,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,2-Midday, 89 , 44 
+SUN,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,3-PM Peak, 39 , 24 
+SUN,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,4-Evening, 17 , 14 
+SUN,701,TO SALT LAKE CT,1,11,Murray North Station,18391,1-AM Peak, 22 , 7 
+SUN,701,TO SALT LAKE CT,1,11,Murray North Station,18391,2-Midday, 59 , 24 
+SUN,701,TO SALT LAKE CT,1,11,Murray North Station,18391,3-PM Peak, 23 , 18 
+SUN,701,TO SALT LAKE CT,1,11,Murray North Station,18391,4-Evening, 12 , 14 
+SUN,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,1-AM Peak, 27 , 9 
+SUN,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,2-Midday, 58 , 29 
+SUN,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,3-PM Peak, 25 , 17 
+SUN,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,4-Evening, 13 , 12 
+SUN,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,1-AM Peak, 33 , 15 
+SUN,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,2-Midday, 79 , 54 
+SUN,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,3-PM Peak, 35 , 30 
+SUN,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,4-Evening, 21 , 14 
+SUN,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,1-AM Peak, 45 , 42 
+SUN,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,2-Midday, 98 , 107 
+SUN,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,3-PM Peak, 50 , 56 
+SUN,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,4-Evening, 25 , 28 
+SUN,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,1-AM Peak, 40 , 20 
+SUN,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,2-Midday, 89 , 101 
+SUN,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,3-PM Peak, 41 , 59 
+SUN,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,4-Evening, 30 , 27 
+SUN,701,TO SALT LAKE CT,1,16,900 South Station,20982,1-AM Peak, 23 , 22 
+SUN,701,TO SALT LAKE CT,1,16,900 South Station,20982,2-Midday, 44 , 56 
+SUN,701,TO SALT LAKE CT,1,16,900 South Station,20982,3-PM Peak, 21 , 29 
+SUN,701,TO SALT LAKE CT,1,16,900 South Station,20982,4-Evening, 13 , 17 
+SUN,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,1-AM Peak, 110 , 58 
+SUN,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,2-Midday, 216 , 116 
+SUN,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,3-PM Peak, 115 , 49 
+SUN,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,4-Evening, 57 , 30 
+SUN,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,1-AM Peak, 19 , 40 
+SUN,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,2-Midday, 48 , 85 
+SUN,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,3-PM Peak, 29 , 33 
+SUN,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,4-Evening, 10 , 19 
+SUN,701,TO SALT LAKE CT,1,19,City Center Station,18385,1-AM Peak, 14 , 80 
+SUN,701,TO SALT LAKE CT,1,19,City Center Station,18385,2-Midday, 69 , 177 
+SUN,701,TO SALT LAKE CT,1,19,City Center Station,18385,3-PM Peak, 28 , 63 
+SUN,701,TO SALT LAKE CT,1,19,City Center Station,18385,4-Evening, 15 , 32 
+SUN,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,1-AM Peak, 7 , 89 
+SUN,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,2-Midday, 37 , 121 
+SUN,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,3-PM Peak, 20 , 37 
+SUN,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,4-Evening, 5 , 20 
+SUN,701,TO SALT LAKE CT,1,21,Arena Station,18405,1-AM Peak, 14 , 27 
+SUN,701,TO SALT LAKE CT,1,21,Arena Station,18405,2-Midday, 35 , 109 
+SUN,701,TO SALT LAKE CT,1,21,Arena Station,18405,3-PM Peak, 20 , 61 
+SUN,701,TO SALT LAKE CT,1,21,Arena Station,18405,4-Evening, 11 , 38 
+SUN,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,1-AM Peak, 4 , 22 
+SUN,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,2-Midday, 17 , 135 
+SUN,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,3-PM Peak, 6 , 73 
+SUN,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,4-Evening, 3 , 18 
+SUN,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,1-AM Peak, 14 , 53 
+SUN,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,2-Midday, 21 , 112 
+SUN,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,3-PM Peak, 9 , 66 
+SUN,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,4-Evening, 6 , 45 
+SUN,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,1-AM Peak, -   , 57 
+SUN,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,2-Midday, 0 , 81 
+SUN,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,3-PM Peak, -   , 40 
+SUN,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,4-Evening, -   , 22 
+SUN,703,TO DAYBREAK    ,0,1,University Medical Center,19171,1-AM Peak, 45 , 2 
+SUN,703,TO DAYBREAK    ,0,1,University Medical Center,19171,2-Midday, 70 , 1 
+SUN,703,TO DAYBREAK    ,0,1,University Medical Center,19171,3-PM Peak, 58 , 1 
+SUN,703,TO DAYBREAK    ,0,1,University Medical Center,19171,4-Evening, 43 , 1 
+SUN,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,1-AM Peak, 23 , 0 
+SUN,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,2-Midday, 168 , 3 
+SUN,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,3-PM Peak, 109 , 2 
+SUN,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,4-Evening, 54 , 1 
+SUN,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,1-AM Peak, 7 , 1 
+SUN,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,2-Midday, 74 , 5 
+SUN,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,3-PM Peak, 30 , 1 
+SUN,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,4-Evening, 16 , 1 
+SUN,703,TO DAYBREAK    ,0,4,Stadium Station,18384,1-AM Peak, 16 , 4 
+SUN,703,TO DAYBREAK    ,0,4,Stadium Station,18384,2-Midday, 88 , 29 
+SUN,703,TO DAYBREAK    ,0,4,Stadium Station,18384,3-PM Peak, 67 , 14 
+SUN,703,TO DAYBREAK    ,0,4,Stadium Station,18384,4-Evening, 49 , 9 
+SUN,703,TO DAYBREAK    ,0,5,900 East Station,18381,1-AM Peak, 27 , 4 
+SUN,703,TO DAYBREAK    ,0,5,900 East Station,18381,2-Midday, 98 , 40 
+SUN,703,TO DAYBREAK    ,0,5,900 East Station,18381,3-PM Peak, 55 , 24 
+SUN,703,TO DAYBREAK    ,0,5,900 East Station,18381,4-Evening, 25 , 22 
+SUN,703,TO DAYBREAK    ,0,6,Trolley Station,18379,1-AM Peak, 31 , 13 
+SUN,703,TO DAYBREAK    ,0,6,Trolley Station,18379,2-Midday, 155 , 132 
+SUN,703,TO DAYBREAK    ,0,6,Trolley Station,18379,3-PM Peak, 107 , 104 
+SUN,703,TO DAYBREAK    ,0,6,Trolley Station,18379,4-Evening, 69 , 55 
+SUN,703,TO DAYBREAK    ,0,7,Library Station,18377,1-AM Peak, 20 , 12 
+SUN,703,TO DAYBREAK    ,0,7,Library Station,18377,2-Midday, 115 , 87 
+SUN,703,TO DAYBREAK    ,0,7,Library Station,18377,3-PM Peak, 113 , 44 
+SUN,703,TO DAYBREAK    ,0,7,Library Station,18377,4-Evening, 35 , 23 
+SUN,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,1-AM Peak, 20 , 51 
+SUN,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,2-Midday, 72 , 203 
+SUN,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,3-PM Peak, 71 , 156 
+SUN,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,4-Evening, 34 , 71 
+SUN,703,TO DAYBREAK    ,0,9,900 South Station,20973,1-AM Peak, 12 , 6 
+SUN,703,TO DAYBREAK    ,0,9,900 South Station,20973,2-Midday, 44 , 35 
+SUN,703,TO DAYBREAK    ,0,9,900 South Station,20973,3-PM Peak, 26 , 24 
+SUN,703,TO DAYBREAK    ,0,9,900 South Station,20973,4-Evening, 21 , 19 
+SUN,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,1-AM Peak, 14 , 14 
+SUN,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,2-Midday, 58 , 63 
+SUN,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,3-PM Peak, 46 , 41 
+SUN,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,4-Evening, 24 , 20 
+SUN,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,1-AM Peak, 35 , 20 
+SUN,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,2-Midday, 136 , 61 
+SUN,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,3-PM Peak, 81 , 41 
+SUN,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,4-Evening, 55 , 23 
+SUN,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,1-AM Peak, 11 , 21 
+SUN,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,2-Midday, 35 , 86 
+SUN,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,3-PM Peak, 20 , 55 
+SUN,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,4-Evening, 13 , 32 
+SUN,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,1-AM Peak, 5 , 12 
+SUN,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,2-Midday, 22 , 53 
+SUN,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,3-PM Peak, 13 , 39 
+SUN,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,4-Evening, 10 , 26 
+SUN,703,TO DAYBREAK    ,0,14,Murray North Station,18392,1-AM Peak, 6 , 11 
+SUN,703,TO DAYBREAK    ,0,14,Murray North Station,18392,2-Midday, 19 , 49 
+SUN,703,TO DAYBREAK    ,0,14,Murray North Station,18392,3-PM Peak, 12 , 35 
+SUN,703,TO DAYBREAK    ,0,14,Murray North Station,18392,4-Evening, 8 , 26 
+SUN,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,1-AM Peak, 19 , 37 
+SUN,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,2-Midday, 46 , 99 
+SUN,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,3-PM Peak, 28 , 65 
+SUN,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,4-Evening, 18 , 32 
+SUN,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,1-AM Peak, 8 , 24 
+SUN,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,2-Midday, 36 , 84 
+SUN,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,3-PM Peak, 29 , 46 
+SUN,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,4-Evening, 19 , 24 
+SUN,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,1-AM Peak, NULL , NULL 
+SUN,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,2-Midday, -   , -   
+SUN,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,3-PM Peak, -   , -   
+SUN,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,4-Evening, -   , -   
+SUN,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,1-AM Peak, 2 , 12 
+SUN,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,2-Midday, 9 , 32 
+SUN,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,3-PM Peak, 2 , 22 
+SUN,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,4-Evening, 1 , 12 
+SUN,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,1-AM Peak, 1 , 2 
+SUN,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,2-Midday, 5 , 10 
+SUN,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,3-PM Peak, 4 , 6 
+SUN,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,4-Evening, 1 , 4 
+SUN,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,1-AM Peak, 1 , 9 
+SUN,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,2-Midday, 6 , 34 
+SUN,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,3-PM Peak, 4 , 23 
+SUN,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,4-Evening, 2 , 16 
+SUN,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,1-AM Peak, 0 , 4 
+SUN,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,2-Midday, 3 , 17 
+SUN,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,3-PM Peak, 1 , 14 
+SUN,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,4-Evening, 1 , 11 
+SUN,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,1-AM Peak, 1 , 8 
+SUN,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,2-Midday, 3 , 22 
+SUN,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,3-PM Peak, 2 , 24 
+SUN,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,4-Evening, 2 , 15 
+SUN,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,1-AM Peak, 0 , 5 
+SUN,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,2-Midday, 1 , 24 
+SUN,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,3-PM Peak, 1 , 25 
+SUN,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,4-Evening, 0 , 18 
+SUN,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,1-AM Peak, 0 , 3 
+SUN,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,2-Midday, 0 , 6 
+SUN,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,3-PM Peak, 0 , 6 
+SUN,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,4-Evening, -   , 3 
+SUN,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,1-AM Peak, 0 , 2 
+SUN,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,2-Midday, 0 , 11 
+SUN,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,3-PM Peak, 0 , 8 
+SUN,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,4-Evening, 0 , 3 
+SUN,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,1-AM Peak, -   , 31 
+SUN,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,2-Midday, 0 , 78 
+SUN,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,3-PM Peak, 2 , 61 
+SUN,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,4-Evening, 0 , 34 
+SUN,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,1-AM Peak, 36 , 5 
+SUN,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,2-Midday, 88 , 3 
+SUN,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,3-PM Peak, 47 , 1 
+SUN,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,4-Evening, 26 , 1 
+SUN,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,1-AM Peak, 4 , -   
+SUN,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,2-Midday, 10 , 1 
+SUN,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,3-PM Peak, 3 , 1 
+SUN,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,4-Evening, 2 , 0 
+SUN,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,1-AM Peak, 3 , 0 
+SUN,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,2-Midday, 9 , 0 
+SUN,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,3-PM Peak, 4 , -   
+SUN,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,4-Evening, 2 , 0 
+SUN,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,1-AM Peak, 14 , 0 
+SUN,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,2-Midday, 38 , 1 
+SUN,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,3-PM Peak, 16 , 1 
+SUN,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,4-Evening, 9 , 1 
+SUN,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,1-AM Peak, 15 , 1 
+SUN,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,2-Midday, 34 , 3 
+SUN,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,3-PM Peak, 22 , 1 
+SUN,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,4-Evening, 9 , 0 
+SUN,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,1-AM Peak, 10 , 1 
+SUN,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,2-Midday, 23 , 2 
+SUN,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,3-PM Peak, 11 , 1 
+SUN,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,4-Evening, 4 , 2 
+SUN,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,1-AM Peak, 10 , 3 
+SUN,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,2-Midday, 39 , 9 
+SUN,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,3-PM Peak, 20 , 4 
+SUN,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,4-Evening, 11 , 3 
+SUN,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,1-AM Peak, 2 , 0 
+SUN,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,2-Midday, 13 , 5 
+SUN,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,3-PM Peak, 6 , 1 
+SUN,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,4-Evening, 3 , 1 
+SUN,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,1-AM Peak, 9 , 2 
+SUN,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,2-Midday, 37 , 5 
+SUN,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,3-PM Peak, 16 , 3 
+SUN,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,4-Evening, 7 , 1 
+SUN,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,1-AM Peak, -   , -   
+SUN,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,2-Midday, -   , -   
+SUN,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,3-PM Peak, -   , -   
+SUN,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,4-Evening, 1 , 1 
+SUN,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,1-AM Peak, 12 , 12 
+SUN,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,2-Midday, 48 , 48 
+SUN,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,3-PM Peak, 37 , 23 
+SUN,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,4-Evening, 17 , 8 
+SUN,703,TO MEDICAL     ,1,12,Murray Central Station,18393,1-AM Peak, 27 , 8 
+SUN,703,TO MEDICAL     ,1,12,Murray Central Station,18393,2-Midday, 70 , 27 
+SUN,703,TO MEDICAL     ,1,12,Murray Central Station,18393,3-PM Peak, 38 , 14 
+SUN,703,TO MEDICAL     ,1,12,Murray Central Station,18393,4-Evening, 19 , 6 
+SUN,703,TO MEDICAL     ,1,13,Murray North Station,18391,1-AM Peak, 20 , 4 
+SUN,703,TO MEDICAL     ,1,13,Murray North Station,18391,2-Midday, 57 , 13 
+SUN,703,TO MEDICAL     ,1,13,Murray North Station,18391,3-PM Peak, 22 , 13 
+SUN,703,TO MEDICAL     ,1,13,Murray North Station,18391,4-Evening, 12 , 7 
+SUN,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,1-AM Peak, 25 , 5 
+SUN,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,2-Midday, 67 , 23 
+SUN,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,3-PM Peak, 26 , 14 
+SUN,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,4-Evening, 10 , 5 
+SUN,703,TO MEDICAL     ,1,15,Millcreek Station,18387,1-AM Peak, 30 , 12 
+SUN,703,TO MEDICAL     ,1,15,Millcreek Station,18387,2-Midday, 77 , 35 
+SUN,703,TO MEDICAL     ,1,15,Millcreek Station,18387,3-PM Peak, 38 , 21 
+SUN,703,TO MEDICAL     ,1,15,Millcreek Station,18387,4-Evening, 21 , 8 
+SUN,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,1-AM Peak, 20 , 29 
+SUN,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,2-Midday, 67 , 100 
+SUN,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,3-PM Peak, 27 , 43 
+SUN,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,4-Evening, 13 , 21 
+SUN,703,TO MEDICAL     ,1,17,Ballpark Station,18411,1-AM Peak, 20 , 17 
+SUN,703,TO MEDICAL     ,1,17,Ballpark Station,18411,2-Midday, 62 , 68 
+SUN,703,TO MEDICAL     ,1,17,Ballpark Station,18411,3-PM Peak, 28 , 36 
+SUN,703,TO MEDICAL     ,1,17,Ballpark Station,18411,4-Evening, 18 , 16 
+SUN,703,TO MEDICAL     ,1,18,900 South Station,20982,1-AM Peak, 17 , 14 
+SUN,703,TO MEDICAL     ,1,18,900 South Station,20982,2-Midday, 45 , 39 
+SUN,703,TO MEDICAL     ,1,18,900 South Station,20982,3-PM Peak, 18 , 21 
+SUN,703,TO MEDICAL     ,1,18,900 South Station,20982,4-Evening, 14 , 11 
+SUN,703,TO MEDICAL     ,1,19,Courthouse Station,18409,1-AM Peak, 111 , 74 
+SUN,703,TO MEDICAL     ,1,19,Courthouse Station,18409,2-Midday, 298 , 137 
+SUN,703,TO MEDICAL     ,1,19,Courthouse Station,18409,3-PM Peak, 124 , 62 
+SUN,703,TO MEDICAL     ,1,19,Courthouse Station,18409,4-Evening, 76 , 34 
+SUN,703,TO MEDICAL     ,1,20,Library Station,18378,1-AM Peak, 29 , 32 
+SUN,703,TO MEDICAL     ,1,20,Library Station,18378,2-Midday, 99 , 148 
+SUN,703,TO MEDICAL     ,1,20,Library Station,18378,3-PM Peak, 52 , 43 
+SUN,703,TO MEDICAL     ,1,20,Library Station,18378,4-Evening, 22 , 22 
+SUN,703,TO MEDICAL     ,1,21,Trolley Station,18380,1-AM Peak, 30 , 61 
+SUN,703,TO MEDICAL     ,1,21,Trolley Station,18380,2-Midday, 165 , 213 
+SUN,703,TO MEDICAL     ,1,21,Trolley Station,18380,3-PM Peak, 97 , 95 
+SUN,703,TO MEDICAL     ,1,21,Trolley Station,18380,4-Evening, 57 , 54 
+SUN,703,TO MEDICAL     ,1,22,900 East Station,18382,1-AM Peak, 26 , 31 
+SUN,703,TO MEDICAL     ,1,22,900 East Station,18382,2-Midday, 74 , 87 
+SUN,703,TO MEDICAL     ,1,22,900 East Station,18382,3-PM Peak, 26 , 56 
+SUN,703,TO MEDICAL     ,1,22,900 East Station,18382,4-Evening, 9 , 32 
+SUN,703,TO MEDICAL     ,1,23,Stadium Station,18383,1-AM Peak, 17 , 31 
+SUN,703,TO MEDICAL     ,1,23,Stadium Station,18383,2-Midday, 66 , 125 
+SUN,703,TO MEDICAL     ,1,23,Stadium Station,18383,3-PM Peak, 32 , 60 
+SUN,703,TO MEDICAL     ,1,23,Stadium Station,18383,4-Evening, 23 , 31 
+SUN,703,TO MEDICAL     ,1,24,University South Campus Station,19166,1-AM Peak, 1 , 57 
+SUN,703,TO MEDICAL     ,1,24,University South Campus Station,19166,2-Midday, 8 , 76 
+SUN,703,TO MEDICAL     ,1,24,University South Campus Station,19166,3-PM Peak, 3 , 25 
+SUN,703,TO MEDICAL     ,1,24,University South Campus Station,19166,4-Evening, 1 , 14 
+SUN,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,1-AM Peak, 1 , 33 
+SUN,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,2-Midday, 9 , 203 
+SUN,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,3-PM Peak, 3 , 118 
+SUN,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,4-Evening, 1 , 72 
+SUN,703,TO MEDICAL     ,1,26,University Medical Center,19170,1-AM Peak, -   , 61 
+SUN,703,TO MEDICAL     ,1,26,University Medical Center,19170,2-Midday, -   , 129 
+SUN,703,TO MEDICAL     ,1,26,University Medical Center,19170,3-PM Peak, -   , 58 
+SUN,703,TO MEDICAL     ,1,26,University Medical Center,19170,4-Evening, -   , 33 
+SUN,704,TO WEST VALLEY ,0,1,Airport Station,23049,1-AM Peak, 95 , 4 
+SUN,704,TO WEST VALLEY ,0,1,Airport Station,23049,2-Midday, 289 , 5 
+SUN,704,TO WEST VALLEY ,0,1,Airport Station,23049,3-PM Peak, 177 , 2 
+SUN,704,TO WEST VALLEY ,0,1,Airport Station,23049,4-Evening, 126 , 0 
+SUN,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,1-AM Peak, 47 , 7 
+SUN,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,2-Midday, 98 , 22 
+SUN,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,3-PM Peak, 36 , 20 
+SUN,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,4-Evening, 21 , 16 
+SUN,704,TO WEST VALLEY ,0,3,Power Station,23046,1-AM Peak, 36 , 4 
+SUN,704,TO WEST VALLEY ,0,3,Power Station,23046,2-Midday, 82 , 10 
+SUN,704,TO WEST VALLEY ,0,3,Power Station,23046,3-PM Peak, 34 , 5 
+SUN,704,TO WEST VALLEY ,0,3,Power Station,23046,4-Evening, 20 , 5 
+SUN,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,1-AM Peak, 7 , 3 
+SUN,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,2-Midday, 30 , 11 
+SUN,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,3-PM Peak, 30 , 8 
+SUN,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,4-Evening, 24 , 6 
+SUN,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,1-AM Peak, 51 , 12 
+SUN,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,2-Midday, 152 , 47 
+SUN,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,3-PM Peak, 75 , 25 
+SUN,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,4-Evening, 50 , 14 
+SUN,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,1-AM Peak, 17 , 10 
+SUN,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,2-Midday, 53 , 44 
+SUN,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,3-PM Peak, 25 , 20 
+SUN,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,4-Evening, 11 , 20 
+SUN,704,TO WEST VALLEY ,0,7,Arena Station,18406,1-AM Peak, 9 , 24 
+SUN,704,TO WEST VALLEY ,0,7,Arena Station,18406,2-Midday, 49 , 74 
+SUN,704,TO WEST VALLEY ,0,7,Arena Station,18406,3-PM Peak, 26 , 44 
+SUN,704,TO WEST VALLEY ,0,7,Arena Station,18406,4-Evening, 12 , 26 
+SUN,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,1-AM Peak, 5 , 24 
+SUN,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,2-Midday, 32 , 57 
+SUN,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,3-PM Peak, 24 , 23 
+SUN,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,4-Evening, 8 , 16 
+SUN,704,TO WEST VALLEY ,0,9,City Center Station,18386,1-AM Peak, 8 , 28 
+SUN,704,TO WEST VALLEY ,0,9,City Center Station,18386,2-Midday, 66 , 86 
+SUN,704,TO WEST VALLEY ,0,9,City Center Station,18386,3-PM Peak, 39 , 42 
+SUN,704,TO WEST VALLEY ,0,9,City Center Station,18386,4-Evening, 14 , 23 
+SUN,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,1-AM Peak, 8 , 13 
+SUN,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,2-Midday, 28 , 49 
+SUN,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,3-PM Peak, 29 , 28 
+SUN,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,4-Evening, 12 , 18 
+SUN,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,1-AM Peak, 14 , 62 
+SUN,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,2-Midday, 46 , 179 
+SUN,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,3-PM Peak, 35 , 85 
+SUN,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,4-Evening, 14 , 52 
+SUN,704,TO WEST VALLEY ,0,12,900 South Station,20973,1-AM Peak, 9 , 12 
+SUN,704,TO WEST VALLEY ,0,12,900 South Station,20973,2-Midday, 35 , 40 
+SUN,704,TO WEST VALLEY ,0,12,900 South Station,20973,3-PM Peak, 19 , 25 
+SUN,704,TO WEST VALLEY ,0,12,900 South Station,20973,4-Evening, 12 , 15 
+SUN,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,1-AM Peak, 19 , 31 
+SUN,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,2-Midday, 62 , 94 
+SUN,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,3-PM Peak, 38 , 57 
+SUN,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,4-Evening, 23 , 30 
+SUN,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,1-AM Peak, 25 , 43 
+SUN,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,2-Midday, 100 , 114 
+SUN,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,3-PM Peak, 60 , 65 
+SUN,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,4-Evening, 39 , 41 
+SUN,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,1-AM Peak, 0 , 1 
+SUN,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,2-Midday, -   , -   
+SUN,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,3-PM Peak, 0 , -   
+SUN,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,4-Evening, -   , -   
+SUN,704,TO WEST VALLEY ,0,16,River Trail Station,22645,1-AM Peak, 3 , 7 
+SUN,704,TO WEST VALLEY ,0,16,River Trail Station,22645,2-Midday, 11 , 31 
+SUN,704,TO WEST VALLEY ,0,16,River Trail Station,22645,3-PM Peak, 4 , 16 
+SUN,704,TO WEST VALLEY ,0,16,River Trail Station,22645,4-Evening, 2 , 9 
+SUN,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,1-AM Peak, 3 , 14 
+SUN,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,2-Midday, 20 , 54 
+SUN,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,3-PM Peak, 10 , 32 
+SUN,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,4-Evening, 3 , 16 
+SUN,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,1-AM Peak, 3 , 10 
+SUN,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,2-Midday, 13 , 37 
+SUN,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,3-PM Peak, 6 , 27 
+SUN,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,4-Evening, 2 , 22 
+SUN,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,1-AM Peak, 1 , 54 
+SUN,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,2-Midday, 0 , 215 
+SUN,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,3-PM Peak, 3 , 147 
+SUN,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,4-Evening, 1 , 66 
+SUN,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,1-AM Peak, 71 , 3 
+SUN,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,2-Midday, 218 , 3 
+SUN,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,3-PM Peak, 121 , 2 
+SUN,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,4-Evening, 66 , 0 
+SUN,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,1-AM Peak, 16 , 1 
+SUN,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,2-Midday, 52 , 9 
+SUN,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,3-PM Peak, 20 , 5 
+SUN,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,4-Evening, 10 , 3 
+SUN,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,1-AM Peak, 17 , 4 
+SUN,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,2-Midday, 58 , 15 
+SUN,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,3-PM Peak, 23 , 10 
+SUN,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,4-Evening, 11 , 3 
+SUN,704,TO AIRPORT     ,1,4,River Trail Station,22646,1-AM Peak, 12 , 1 
+SUN,704,TO AIRPORT     ,1,4,River Trail Station,22646,2-Midday, 23 , 8 
+SUN,704,TO AIRPORT     ,1,4,River Trail Station,22646,3-PM Peak, 13 , 4 
+SUN,704,TO AIRPORT     ,1,4,River Trail Station,22646,4-Evening, 6 , 3 
+SUN,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,1-AM Peak, -   , -   
+SUN,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,2-Midday, -   , -   
+SUN,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,3-PM Peak, -   , -   
+SUN,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,4-Evening, -   , -   
+SUN,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,1-AM Peak, 28 , 27 
+SUN,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,2-Midday, 104 , 116 
+SUN,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,3-PM Peak, 42 , 55 
+SUN,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,4-Evening, 21 , 30 
+SUN,704,TO AIRPORT     ,1,7,Ballpark Station,18411,1-AM Peak, 19 , 9 
+SUN,704,TO AIRPORT     ,1,7,Ballpark Station,18411,2-Midday, 57 , 48 
+SUN,704,TO AIRPORT     ,1,7,Ballpark Station,18411,3-PM Peak, 36 , 23 
+SUN,704,TO AIRPORT     ,1,7,Ballpark Station,18411,4-Evening, 22 , 12 
+SUN,704,TO AIRPORT     ,1,8,900 South Station,20982,1-AM Peak, 11 , 9 
+SUN,704,TO AIRPORT     ,1,8,900 South Station,20982,2-Midday, 30 , 30 
+SUN,704,TO AIRPORT     ,1,8,900 South Station,20982,3-PM Peak, 15 , 15 
+SUN,704,TO AIRPORT     ,1,8,900 South Station,20982,4-Evening, 10 , 8 
+SUN,704,TO AIRPORT     ,1,9,Courthouse Station,18409,1-AM Peak, 52 , 20 
+SUN,704,TO AIRPORT     ,1,9,Courthouse Station,18409,2-Midday, 120 , 47 
+SUN,704,TO AIRPORT     ,1,9,Courthouse Station,18409,3-PM Peak, 68 , 22 
+SUN,704,TO AIRPORT     ,1,9,Courthouse Station,18409,4-Evening, 32 , 11 
+SUN,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,1-AM Peak, 23 , 18 
+SUN,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,2-Midday, 52 , 32 
+SUN,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,3-PM Peak, 27 , 15 
+SUN,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,4-Evening, 17 , 7 
+SUN,704,TO AIRPORT     ,1,11,City Center Station,18385,1-AM Peak, 18 , 23 
+SUN,704,TO AIRPORT     ,1,11,City Center Station,18385,2-Midday, 68 , 50 
+SUN,704,TO AIRPORT     ,1,11,City Center Station,18385,3-PM Peak, 40 , 27 
+SUN,704,TO AIRPORT     ,1,11,City Center Station,18385,4-Evening, 20 , 7 
+SUN,704,TO AIRPORT     ,1,12,Temple Square Station,18407,1-AM Peak, 20 , 15 
+SUN,704,TO AIRPORT     ,1,12,Temple Square Station,18407,2-Midday, 48 , 31 
+SUN,704,TO AIRPORT     ,1,12,Temple Square Station,18407,3-PM Peak, 31 , 10 
+SUN,704,TO AIRPORT     ,1,12,Temple Square Station,18407,4-Evening, 13 , 6 
+SUN,704,TO AIRPORT     ,1,13,Arena Station,18405,1-AM Peak, 32 , 13 
+SUN,704,TO AIRPORT     ,1,13,Arena Station,18405,2-Midday, 100 , 51 
+SUN,704,TO AIRPORT     ,1,13,Arena Station,18405,3-PM Peak, 60 , 26 
+SUN,704,TO AIRPORT     ,1,13,Arena Station,18405,4-Evening, 39 , 13 
+SUN,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,1-AM Peak, 14 , 9 
+SUN,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,2-Midday, 32 , 50 
+SUN,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,3-PM Peak, 15 , 31 
+SUN,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,4-Evening, 9 , 20 
+SUN,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,1-AM Peak, 12 , 30 
+SUN,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,2-Midday, 45 , 134 
+SUN,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,3-PM Peak, 22 , 86 
+SUN,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,4-Evening, 12 , 51 
+SUN,704,TO AIRPORT     ,1,16,Fairpark Station,23043,1-AM Peak, 3 , 8 
+SUN,704,TO AIRPORT     ,1,16,Fairpark Station,23043,2-Midday, 10 , 52 
+SUN,704,TO AIRPORT     ,1,16,Fairpark Station,23043,3-PM Peak, 7 , 25 
+SUN,704,TO AIRPORT     ,1,16,Fairpark Station,23043,4-Evening, 5 , 9 
+SUN,704,TO AIRPORT     ,1,17,Power Station,23045,1-AM Peak, 5 , 14 
+SUN,704,TO AIRPORT     ,1,17,Power Station,23045,2-Midday, 14 , 64 
+SUN,704,TO AIRPORT     ,1,17,Power Station,23045,3-PM Peak, 3 , 48 
+SUN,704,TO AIRPORT     ,1,17,Power Station,23045,4-Evening, 4 , 27 
+SUN,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,1-AM Peak, 21 , 18 
+SUN,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,2-Midday, 34 , 74 
+SUN,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,3-PM Peak, 4 , 58 
+SUN,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,4-Evening, 3 , 27 
+SUN,704,TO AIRPORT     ,1,19,Airport Station,23049,1-AM Peak, -   , 154 
+SUN,704,TO AIRPORT     ,1,19,Airport Station,23049,2-Midday, -   , 252 
+SUN,704,TO AIRPORT     ,1,19,Airport Station,23049,3-PM Peak, -   , 85 
+SUN,704,TO AIRPORT     ,1,19,Airport Station,23049,4-Evening, -   , 64 
+SUN,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,1-AM Peak, 40 , 5 
+SUN,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,2-Midday, 128 , 13 
+SUN,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,3-PM Peak, 81 , 7 
+SUN,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,4-Evening, 52 , 6 
+SUN,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,1-AM Peak, 2 , 4 
+SUN,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,2-Midday, 9 , 18 
+SUN,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,3-PM Peak, 7 , 9 
+SUN,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,4-Evening, 3 , 5 
+SUN,720,TO FAIRMONT    ,0,3,300 East Station,23567,1-AM Peak, 1 , 3 
+SUN,720,TO FAIRMONT    ,0,3,300 East Station,23567,2-Midday, 11 , 12 
+SUN,720,TO FAIRMONT    ,0,3,300 East Station,23567,3-PM Peak, 5 , 8 
+SUN,720,TO FAIRMONT    ,0,3,300 East Station,23567,4-Evening, 3 , 6 
+SUN,720,TO FAIRMONT    ,0,4,500 East Station,23568,1-AM Peak, 4 , 4 
+SUN,720,TO FAIRMONT    ,0,4,500 East Station,23568,2-Midday, 14 , 21 
+SUN,720,TO FAIRMONT    ,0,4,500 East Station,23568,3-PM Peak, 5 , 20 
+SUN,720,TO FAIRMONT    ,0,4,500 East Station,23568,4-Evening, 3 , 10 
+SUN,720,TO FAIRMONT    ,0,5,700 East Station,23569,1-AM Peak, 1 , 4 
+SUN,720,TO FAIRMONT    ,0,5,700 East Station,23569,2-Midday, 6 , 12 
+SUN,720,TO FAIRMONT    ,0,5,700 East Station,23569,3-PM Peak, 4 , 9 
+SUN,720,TO FAIRMONT    ,0,5,700 East Station,23569,4-Evening, 2 , 6 
+SUN,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,1-AM Peak, 1 , 11 
+SUN,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,2-Midday, 9 , 30 
+SUN,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,3-PM Peak, 3 , 17 
+SUN,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,4-Evening, 3 , 11 
+SUN,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,1-AM Peak, -   , 19 
+SUN,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,2-Midday, -   , 70 
+SUN,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,3-PM Peak, -   , 35 
+SUN,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,4-Evening, -   , 21 
+SUN,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,1-AM Peak, 18 , 5 
+SUN,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,2-Midday, 68 , 10 
+SUN,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,3-PM Peak, 51 , 7 
+SUN,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,4-Evening, 31 , 4 
+SUN,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,1-AM Peak, 3 , -   
+SUN,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,2-Midday, 21 , 2 
+SUN,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,3-PM Peak, 14 , 1 
+SUN,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,4-Evening, 7 , 0 
+SUN,720,TO CENTRAL PNTE,1,3,700 East Station,23569,1-AM Peak, 4 , 1 
+SUN,720,TO CENTRAL PNTE,1,3,700 East Station,23569,2-Midday, 12 , 4 
+SUN,720,TO CENTRAL PNTE,1,3,700 East Station,23569,3-PM Peak, 8 , 4 
+SUN,720,TO CENTRAL PNTE,1,3,700 East Station,23569,4-Evening, 5 , 2 
+SUN,720,TO CENTRAL PNTE,1,4,500 East Station,23568,1-AM Peak, 13 , 2 
+SUN,720,TO CENTRAL PNTE,1,4,500 East Station,23568,2-Midday, 25 , 11 
+SUN,720,TO CENTRAL PNTE,1,4,500 East Station,23568,3-PM Peak, 12 , 7 
+SUN,720,TO CENTRAL PNTE,1,4,500 East Station,23568,4-Evening, 7 , 3 
+SUN,720,TO CENTRAL PNTE,1,5,300 East Station,23567,1-AM Peak, 7 , 1 
+SUN,720,TO CENTRAL PNTE,1,5,300 East Station,23567,2-Midday, 18 , 6 
+SUN,720,TO CENTRAL PNTE,1,5,300 East Station,23567,3-PM Peak, 7 , 5 
+SUN,720,TO CENTRAL PNTE,1,5,300 East Station,23567,4-Evening, 4 , 3 
+SUN,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,1-AM Peak, 3 , 1 
+SUN,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,2-Midday, 14 , 12 
+SUN,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,3-PM Peak, 6 , 8 
+SUN,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,4-Evening, 4 , 4 
+SUN,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,1-AM Peak, -   , 40 
+SUN,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,2-Midday, 0 , 113 
+SUN,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,3-PM Peak, -   , 66 
+SUN,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,4-Evening, -   , 39 
+WKD,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,1-AM Peak, 322 , 5 
+WKD,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,2-Midday, 269 , 10 
+WKD,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,3-PM Peak, 174 , 16 
+WKD,701,TO DRAPER      ,0,1,Salt Lake Central Station,21799,4-Evening, 91 , 9 
+WKD,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,1-AM Peak, 136 , 19 
+WKD,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,2-Midday, 169 , 17 
+WKD,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,3-PM Peak, 82 , 10 
+WKD,701,TO DRAPER      ,0,2,Old GreekTown Station,21801,4-Evening, 48 , 8 
+WKD,701,TO DRAPER      ,0,3,Planetarium Station,21762,1-AM Peak, 66 , 16 
+WKD,701,TO DRAPER      ,0,3,Planetarium Station,21762,2-Midday, 193 , 29 
+WKD,701,TO DRAPER      ,0,3,Planetarium Station,21762,3-PM Peak, 129 , 15 
+WKD,701,TO DRAPER      ,0,3,Planetarium Station,21762,4-Evening, 53 , 8 
+WKD,701,TO DRAPER      ,0,4,Arena Station,18406,1-AM Peak, 130 , 29 
+WKD,701,TO DRAPER      ,0,4,Arena Station,18406,2-Midday, 298 , 59 
+WKD,701,TO DRAPER      ,0,4,Arena Station,18406,3-PM Peak, 202 , 45 
+WKD,701,TO DRAPER      ,0,4,Arena Station,18406,4-Evening, 80 , 31 
+WKD,701,TO DRAPER      ,0,5,Temple Square Station,18408,1-AM Peak, 32 , 55 
+WKD,701,TO DRAPER      ,0,5,Temple Square Station,18408,2-Midday, 99 , 91 
+WKD,701,TO DRAPER      ,0,5,Temple Square Station,18408,3-PM Peak, 107 , 41 
+WKD,701,TO DRAPER      ,0,5,Temple Square Station,18408,4-Evening, 55 , 21 
+WKD,701,TO DRAPER      ,0,6,City Center Station,18386,1-AM Peak, 63 , 209 
+WKD,701,TO DRAPER      ,0,6,City Center Station,18386,2-Midday, 385 , 239 
+WKD,701,TO DRAPER      ,0,6,City Center Station,18386,3-PM Peak, 613 , 116 
+WKD,701,TO DRAPER      ,0,6,City Center Station,18386,4-Evening, 165 , 51 
+WKD,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,1-AM Peak, 47 , 97 
+WKD,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,2-Midday, 210 , 113 
+WKD,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,3-PM Peak, 405 , 58 
+WKD,701,TO DRAPER      ,0,7,Gallivan Plaza Station,18376,4-Evening, 103 , 30 
+WKD,701,TO DRAPER      ,0,8,Courthouse Station,18410,1-AM Peak, 50 , 139 
+WKD,701,TO DRAPER      ,0,8,Courthouse Station,18410,2-Midday, 159 , 328 
+WKD,701,TO DRAPER      ,0,8,Courthouse Station,18410,3-PM Peak, 192 , 275 
+WKD,701,TO DRAPER      ,0,8,Courthouse Station,18410,4-Evening, 52 , 134 
+WKD,701,TO DRAPER      ,0,9,900 South Station,20973,1-AM Peak, 44 , 24 
+WKD,701,TO DRAPER      ,0,9,900 South Station,20973,2-Midday, 70 , 71 
+WKD,701,TO DRAPER      ,0,9,900 South Station,20973,3-PM Peak, 50 , 67 
+WKD,701,TO DRAPER      ,0,9,900 South Station,20973,4-Evening, 22 , 33 
+WKD,701,TO DRAPER      ,0,10,Ballpark Station,18412,1-AM Peak, 44 , 40 
+WKD,701,TO DRAPER      ,0,10,Ballpark Station,18412,2-Midday, 101 , 116 
+WKD,701,TO DRAPER      ,0,10,Ballpark Station,18412,3-PM Peak, 71 , 100 
+WKD,701,TO DRAPER      ,0,10,Ballpark Station,18412,4-Evening, 33 , 40 
+WKD,701,TO DRAPER      ,0,11,Central Pointe Station,18414,1-AM Peak, 98 , 62 
+WKD,701,TO DRAPER      ,0,11,Central Pointe Station,18414,2-Midday, 214 , 116 
+WKD,701,TO DRAPER      ,0,11,Central Pointe Station,18414,3-PM Peak, 173 , 89 
+WKD,701,TO DRAPER      ,0,11,Central Pointe Station,18414,4-Evening, 63 , 36 
+WKD,701,TO DRAPER      ,0,12,Millcreek Station,18388,1-AM Peak, 52 , 47 
+WKD,701,TO DRAPER      ,0,12,Millcreek Station,18388,2-Midday, 87 , 115 
+WKD,701,TO DRAPER      ,0,12,Millcreek Station,18388,3-PM Peak, 68 , 94 
+WKD,701,TO DRAPER      ,0,12,Millcreek Station,18388,4-Evening, 24 , 33 
+WKD,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,1-AM Peak, 45 , 38 
+WKD,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,2-Midday, 64 , 99 
+WKD,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,3-PM Peak, 49 , 98 
+WKD,701,TO DRAPER      ,0,13,Meadowbrook Station,18390,4-Evening, 17 , 38 
+WKD,701,TO DRAPER      ,0,14,Murray North Station,18392,1-AM Peak, 55 , 24 
+WKD,701,TO DRAPER      ,0,14,Murray North Station,18392,2-Midday, 50 , 68 
+WKD,701,TO DRAPER      ,0,14,Murray North Station,18392,3-PM Peak, 38 , 94 
+WKD,701,TO DRAPER      ,0,14,Murray North Station,18392,4-Evening, 13 , 36 
+WKD,701,TO DRAPER      ,0,15,Murray Central Station,18394,1-AM Peak, 94 , 91 
+WKD,701,TO DRAPER      ,0,15,Murray Central Station,18394,2-Midday, 140 , 187 
+WKD,701,TO DRAPER      ,0,15,Murray Central Station,18394,3-PM Peak, 108 , 232 
+WKD,701,TO DRAPER      ,0,15,Murray Central Station,18394,4-Evening, 41 , 73 
+WKD,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,1-AM Peak, 88 , 37 
+WKD,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,2-Midday, 192 , 136 
+WKD,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,3-PM Peak, 149 , 176 
+WKD,701,TO DRAPER      ,0,16,Fashion Place West Station,18396,4-Evening, 48 , 37 
+WKD,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,1-AM Peak, 36 , 85 
+WKD,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,2-Midday, 52 , 155 
+WKD,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,3-PM Peak, 32 , 136 
+WKD,701,TO DRAPER      ,0,17,Midvale Fort Union Station,18398,4-Evening, 17 , 54 
+WKD,701,TO DRAPER      ,0,18,Midvale Center Station,18400,1-AM Peak, 30 , 83 
+WKD,701,TO DRAPER      ,0,18,Midvale Center Station,18400,2-Midday, 43 , 155 
+WKD,701,TO DRAPER      ,0,18,Midvale Center Station,18400,3-PM Peak, 23 , 154 
+WKD,701,TO DRAPER      ,0,18,Midvale Center Station,18400,4-Evening, 8 , 51 
+WKD,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,1-AM Peak, 41 , 62 
+WKD,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,2-Midday, 30 , 177 
+WKD,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,3-PM Peak, 18 , 245 
+WKD,701,TO DRAPER      ,0,19,Historic Sandy Staion,18402,4-Evening, 8 , 63 
+WKD,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,1-AM Peak, 12 , 67 
+WKD,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,2-Midday, 35 , 83 
+WKD,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,3-PM Peak, 8 , 52 
+WKD,701,TO DRAPER      ,0,20,Sandy Expo Station,21226,4-Evening, 3 , 17 
+WKD,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,1-AM Peak, 7 , 108 
+WKD,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,2-Midday, 26 , 145 
+WKD,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,3-PM Peak, 10 , 119 
+WKD,701,TO DRAPER      ,0,21,Sandy Civic Center Station,18404,4-Evening, 4 , 35 
+WKD,701,TO DRAPER      ,0,22,Crescent View Station,23319,1-AM Peak, 3 , 38 
+WKD,701,TO DRAPER      ,0,22,Crescent View Station,23319,2-Midday, 6 , 125 
+WKD,701,TO DRAPER      ,0,22,Crescent View Station,23319,3-PM Peak, 6 , 175 
+WKD,701,TO DRAPER      ,0,22,Crescent View Station,23319,4-Evening, 2 , 40 
+WKD,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,1-AM Peak, 5 , 33 
+WKD,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,2-Midday, 5 , 71 
+WKD,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,3-PM Peak, 6 , 109 
+WKD,701,TO DRAPER      ,0,23,Kimballs Lane Station,23321,4-Evening, 1 , 22 
+WKD,701,TO DRAPER      ,0,24,Draper Town Center,23323,1-AM Peak, -   , 95 
+WKD,701,TO DRAPER      ,0,24,Draper Town Center,23323,2-Midday, -   , 193 
+WKD,701,TO DRAPER      ,0,24,Draper Town Center,23323,3-PM Peak, 0 , 197 
+WKD,701,TO DRAPER      ,0,24,Draper Town Center,23323,4-Evening, 0 , 49 
+WKD,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,1-AM Peak, 244 , 12 
+WKD,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,2-Midday, 178 , 18 
+WKD,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,3-PM Peak, 158 , 21 
+WKD,701,TO SALT LAKE CT,1,1,Draper Town Center,23322,4-Evening, 59 , 9 
+WKD,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,1-AM Peak, 131 , 3 
+WKD,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,2-Midday, 55 , 4 
+WKD,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,3-PM Peak, 46 , 5 
+WKD,701,TO SALT LAKE CT,1,2,Kimballs Lane Station,23320,4-Evening, 12 , 1 
+WKD,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,1-AM Peak, 231 , 4 
+WKD,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,2-Midday, 78 , 4 
+WKD,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,3-PM Peak, 61 , 4 
+WKD,701,TO SALT LAKE CT,1,3,Crescent View Station,23318,4-Evening, 17 , 2 
+WKD,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,1-AM Peak, 135 , 16 
+WKD,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,2-Midday, 160 , 12 
+WKD,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,3-PM Peak, 95 , 10 
+WKD,701,TO SALT LAKE CT,1,4,Sandy Civic Center Station,18403,4-Evening, 34 , 3 
+WKD,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,1-AM Peak, 50 , 18 
+WKD,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,2-Midday, 109 , 24 
+WKD,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,3-PM Peak, 59 , 7 
+WKD,701,TO SALT LAKE CT,1,5,Sandy Expo Station,21225,4-Evening, 15 , 4 
+WKD,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,1-AM Peak, 270 , 13 
+WKD,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,2-Midday, 138 , 75 
+WKD,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,3-PM Peak, 96 , 25 
+WKD,701,TO SALT LAKE CT,1,6,Historic Sandy Staion,18401,4-Evening, 33 , 10 
+WKD,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,1-AM Peak, 178 , 19 
+WKD,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,2-Midday, 136 , 53 
+WKD,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,3-PM Peak, 100 , 31 
+WKD,701,TO SALT LAKE CT,1,7,Midvale Center Station,18399,4-Evening, 46 , 10 
+WKD,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,1-AM Peak, 122 , 24 
+WKD,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,2-Midday, 146 , 54 
+WKD,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,3-PM Peak, 116 , 37 
+WKD,701,TO SALT LAKE CT,1,8,Midvale Fort Union Station,18397,4-Evening, 40 , 17 
+WKD,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,1-AM Peak, 139 , 156 
+WKD,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,2-Midday, 112 , 132 
+WKD,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,3-PM Peak, 82 , 84 
+WKD,701,TO SALT LAKE CT,1,9,Fashion Place West Station,18395,4-Evening, 27 , 25 
+WKD,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,1-AM Peak, 253 , 117 
+WKD,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,2-Midday, 239 , 134 
+WKD,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,3-PM Peak, 177 , 122 
+WKD,701,TO SALT LAKE CT,1,10,Murray Central Station,18393,4-Evening, 54 , 38 
+WKD,701,TO SALT LAKE CT,1,11,Murray North Station,18391,1-AM Peak, 120 , 32 
+WKD,701,TO SALT LAKE CT,1,11,Murray North Station,18391,2-Midday, 100 , 79 
+WKD,701,TO SALT LAKE CT,1,11,Murray North Station,18391,3-PM Peak, 61 , 55 
+WKD,701,TO SALT LAKE CT,1,11,Murray North Station,18391,4-Evening, 25 , 20 
+WKD,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,1-AM Peak, 136 , 56 
+WKD,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,2-Midday, 153 , 71 
+WKD,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,3-PM Peak, 80 , 69 
+WKD,701,TO SALT LAKE CT,1,12,Meadowbrook Station,18389,4-Evening, 25 , 22 
+WKD,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,1-AM Peak, 100 , 76 
+WKD,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,2-Midday, 148 , 119 
+WKD,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,3-PM Peak, 92 , 91 
+WKD,701,TO SALT LAKE CT,1,13,Millcreek Station,18387,4-Evening, 39 , 33 
+WKD,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,1-AM Peak, 36 , 173 
+WKD,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,2-Midday, 80 , 215 
+WKD,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,3-PM Peak, 59 , 148 
+WKD,701,TO SALT LAKE CT,1,14,Central Pointe Station,18413,4-Evening, 21 , 57 
+WKD,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,1-AM Peak, 57 , 69 
+WKD,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,2-Midday, 86 , 133 
+WKD,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,3-PM Peak, 54 , 90 
+WKD,701,TO SALT LAKE CT,1,15,Ballpark Station,18411,4-Evening, 24 , 35 
+WKD,701,TO SALT LAKE CT,1,16,900 South Station,20982,1-AM Peak, 39 , 60 
+WKD,701,TO SALT LAKE CT,1,16,900 South Station,20982,2-Midday, 56 , 80 
+WKD,701,TO SALT LAKE CT,1,16,900 South Station,20982,3-PM Peak, 26 , 62 
+WKD,701,TO SALT LAKE CT,1,16,900 South Station,20982,4-Evening, 14 , 22 
+WKD,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,1-AM Peak, 120 , 249 
+WKD,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,2-Midday, 202 , 163 
+WKD,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,3-PM Peak, 152 , 88 
+WKD,701,TO SALT LAKE CT,1,17,Courthouse Station,18409,4-Evening, 62 , 40 
+WKD,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,1-AM Peak, 26 , 410 
+WKD,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,2-Midday, 98 , 141 
+WKD,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,3-PM Peak, 91 , 81 
+WKD,701,TO SALT LAKE CT,1,18,Gallivan Plaza Station,18415,4-Evening, 28 , 24 
+WKD,701,TO SALT LAKE CT,1,19,City Center Station,18385,1-AM Peak, 40 , 526 
+WKD,701,TO SALT LAKE CT,1,19,City Center Station,18385,2-Midday, 177 , 284 
+WKD,701,TO SALT LAKE CT,1,19,City Center Station,18385,3-PM Peak, 152 , 161 
+WKD,701,TO SALT LAKE CT,1,19,City Center Station,18385,4-Evening, 54 , 41 
+WKD,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,1-AM Peak, 12 , 71 
+WKD,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,2-Midday, 54 , 83 
+WKD,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,3-PM Peak, 51 , 69 
+WKD,701,TO SALT LAKE CT,1,20,Temple Square Station,18407,4-Evening, 35 , 23 
+WKD,701,TO SALT LAKE CT,1,21,Arena Station,18405,1-AM Peak, 37 , 156 
+WKD,701,TO SALT LAKE CT,1,21,Arena Station,18405,2-Midday, 90 , 193 
+WKD,701,TO SALT LAKE CT,1,21,Arena Station,18405,3-PM Peak, 59 , 210 
+WKD,701,TO SALT LAKE CT,1,21,Arena Station,18405,4-Evening, 40 , 76 
+WKD,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,1-AM Peak, 6 , 75 
+WKD,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,2-Midday, 27 , 165 
+WKD,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,3-PM Peak, 15 , 118 
+WKD,701,TO SALT LAKE CT,1,22,Planetarium Station,21800,4-Evening, 8 , 44 
+WKD,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,1-AM Peak, 14 , 56 
+WKD,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,2-Midday, 20 , 147 
+WKD,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,3-PM Peak, 12 , 102 
+WKD,701,TO SALT LAKE CT,1,23,Old GreekTown Station,21763,4-Evening, 7 , 74 
+WKD,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,1-AM Peak, 0 , 97 
+WKD,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,2-Midday, 0 , 259 
+WKD,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,3-PM Peak, 1 , 209 
+WKD,701,TO SALT LAKE CT,1,24,Salt Lake Central Station,21761,4-Evening, 0 , 88 
+WKD,703,TO DAYBREAK    ,0,1,University Medical Center,19171,1-AM Peak, 118 , 11 
+WKD,703,TO DAYBREAK    ,0,1,University Medical Center,19171,2-Midday, 440 , 7 
+WKD,703,TO DAYBREAK    ,0,1,University Medical Center,19171,3-PM Peak, 768 , 7 
+WKD,703,TO DAYBREAK    ,0,1,University Medical Center,19171,4-Evening, 202 , 7 
+WKD,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,1-AM Peak, 35 , 3 
+WKD,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,2-Midday, 207 , 10 
+WKD,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,3-PM Peak, 231 , 11 
+WKD,703,TO DAYBREAK    ,0,2,Fort Douglas Station,19169,4-Evening, 113 , 3 
+WKD,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,1-AM Peak, 39 , 7 
+WKD,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,2-Midday, 523 , 30 
+WKD,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,3-PM Peak, 412 , 22 
+WKD,703,TO DAYBREAK    ,0,3,University South Campus Station,19167,4-Evening, 132 , 8 
+WKD,703,TO DAYBREAK    ,0,4,Stadium Station,18384,1-AM Peak, 71 , 25 
+WKD,703,TO DAYBREAK    ,0,4,Stadium Station,18384,2-Midday, 987 , 100 
+WKD,703,TO DAYBREAK    ,0,4,Stadium Station,18384,3-PM Peak, 686 , 80 
+WKD,703,TO DAYBREAK    ,0,4,Stadium Station,18384,4-Evening, 229 , 42 
+WKD,703,TO DAYBREAK    ,0,5,900 East Station,18381,1-AM Peak, 108 , 13 
+WKD,703,TO DAYBREAK    ,0,5,900 East Station,18381,2-Midday, 153 , 184 
+WKD,703,TO DAYBREAK    ,0,5,900 East Station,18381,3-PM Peak, 99 , 173 
+WKD,703,TO DAYBREAK    ,0,5,900 East Station,18381,4-Evening, 37 , 81 
+WKD,703,TO DAYBREAK    ,0,6,Trolley Station,18379,1-AM Peak, 145 , 33 
+WKD,703,TO DAYBREAK    ,0,6,Trolley Station,18379,2-Midday, 271 , 304 
+WKD,703,TO DAYBREAK    ,0,6,Trolley Station,18379,3-PM Peak, 212 , 299 
+WKD,703,TO DAYBREAK    ,0,6,Trolley Station,18379,4-Evening, 97 , 131 
+WKD,703,TO DAYBREAK    ,0,7,Library Station,18377,1-AM Peak, 71 , 59 
+WKD,703,TO DAYBREAK    ,0,7,Library Station,18377,2-Midday, 305 , 193 
+WKD,703,TO DAYBREAK    ,0,7,Library Station,18377,3-PM Peak, 327 , 128 
+WKD,703,TO DAYBREAK    ,0,7,Library Station,18377,4-Evening, 88 , 49 
+WKD,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,1-AM Peak, 70 , 184 
+WKD,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,2-Midday, 229 , 640 
+WKD,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,3-PM Peak, 505 , 437 
+WKD,703,TO DAYBREAK    ,0,8,Courthouse Station,18410,4-Evening, 93 , 174 
+WKD,703,TO DAYBREAK    ,0,9,900 South Station,20973,1-AM Peak, 55 , 21 
+WKD,703,TO DAYBREAK    ,0,9,900 South Station,20973,2-Midday, 86 , 84 
+WKD,703,TO DAYBREAK    ,0,9,900 South Station,20973,3-PM Peak, 80 , 81 
+WKD,703,TO DAYBREAK    ,0,9,900 South Station,20973,4-Evening, 26 , 29 
+WKD,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,1-AM Peak, 54 , 43 
+WKD,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,2-Midday, 132 , 126 
+WKD,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,3-PM Peak, 97 , 110 
+WKD,703,TO DAYBREAK    ,0,10,Ballpark Station,18412,4-Evening, 37 , 36 
+WKD,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,1-AM Peak, 119 , 64 
+WKD,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,2-Midday, 268 , 174 
+WKD,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,3-PM Peak, 245 , 117 
+WKD,703,TO DAYBREAK    ,0,11,Central Pointe Station,18414,4-Evening, 77 , 42 
+WKD,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,1-AM Peak, 67 , 55 
+WKD,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,2-Midday, 112 , 181 
+WKD,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,3-PM Peak, 82 , 152 
+WKD,703,TO DAYBREAK    ,0,12,Millcreek Station,18388,4-Evening, 32 , 51 
+WKD,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,1-AM Peak, 55 , 57 
+WKD,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,2-Midday, 92 , 172 
+WKD,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,3-PM Peak, 81 , 171 
+WKD,703,TO DAYBREAK    ,0,13,Meadowbrook Station,18390,4-Evening, 19 , 59 
+WKD,703,TO DAYBREAK    ,0,14,Murray North Station,18392,1-AM Peak, 70 , 31 
+WKD,703,TO DAYBREAK    ,0,14,Murray North Station,18392,2-Midday, 59 , 127 
+WKD,703,TO DAYBREAK    ,0,14,Murray North Station,18392,3-PM Peak, 44 , 123 
+WKD,703,TO DAYBREAK    ,0,14,Murray North Station,18392,4-Evening, 14 , 46 
+WKD,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,1-AM Peak, 125 , 217 
+WKD,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,2-Midday, 148 , 519 
+WKD,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,3-PM Peak, 167 , 553 
+WKD,703,TO DAYBREAK    ,0,15,Murray Central Station,18394,4-Evening, 45 , 144 
+WKD,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,1-AM Peak, 43 , 84 
+WKD,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,2-Midday, 100 , 274 
+WKD,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,3-PM Peak, 123 , 250 
+WKD,703,TO DAYBREAK    ,0,16,Fashion Place West Station,18396,4-Evening, 30 , 65 
+WKD,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,1-AM Peak, 1 , 8 
+WKD,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,2-Midday, 3 , 6 
+WKD,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,3-PM Peak, 0 , 2 
+WKD,703,TO DAYBREAK    ,0,17,Midvale Rail Service Center,24144,4-Evening, -   , 1 
+WKD,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,1-AM Peak, 17 , 90 
+WKD,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,2-Midday, 22 , 104 
+WKD,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,3-PM Peak, 28 , 114 
+WKD,703,TO DAYBREAK    ,0,18,Bingham Junction Station,22636,4-Evening, 5 , 33 
+WKD,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,1-AM Peak, 6 , 19 
+WKD,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,2-Midday, 14 , 42 
+WKD,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,3-PM Peak, 11 , 56 
+WKD,703,TO DAYBREAK    ,0,19,Historic Gardner Station,22634,4-Evening, 7 , 13 
+WKD,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,1-AM Peak, 23 , 44 
+WKD,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,2-Midday, 49 , 146 
+WKD,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,3-PM Peak, 29 , 137 
+WKD,703,TO DAYBREAK    ,0,20,West Jordan City Center Station,22632,4-Evening, 7 , 40 
+WKD,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,1-AM Peak, 12 , 19 
+WKD,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,2-Midday, 20 , 93 
+WKD,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,3-PM Peak, 6 , 121 
+WKD,703,TO DAYBREAK    ,0,21,2700 W. Sugar Factory Rd Station,22630,4-Evening, 2 , 28 
+WKD,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,1-AM Peak, 14 , 58 
+WKD,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,2-Midday, 55 , 124 
+WKD,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,3-PM Peak, 11 , 146 
+WKD,703,TO DAYBREAK    ,0,22,Jordan Valley Station,22628,4-Evening, 3 , 35 
+WKD,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,1-AM Peak, 11 , 20 
+WKD,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,2-Midday, 6 , 181 
+WKD,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,3-PM Peak, 3 , 252 
+WKD,703,TO DAYBREAK    ,0,23,4800 W. Old Bingham Hwy Station,22626,4-Evening, 1 , 48 
+WKD,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,1-AM Peak, 3 , 16 
+WKD,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,2-Midday, 2 , 63 
+WKD,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,3-PM Peak, 1 , 98 
+WKD,703,TO DAYBREAK    ,0,24,5600 W.Old Bingham Hwy Station,22624,4-Evening, 0 , 14 
+WKD,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,1-AM Peak, 3 , 22 
+WKD,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,2-Midday, 14 , 44 
+WKD,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,3-PM Peak, 4 , 92 
+WKD,703,TO DAYBREAK    ,0,25,South Jordan Parkway Station,22622,4-Evening, 1 , 15 
+WKD,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,1-AM Peak, 0 , 142 
+WKD,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,2-Midday, 0 , 382 
+WKD,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,3-PM Peak, 5 , 531 
+WKD,703,TO DAYBREAK    ,0,26,Daybreak Parkway Station,22639,4-Evening, 0 , 107 
+WKD,703,TO MEDICAL     ,1,1,Fashion Place West Station,18395,1-AM Peak, 72 , 1 
+WKD,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,1-AM Peak, 640 , 4 
+WKD,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,2-Midday, 253 , 9 
+WKD,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,3-PM Peak, 199 , 6 
+WKD,703,TO MEDICAL     ,1,1,Daybreak Parkway Station,22620,4-Evening, 46 , 3 
+WKD,703,TO MEDICAL     ,1,2,Murray Central Station,18393,1-AM Peak, 38 , 4 
+WKD,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,1-AM Peak, 109 , 5 
+WKD,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,2-Midday, 34 , 8 
+WKD,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,3-PM Peak, 27 , 5 
+WKD,703,TO MEDICAL     ,1,2,South Jordan Parkway Station,22621,4-Evening, 2 , 1 
+WKD,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,1-AM Peak, 124 , 1 
+WKD,703,TO MEDICAL     ,1,3,Murray North Station,18391,1-AM Peak, 4 , 2 
+WKD,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,2-Midday, 28 , 2 
+WKD,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,3-PM Peak, 22 , 3 
+WKD,703,TO MEDICAL     ,1,3,5600 W.Old Bingham Hwy Station,22623,4-Evening, 5 , 0 
+WKD,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,1-AM Peak, 294 , 3 
+WKD,703,TO MEDICAL     ,1,4,Meadowbrook Station,18389,1-AM Peak, 2 , 12 
+WKD,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,2-Midday, 92 , 7 
+WKD,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,3-PM Peak, 55 , 13 
+WKD,703,TO MEDICAL     ,1,4,4800 W. Old Bingham Hwy Station,22625,4-Evening, 12 , 2 
+WKD,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,1-AM Peak, 173 , 36 
+WKD,703,TO MEDICAL     ,1,5,Millcreek Station,18387,1-AM Peak, 2 , 3 
+WKD,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,2-Midday, 126 , 15 
+WKD,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,3-PM Peak, 67 , 15 
+WKD,703,TO MEDICAL     ,1,5,Jordan Valley Station,22627,4-Evening, 19 , 3 
+WKD,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,1-AM Peak, 163 , 12 
+WKD,703,TO MEDICAL     ,1,6,Central Pointe Station,18413,1-AM Peak, 3 , 13 
+WKD,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,2-Midday, 68 , 17 
+WKD,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,3-PM Peak, 33 , 11 
+WKD,703,TO MEDICAL     ,1,6,2700 W. Sugar Factory Rd Station,22629,4-Evening, 8 , 2 
+WKD,703,TO MEDICAL     ,1,7,Ballpark Station,18411,1-AM Peak, 4 , 2 
+WKD,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,1-AM Peak, 175 , 31 
+WKD,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,2-Midday, 112 , 55 
+WKD,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,3-PM Peak, 58 , 33 
+WKD,703,TO MEDICAL     ,1,7,West Jordan City Center Station,22631,4-Evening, 23 , 5 
+WKD,703,TO MEDICAL     ,1,8,900 South Station,20982,1-AM Peak, -   , 1 
+WKD,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,1-AM Peak, 58 , 7 
+WKD,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,2-Midday, 41 , 14 
+WKD,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,3-PM Peak, 20 , 11 
+WKD,703,TO MEDICAL     ,1,8,Historic Gardner Station,22633,4-Evening, 11 , 4 
+WKD,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,1-AM Peak, 129 , 32 
+WKD,703,TO MEDICAL     ,1,9,Courthouse Station,18409,1-AM Peak, 5 , 28 
+WKD,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,2-Midday, 89 , 19 
+WKD,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,3-PM Peak, 105 , 16 
+WKD,703,TO MEDICAL     ,1,9,Bingham Junction Station,22635,4-Evening, 21 , 5 
+WKD,703,TO MEDICAL     ,1,10,Library Station,18378,1-AM Peak, 2 , 2 
+WKD,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,1-AM Peak, 1 , 5 
+WKD,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,2-Midday, 4 , 2 
+WKD,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,3-PM Peak, 0 , -   
+WKD,703,TO MEDICAL     ,1,10,Midvale Rail Service Center,24144,4-Evening, 4 , 1 
+WKD,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,1-AM Peak, 279 , 74 
+WKD,703,TO MEDICAL     ,1,11,Trolley Station,18380,1-AM Peak, 3 , 2 
+WKD,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,2-Midday, 141 , 104 
+WKD,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,3-PM Peak, 62 , 62 
+WKD,703,TO MEDICAL     ,1,11,Fashion Place West Station,18395,4-Evening, 22 , 22 
+WKD,703,TO MEDICAL     ,1,12,900 East Station,18382,1-AM Peak, 11 , 3 
+WKD,703,TO MEDICAL     ,1,12,Murray Central Station,18393,1-AM Peak, 574 , 137 
+WKD,703,TO MEDICAL     ,1,12,Murray Central Station,18393,2-Midday, 300 , 96 
+WKD,703,TO MEDICAL     ,1,12,Murray Central Station,18393,3-PM Peak, 190 , 114 
+WKD,703,TO MEDICAL     ,1,12,Murray Central Station,18393,4-Evening, 50 , 23 
+WKD,703,TO MEDICAL     ,1,13,Stadium Station,18383,1-AM Peak, -   , 10 
+WKD,703,TO MEDICAL     ,1,13,Murray North Station,18391,1-AM Peak, 122 , 31 
+WKD,703,TO MEDICAL     ,1,13,Murray North Station,18391,2-Midday, 79 , 54 
+WKD,703,TO MEDICAL     ,1,13,Murray North Station,18391,3-PM Peak, 42 , 42 
+WKD,703,TO MEDICAL     ,1,13,Murray North Station,18391,4-Evening, 16 , 12 
+WKD,703,TO MEDICAL     ,1,14,University South Campus Station,19166,1-AM Peak, 2 , 33 
+WKD,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,1-AM Peak, 156 , 83 
+WKD,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,2-Midday, 105 , 47 
+WKD,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,3-PM Peak, 48 , 45 
+WKD,703,TO MEDICAL     ,1,14,Meadowbrook Station,18389,4-Evening, 18 , 12 
+WKD,703,TO MEDICAL     ,1,15,Fort Douglas Station,19168,1-AM Peak, -   , 6 
+WKD,703,TO MEDICAL     ,1,15,Millcreek Station,18387,1-AM Peak, 122 , 67 
+WKD,703,TO MEDICAL     ,1,15,Millcreek Station,18387,2-Midday, 112 , 71 
+WKD,703,TO MEDICAL     ,1,15,Millcreek Station,18387,3-PM Peak, 62 , 60 
+WKD,703,TO MEDICAL     ,1,15,Millcreek Station,18387,4-Evening, 27 , 21 
+WKD,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,1-AM Peak, 154 , 205 
+WKD,703,TO MEDICAL     ,1,16,University Medical Center,19170,1-AM Peak, -   , 26 
+WKD,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,2-Midday, 157 , 156 
+WKD,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,3-PM Peak, 86 , 117 
+WKD,703,TO MEDICAL     ,1,16,Central Pointe Station,18413,4-Evening, 36 , 36 
+WKD,703,TO MEDICAL     ,1,17,Ballpark Station,18411,1-AM Peak, 96 , 63 
+WKD,703,TO MEDICAL     ,1,17,Ballpark Station,18411,2-Midday, 118 , 94 
+WKD,703,TO MEDICAL     ,1,17,Ballpark Station,18411,3-PM Peak, 57 , 72 
+WKD,703,TO MEDICAL     ,1,17,Ballpark Station,18411,4-Evening, 29 , 25 
+WKD,703,TO MEDICAL     ,1,18,900 South Station,20982,1-AM Peak, 83 , 78 
+WKD,703,TO MEDICAL     ,1,18,900 South Station,20982,2-Midday, 90 , 66 
+WKD,703,TO MEDICAL     ,1,18,900 South Station,20982,3-PM Peak, 41 , 53 
+WKD,703,TO MEDICAL     ,1,18,900 South Station,20982,4-Evening, 19 , 18 
+WKD,703,TO MEDICAL     ,1,19,Courthouse Station,18409,1-AM Peak, 403 , 611 
+WKD,703,TO MEDICAL     ,1,19,Courthouse Station,18409,2-Midday, 548 , 237 
+WKD,703,TO MEDICAL     ,1,19,Courthouse Station,18409,3-PM Peak, 305 , 155 
+WKD,703,TO MEDICAL     ,1,19,Courthouse Station,18409,4-Evening, 154 , 64 
+WKD,703,TO MEDICAL     ,1,20,Library Station,18378,1-AM Peak, 145 , 279 
+WKD,703,TO MEDICAL     ,1,20,Library Station,18378,2-Midday, 208 , 272 
+WKD,703,TO MEDICAL     ,1,20,Library Station,18378,3-PM Peak, 110 , 118 
+WKD,703,TO MEDICAL     ,1,20,Library Station,18378,4-Evening, 46 , 42 
+WKD,703,TO MEDICAL     ,1,21,Trolley Station,18380,1-AM Peak, 307 , 146 
+WKD,703,TO MEDICAL     ,1,21,Trolley Station,18380,2-Midday, 276 , 310 
+WKD,703,TO MEDICAL     ,1,21,Trolley Station,18380,3-PM Peak, 123 , 235 
+WKD,703,TO MEDICAL     ,1,21,Trolley Station,18380,4-Evening, 64 , 91 
+WKD,703,TO MEDICAL     ,1,22,900 East Station,18382,1-AM Peak, 311 , 73 
+WKD,703,TO MEDICAL     ,1,22,900 East Station,18382,2-Midday, 193 , 149 
+WKD,703,TO MEDICAL     ,1,22,900 East Station,18382,3-PM Peak, 53 , 122 
+WKD,703,TO MEDICAL     ,1,22,900 East Station,18382,4-Evening, 18 , 60 
+WKD,703,TO MEDICAL     ,1,23,Stadium Station,18383,1-AM Peak, 124 , 964 
+WKD,703,TO MEDICAL     ,1,23,Stadium Station,18383,2-Midday, 212 , 502 
+WKD,703,TO MEDICAL     ,1,23,Stadium Station,18383,3-PM Peak, 102 , 155 
+WKD,703,TO MEDICAL     ,1,23,Stadium Station,18383,4-Evening, 40 , 56 
+WKD,703,TO MEDICAL     ,1,24,University South Campus Station,19166,1-AM Peak, 20 , 887 
+WKD,703,TO MEDICAL     ,1,24,University South Campus Station,19166,2-Midday, 35 , 501 
+WKD,703,TO MEDICAL     ,1,24,University South Campus Station,19166,3-PM Peak, 8 , 136 
+WKD,703,TO MEDICAL     ,1,24,University South Campus Station,19166,4-Evening, 4 , 33 
+WKD,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,1-AM Peak, 4 , 192 
+WKD,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,2-Midday, 17 , 246 
+WKD,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,3-PM Peak, 9 , 153 
+WKD,703,TO MEDICAL     ,1,25,Fort Douglas Station,19168,4-Evening, 3 , 93 
+WKD,703,TO MEDICAL     ,1,26,University Medical Center,19170,1-AM Peak, 0 , 750 
+WKD,703,TO MEDICAL     ,1,26,University Medical Center,19170,2-Midday, 0 , 379 
+WKD,703,TO MEDICAL     ,1,26,University Medical Center,19170,3-PM Peak, 0 , 133 
+WKD,703,TO MEDICAL     ,1,26,University Medical Center,19170,4-Evening, 0 , 62 
+WKD,704,TO WEST VALLEY ,0,1,Airport Station,23049,1-AM Peak, 167 , 4 
+WKD,704,TO WEST VALLEY ,0,1,Airport Station,23049,2-Midday, 543 , 9 
+WKD,704,TO WEST VALLEY ,0,1,Airport Station,23049,3-PM Peak, 419 , 4 
+WKD,704,TO WEST VALLEY ,0,1,Airport Station,23049,4-Evening, 169 , 3 
+WKD,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,1-AM Peak, 198 , 9 
+WKD,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,2-Midday, 238 , 49 
+WKD,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,3-PM Peak, 192 , 55 
+WKD,704,TO WEST VALLEY ,0,2,1940 W North Temple Station,23048,4-Evening, 47 , 16 
+WKD,704,TO WEST VALLEY ,0,3,Power Station,23046,1-AM Peak, 100 , 7 
+WKD,704,TO WEST VALLEY ,0,3,Power Station,23046,2-Midday, 154 , 21 
+WKD,704,TO WEST VALLEY ,0,3,Power Station,23046,3-PM Peak, 134 , 26 
+WKD,704,TO WEST VALLEY ,0,3,Power Station,23046,4-Evening, 37 , 6 
+WKD,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,1-AM Peak, 15 , 4 
+WKD,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,2-Midday, 64 , 22 
+WKD,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,3-PM Peak, 43 , 17 
+WKD,704,TO WEST VALLEY ,0,4,Fairpark Station,23044,4-Evening, 23 , 5 
+WKD,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,1-AM Peak, 130 , 24 
+WKD,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,2-Midday, 226 , 75 
+WKD,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,3-PM Peak, 138 , 81 
+WKD,704,TO WEST VALLEY ,0,5,Jackson/Euclid Station,23042,4-Evening, 72 , 23 
+WKD,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,1-AM Peak, 447 , 95 
+WKD,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,2-Midday, 218 , 209 
+WKD,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,3-PM Peak, 112 , 222 
+WKD,704,TO WEST VALLEY ,0,6,North Temple Bridge/Guadalupe,23040,4-Evening, 52 , 66 
+WKD,704,TO WEST VALLEY ,0,7,Arena Station,18406,1-AM Peak, 67 , 74 
+WKD,704,TO WEST VALLEY ,0,7,Arena Station,18406,2-Midday, 198 , 145 
+WKD,704,TO WEST VALLEY ,0,7,Arena Station,18406,3-PM Peak, 104 , 102 
+WKD,704,TO WEST VALLEY ,0,7,Arena Station,18406,4-Evening, 47 , 45 
+WKD,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,1-AM Peak, 22 , 78 
+WKD,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,2-Midday, 59 , 138 
+WKD,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,3-PM Peak, 49 , 63 
+WKD,704,TO WEST VALLEY ,0,8,Temple Square Station,18408,4-Evening, 29 , 28 
+WKD,704,TO WEST VALLEY ,0,9,City Center Station,18386,1-AM Peak, 45 , 275 
+WKD,704,TO WEST VALLEY ,0,9,City Center Station,18386,2-Midday, 215 , 285 
+WKD,704,TO WEST VALLEY ,0,9,City Center Station,18386,3-PM Peak, 260 , 139 
+WKD,704,TO WEST VALLEY ,0,9,City Center Station,18386,4-Evening, 97 , 55 
+WKD,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,1-AM Peak, 27 , 174 
+WKD,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,2-Midday, 110 , 141 
+WKD,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,3-PM Peak, 153 , 69 
+WKD,704,TO WEST VALLEY ,0,10,Gallivan Plaza Station,18376,4-Evening, 48 , 36 
+WKD,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,1-AM Peak, 29 , 230 
+WKD,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,2-Midday, 123 , 377 
+WKD,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,3-PM Peak, 102 , 323 
+WKD,704,TO WEST VALLEY ,0,11,Courthouse Station,18410,4-Evening, 34 , 132 
+WKD,704,TO WEST VALLEY ,0,12,900 South Station,20973,1-AM Peak, 26 , 29 
+WKD,704,TO WEST VALLEY ,0,12,900 South Station,20973,2-Midday, 64 , 74 
+WKD,704,TO WEST VALLEY ,0,12,900 South Station,20973,3-PM Peak, 44 , 67 
+WKD,704,TO WEST VALLEY ,0,12,900 South Station,20973,4-Evening, 17 , 36 
+WKD,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,1-AM Peak, 41 , 69 
+WKD,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,2-Midday, 122 , 155 
+WKD,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,3-PM Peak, 67 , 106 
+WKD,704,TO WEST VALLEY ,0,13,Ballpark Station,18412,4-Evening, 35 , 50 
+WKD,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,1-AM Peak, 107 , 100 
+WKD,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,2-Midday, 230 , 206 
+WKD,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,3-PM Peak, 156 , 163 
+WKD,704,TO WEST VALLEY ,0,14,Central Pointe Station,18414,4-Evening, 68 , 64 
+WKD,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,1-AM Peak, -   , 1 
+WKD,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,2-Midday, 1 , 2 
+WKD,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,3-PM Peak, -   , -   
+WKD,704,TO WEST VALLEY ,0,15,Jordan River Service Center Reli,23092,4-Evening, -   , 0 
+WKD,704,TO WEST VALLEY ,0,16,River Trail Station,22645,1-AM Peak, 7 , 68 
+WKD,704,TO WEST VALLEY ,0,16,River Trail Station,22645,2-Midday, 47 , 82 
+WKD,704,TO WEST VALLEY ,0,16,River Trail Station,22645,3-PM Peak, 17 , 39 
+WKD,704,TO WEST VALLEY ,0,16,River Trail Station,22645,4-Evening, 5 , 17 
+WKD,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,1-AM Peak, 11 , 64 
+WKD,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,2-Midday, 59 , 136 
+WKD,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,3-PM Peak, 32 , 80 
+WKD,704,TO WEST VALLEY ,0,17,Redwood Junction Station,22647,4-Evening, 9 , 31 
+WKD,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,1-AM Peak, 8 , 26 
+WKD,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,2-Midday, 20 , 114 
+WKD,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,3-PM Peak, 12 , 122 
+WKD,704,TO WEST VALLEY ,0,18,Decker Lake Station,22649,4-Evening, 5 , 46 
+WKD,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,1-AM Peak, -   , 121 
+WKD,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,2-Midday, 1 , 454 
+WKD,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,3-PM Peak, 2 , 360 
+WKD,704,TO WEST VALLEY ,0,19,West Valley Central Station,22651,4-Evening, 3 , 138 
+WKD,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,1-AM Peak, 348 , 2 
+WKD,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,2-Midday, 395 , 8 
+WKD,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,3-PM Peak, 230 , 3 
+WKD,704,TO AIRPORT     ,1,1,West Valley Central Station,22652,4-Evening, 133 , 4 
+WKD,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,1-AM Peak, 152 , 6 
+WKD,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,2-Midday, 89 , 19 
+WKD,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,3-PM Peak, 49 , 16 
+WKD,704,TO AIRPORT     ,1,2,Decker Lake Station,22650,4-Evening, 21 , 9 
+WKD,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,1-AM Peak, 73 , 36 
+WKD,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,2-Midday, 123 , 45 
+WKD,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,3-PM Peak, 108 , 21 
+WKD,704,TO AIRPORT     ,1,3,Redwood Junction Station,22648,4-Evening, 33 , 11 
+WKD,704,TO AIRPORT     ,1,4,River Trail Station,22646,1-AM Peak, 29 , 26 
+WKD,704,TO AIRPORT     ,1,4,River Trail Station,22646,2-Midday, 81 , 17 
+WKD,704,TO AIRPORT     ,1,4,River Trail Station,22646,3-PM Peak, 71 , 11 
+WKD,704,TO AIRPORT     ,1,4,River Trail Station,22646,4-Evening, 21 , 7 
+WKD,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,1-AM Peak, 1 , 2 
+WKD,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,2-Midday, 3 , 3 
+WKD,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,3-PM Peak, 0 , -   
+WKD,704,TO AIRPORT     ,1,5,Jordan River Service Center Reli,23092,4-Evening, 0 , -   
+WKD,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,1-AM Peak, 150 , 179 
+WKD,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,2-Midday, 195 , 247 
+WKD,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,3-PM Peak, 110 , 179 
+WKD,704,TO AIRPORT     ,1,6,Central Pointe Station,18413,4-Evening, 60 , 69 
+WKD,704,TO AIRPORT     ,1,7,Ballpark Station,18411,1-AM Peak, 85 , 38 
+WKD,704,TO AIRPORT     ,1,7,Ballpark Station,18411,2-Midday, 143 , 72 
+WKD,704,TO AIRPORT     ,1,7,Ballpark Station,18411,3-PM Peak, 78 , 44 
+WKD,704,TO AIRPORT     ,1,7,Ballpark Station,18411,4-Evening, 49 , 21 
+WKD,704,TO AIRPORT     ,1,8,900 South Station,20982,1-AM Peak, 86 , 32 
+WKD,704,TO AIRPORT     ,1,8,900 South Station,20982,2-Midday, 95 , 46 
+WKD,704,TO AIRPORT     ,1,8,900 South Station,20982,3-PM Peak, 46 , 32 
+WKD,704,TO AIRPORT     ,1,8,900 South Station,20982,4-Evening, 29 , 18 
+WKD,704,TO AIRPORT     ,1,9,Courthouse Station,18409,1-AM Peak, 487 , 94 
+WKD,704,TO AIRPORT     ,1,9,Courthouse Station,18409,2-Midday, 578 , 106 
+WKD,704,TO AIRPORT     ,1,9,Courthouse Station,18409,3-PM Peak, 371 , 54 
+WKD,704,TO AIRPORT     ,1,9,Courthouse Station,18409,4-Evening, 184 , 30 
+WKD,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,1-AM Peak, 53 , 211 
+WKD,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,2-Midday, 205 , 139 
+WKD,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,3-PM Peak, 213 , 70 
+WKD,704,TO AIRPORT     ,1,10,Gallivan Plaza Station,18415,4-Evening, 66 , 28 
+WKD,704,TO AIRPORT     ,1,11,City Center Station,18385,1-AM Peak, 69 , 393 
+WKD,704,TO AIRPORT     ,1,11,City Center Station,18385,2-Midday, 336 , 346 
+WKD,704,TO AIRPORT     ,1,11,City Center Station,18385,3-PM Peak, 322 , 175 
+WKD,704,TO AIRPORT     ,1,11,City Center Station,18385,4-Evening, 125 , 70 
+WKD,704,TO AIRPORT     ,1,12,Temple Square Station,18407,1-AM Peak, 29 , 61 
+WKD,704,TO AIRPORT     ,1,12,Temple Square Station,18407,2-Midday, 109 , 96 
+WKD,704,TO AIRPORT     ,1,12,Temple Square Station,18407,3-PM Peak, 90 , 64 
+WKD,704,TO AIRPORT     ,1,12,Temple Square Station,18407,4-Evening, 56 , 38 
+WKD,704,TO AIRPORT     ,1,13,Arena Station,18405,1-AM Peak, 59 , 176 
+WKD,704,TO AIRPORT     ,1,13,Arena Station,18405,2-Midday, 144 , 293 
+WKD,704,TO AIRPORT     ,1,13,Arena Station,18405,3-PM Peak, 91 , 212 
+WKD,704,TO AIRPORT     ,1,13,Arena Station,18405,4-Evening, 61 , 119 
+WKD,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,1-AM Peak, 290 , 56 
+WKD,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,2-Midday, 272 , 318 
+WKD,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,3-PM Peak, 103 , 417 
+WKD,704,TO AIRPORT     ,1,14,North Temple Bridge/Guadalupe,23039,4-Evening, 59 , 121 
+WKD,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,1-AM Peak, 27 , 53 
+WKD,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,2-Midday, 69 , 221 
+WKD,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,3-PM Peak, 49 , 169 
+WKD,704,TO AIRPORT     ,1,15,Jackson/Euclid Station,23041,4-Evening, 24 , 100 
+WKD,704,TO AIRPORT     ,1,16,Fairpark Station,23043,1-AM Peak, 6 , 31 
+WKD,704,TO AIRPORT     ,1,16,Fairpark Station,23043,2-Midday, 21 , 76 
+WKD,704,TO AIRPORT     ,1,16,Fairpark Station,23043,3-PM Peak, 12 , 54 
+WKD,704,TO AIRPORT     ,1,16,Fairpark Station,23043,4-Evening, 7 , 23 
+WKD,704,TO AIRPORT     ,1,17,Power Station,23045,1-AM Peak, 14 , 97 
+WKD,704,TO AIRPORT     ,1,17,Power Station,23045,2-Midday, 21 , 142 
+WKD,704,TO AIRPORT     ,1,17,Power Station,23045,3-PM Peak, 7 , 99 
+WKD,704,TO AIRPORT     ,1,17,Power Station,23045,4-Evening, 6 , 56 
+WKD,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,1-AM Peak, 29 , 139 
+WKD,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,2-Midday, 39 , 217 
+WKD,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,3-PM Peak, 7 , 165 
+WKD,704,TO AIRPORT     ,1,18,1940 W North Temple Station,23047,4-Evening, 6 , 80 
+WKD,704,TO AIRPORT     ,1,19,Airport Station,23049,1-AM Peak, -   , 357 
+WKD,704,TO AIRPORT     ,1,19,Airport Station,23049,2-Midday, -   , 511 
+WKD,704,TO AIRPORT     ,1,19,Airport Station,23049,3-PM Peak, -   , 170 
+WKD,704,TO AIRPORT     ,1,19,Airport Station,23049,4-Evening, -   , 141 
+WKD,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,1-AM Peak, 79 , 10 
+WKD,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,2-Midday, 177 , 21 
+WKD,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,3-PM Peak, 171 , 14 
+WKD,720,TO FAIRMONT    ,0,1,Central Pointe Station,23565,4-Evening, 72 , 10 
+WKD,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,1-AM Peak, 4 , 10 
+WKD,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,2-Midday, 17 , 21 
+WKD,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,3-PM Peak, 14 , 23 
+WKD,720,TO FAIRMONT    ,0,2,South Salt Lake City Station,23566,4-Evening, 6 , 7 
+WKD,720,TO FAIRMONT    ,0,3,300 East Station,23567,1-AM Peak, 6 , 5 
+WKD,720,TO FAIRMONT    ,0,3,300 East Station,23567,2-Midday, 11 , 17 
+WKD,720,TO FAIRMONT    ,0,3,300 East Station,23567,3-PM Peak, 8 , 28 
+WKD,720,TO FAIRMONT    ,0,3,300 East Station,23567,4-Evening, 6 , 11 
+WKD,720,TO FAIRMONT    ,0,4,500 East Station,23568,1-AM Peak, 7 , 9 
+WKD,720,TO FAIRMONT    ,0,4,500 East Station,23568,2-Midday, 19 , 28 
+WKD,720,TO FAIRMONT    ,0,4,500 East Station,23568,3-PM Peak, 15 , 35 
+WKD,720,TO FAIRMONT    ,0,4,500 East Station,23568,4-Evening, 5 , 15 
+WKD,720,TO FAIRMONT    ,0,5,700 East Station,23569,1-AM Peak, 5 , 15 
+WKD,720,TO FAIRMONT    ,0,5,700 East Station,23569,2-Midday, 8 , 37 
+WKD,720,TO FAIRMONT    ,0,5,700 East Station,23569,3-PM Peak, 7 , 31 
+WKD,720,TO FAIRMONT    ,0,5,700 East Station,23569,4-Evening, 4 , 10 
+WKD,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,1-AM Peak, 6 , 17 
+WKD,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,2-Midday, 14 , 40 
+WKD,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,3-PM Peak, 12 , 35 
+WKD,720,TO FAIRMONT    ,0,6,Sugarmont Station,23570,4-Evening, 5 , 16 
+WKD,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,1-AM Peak, -   , 42 
+WKD,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,2-Midday, -   , 84 
+WKD,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,3-PM Peak, -   , 61 
+WKD,720,TO FAIRMONT    ,0,7,Fairmont Station,23571,4-Evening, -   , 29 
+WKD,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,1-AM Peak, 38 , 5 
+WKD,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,2-Midday, 87 , 11 
+WKD,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,3-PM Peak, 65 , 8 
+WKD,720,TO CENTRAL PNTE,1,1,Fairmont Station,23571,4-Evening, 43 , 5 
+WKD,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,1-AM Peak, 10 , 2 
+WKD,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,2-Midday, 18 , 2 
+WKD,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,3-PM Peak, 19 , 3 
+WKD,720,TO CENTRAL PNTE,1,2,Sugarmont Station,23570,4-Evening, 10 , 1 
+WKD,720,TO CENTRAL PNTE,1,3,700 East Station,23569,1-AM Peak, 18 , 1 
+WKD,720,TO CENTRAL PNTE,1,3,700 East Station,23569,2-Midday, 30 , 6 
+WKD,720,TO CENTRAL PNTE,1,3,700 East Station,23569,3-PM Peak, 27 , 6 
+WKD,720,TO CENTRAL PNTE,1,3,700 East Station,23569,4-Evening, 12 , 3 
+WKD,720,TO CENTRAL PNTE,1,4,500 East Station,23568,1-AM Peak, 31 , 3 
+WKD,720,TO CENTRAL PNTE,1,4,500 East Station,23568,2-Midday, 25 , 13 
+WKD,720,TO CENTRAL PNTE,1,4,500 East Station,23568,3-PM Peak, 18 , 16 
+WKD,720,TO CENTRAL PNTE,1,4,500 East Station,23568,4-Evening, 9 , 8 
+WKD,720,TO CENTRAL PNTE,1,5,300 East Station,23567,1-AM Peak, 27 , 1 
+WKD,720,TO CENTRAL PNTE,1,5,300 East Station,23567,2-Midday, 23 , 9 
+WKD,720,TO CENTRAL PNTE,1,5,300 East Station,23567,3-PM Peak, 13 , 9 
+WKD,720,TO CENTRAL PNTE,1,5,300 East Station,23567,4-Evening, 7 , 5 
+WKD,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,1-AM Peak, 12 , 5 
+WKD,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,2-Midday, 22 , 16 
+WKD,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,3-PM Peak, 16 , 15 
+WKD,720,TO CENTRAL PNTE,1,6,South Salt Lake City Station,23566,4-Evening, 8 , 8 
+WKD,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,1-AM Peak, -   , 121 
+WKD,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,2-Midday, -   , 149 
+WKD,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,3-PM Peak, -   , 100 
+WKD,720,TO CENTRAL PNTE,1,7,Central Pointe Station,23565,4-Evening, -   , 58 

@@ -1,0 +1,241 @@
+Station,Source,Station_Sequence,Direction,Period,Boardings,Alightings,Board+Alight / 2
+American Fork Station,APC,14-American Fork Station,Northbound,1-AM Peak,414.0,26.0,220.0
+American Fork Station,APC,14-American Fork Station,Northbound,2-Midday,94.0,68.0,81.0
+American Fork Station,APC,14-American Fork Station,Northbound,3-PM Peak,92.0,98.0,95.0
+American Fork Station,APC,14-American Fork Station,Northbound,4-Evening,24.0,23.0,23.5
+American Fork Station,APC,14-American Fork Station,Southbound,1-AM Peak,155.0,54.0,104.5
+American Fork Station,APC,14-American Fork Station,Southbound,2-Midday,45.0,220.0,132.5
+American Fork Station,APC,14-American Fork Station,Southbound,3-PM Peak,31.0,302.0,166.5
+American Fork Station,APC,14-American Fork Station,Southbound,4-Evening,6.0,37.0,21.5
+American Fork Station,OBS,14-American Fork Station,Northbound,1-AM Peak,364.07189999999997,0.0,182.03594999999999
+American Fork Station,OBS,14-American Fork Station,Northbound,4-Evening,12.20608,55.58292,33.8945
+American Fork Station,OBS,14-American Fork Station,Northbound,2-Midday,67.28517000000001,81.54336,74.414265
+American Fork Station,OBS,14-American Fork Station,Northbound,3-PM Peak,67.08185,171.84756,119.464705
+American Fork Station,OBS,14-American Fork Station,Southbound,1-AM Peak,151.99617,85.24807000000001,118.62212000000001
+American Fork Station,OBS,14-American Fork Station,Southbound,4-Evening,4.54549,63.25453,33.90001
+American Fork Station,OBS,14-American Fork Station,Southbound,2-Midday,58.67148,146.78191,102.726695
+American Fork Station,OBS,14-American Fork Station,Southbound,3-PM Peak,36.14454,227.46931999999998,131.80693
+Clearfield Station,APC,03-Clearfield Station,Northbound,1-AM Peak,34.0,69.0,51.5
+Clearfield Station,APC,03-Clearfield Station,Northbound,2-Midday,40.0,257.0,148.5
+Clearfield Station,APC,03-Clearfield Station,Northbound,3-PM Peak,26.0,314.0,170.0
+Clearfield Station,APC,03-Clearfield Station,Northbound,4-Evening,6.0,46.0,26.0
+Clearfield Station,APC,03-Clearfield Station,Southbound,1-AM Peak,463.0,31.0,247.0
+Clearfield Station,APC,03-Clearfield Station,Southbound,2-Midday,132.0,18.0,75.0
+Clearfield Station,APC,03-Clearfield Station,Southbound,3-PM Peak,101.0,18.0,59.5
+Clearfield Station,APC,03-Clearfield Station,Southbound,4-Evening,24.0,8.0,16.0
+Clearfield Station,OBS,03-Clearfield Station,Northbound,1-AM Peak,40.02189,96.89115,68.45652
+Clearfield Station,OBS,03-Clearfield Station,Northbound,4-Evening,8.61967,36.33449,22.47708
+Clearfield Station,OBS,03-Clearfield Station,Northbound,2-Midday,56.01072,144.31727999999998,100.16399999999999
+Clearfield Station,OBS,03-Clearfield Station,Northbound,3-PM Peak,46.32748,206.74133999999998,126.53441
+Clearfield Station,OBS,03-Clearfield Station,Southbound,1-AM Peak,331.51306,129.2892,230.40113
+Clearfield Station,OBS,03-Clearfield Station,Southbound,4-Evening,13.44432,30.349400000000003,21.89686
+Clearfield Station,OBS,03-Clearfield Station,Southbound,2-Midday,77.6865,46.0079,61.8472
+Clearfield Station,OBS,03-Clearfield Station,Southbound,3-PM Peak,68.11969,21.35531,44.737500000000004
+Draper Station,APC,12-Draper Station,Northbound,1-AM Peak,192.0,156.0,174.0
+Draper Station,APC,12-Draper Station,Northbound,2-Midday,123.0,138.0,130.5
+Draper Station,APC,12-Draper Station,Northbound,3-PM Peak,175.0,123.0,149.0
+Draper Station,APC,12-Draper Station,Northbound,4-Evening,26.0,40.0,33.0
+Draper Station,APC,12-Draper Station,Southbound,1-AM Peak,183.0,208.0,195.5
+Draper Station,APC,12-Draper Station,Southbound,2-Midday,131.0,103.0,117.0
+Draper Station,APC,12-Draper Station,Southbound,3-PM Peak,92.0,139.0,115.5
+Draper Station,APC,12-Draper Station,Southbound,4-Evening,13.0,15.0,14.0
+Draper Station,OBS,12-Draper Station,Northbound,1-AM Peak,200.87993,220.59168,210.735805
+Draper Station,OBS,12-Draper Station,Northbound,4-Evening,42.5493,42.20676,42.37803
+Draper Station,OBS,12-Draper Station,Northbound,2-Midday,85.79994,159.6562,122.72807
+Draper Station,OBS,12-Draper Station,Northbound,3-PM Peak,190.58305,102.69639,146.63971999999998
+Draper Station,OBS,12-Draper Station,Southbound,1-AM Peak,141.7273,189.51778000000002,165.62254000000001
+Draper Station,OBS,12-Draper Station,Southbound,4-Evening,22.9291,6.3118,14.620449999999998
+Draper Station,OBS,12-Draper Station,Southbound,2-Midday,150.81669,63.50076,107.158725
+Draper Station,OBS,12-Draper Station,Southbound,3-PM Peak,106.21395000000001,220.92876,163.571355
+Farmington Station,APC,05-Farmington Station,Northbound,1-AM Peak,28.0,54.0,41.0
+Farmington Station,APC,05-Farmington Station,Northbound,2-Midday,50.0,127.0,88.5
+Farmington Station,APC,05-Farmington Station,Northbound,3-PM Peak,58.0,146.0,102.0
+Farmington Station,APC,05-Farmington Station,Northbound,4-Evening,14.0,23.0,18.5
+Farmington Station,APC,05-Farmington Station,Southbound,1-AM Peak,174.0,47.0,110.5
+Farmington Station,APC,05-Farmington Station,Southbound,2-Midday,75.0,39.0,57.0
+Farmington Station,APC,05-Farmington Station,Southbound,3-PM Peak,64.0,28.0,46.0
+Farmington Station,APC,05-Farmington Station,Southbound,4-Evening,19.0,9.0,14.0
+Farmington Station,OBS,05-Farmington Station,Northbound,1-AM Peak,6.72325,51.59923,29.16124
+Farmington Station,OBS,05-Farmington Station,Northbound,4-Evening,16.10932,13.38607,14.747695
+Farmington Station,OBS,05-Farmington Station,Northbound,2-Midday,57.932249999999996,81.82347,69.87786
+Farmington Station,OBS,05-Farmington Station,Northbound,3-PM Peak,64.62396,110.39911000000001,87.51153500000001
+Farmington Station,OBS,05-Farmington Station,Southbound,1-AM Peak,178.23199,29.43218,103.83208499999999
+Farmington Station,OBS,05-Farmington Station,Southbound,4-Evening,9.02824,4.903449999999999,6.965845
+Farmington Station,OBS,05-Farmington Station,Southbound,2-Midday,61.32647,44.88416,53.105315000000004
+Farmington Station,OBS,05-Farmington Station,Southbound,3-PM Peak,70.44574,32.042519999999996,51.24413
+Layton Station,APC,04-Layton Station,Northbound,1-AM Peak,29.0,46.0,37.5
+Layton Station,APC,04-Layton Station,Northbound,2-Midday,35.0,230.0,132.5
+Layton Station,APC,04-Layton Station,Northbound,3-PM Peak,34.0,301.0,167.5
+Layton Station,APC,04-Layton Station,Northbound,4-Evening,8.0,41.0,24.5
+Layton Station,APC,04-Layton Station,Southbound,1-AM Peak,426.0,23.0,224.5
+Layton Station,APC,04-Layton Station,Southbound,2-Midday,97.0,20.0,58.5
+Layton Station,APC,04-Layton Station,Southbound,3-PM Peak,75.0,19.0,47.0
+Layton Station,APC,04-Layton Station,Southbound,4-Evening,24.0,8.0,16.0
+Layton Station,OBS,04-Layton Station,Northbound,1-AM Peak,13.4465,60.46888,36.95769
+Layton Station,OBS,04-Layton Station,Northbound,4-Evening,7.10426,52.611760000000004,29.85801
+Layton Station,OBS,04-Layton Station,Northbound,2-Midday,26.463029999999996,283.24305000000004,154.85304000000002
+Layton Station,OBS,04-Layton Station,Northbound,3-PM Peak,50.54245,413.17266,231.857555
+Layton Station,OBS,04-Layton Station,Southbound,1-AM Peak,446.20988,29.43218,237.82103
+Layton Station,OBS,04-Layton Station,Southbound,4-Evening,41.70782,7.84552,24.77667
+Layton Station,OBS,04-Layton Station,Southbound,2-Midday,133.07634000000002,16.83156,74.95395
+Layton Station,OBS,04-Layton Station,Southbound,3-PM Peak,59.60307,21.36168,40.482375000000005
+Lehi Station,APC,13-Lehi Station,Northbound,1-AM Peak,525.0,239.0,382.0
+Lehi Station,APC,13-Lehi Station,Northbound,2-Midday,202.0,90.0,146.0
+Lehi Station,APC,13-Lehi Station,Northbound,3-PM Peak,253.0,120.0,186.5
+Lehi Station,APC,13-Lehi Station,Northbound,4-Evening,36.0,33.0,34.5
+Lehi Station,APC,13-Lehi Station,Southbound,1-AM Peak,126.0,262.0,194.0
+Lehi Station,APC,13-Lehi Station,Southbound,2-Midday,188.0,276.0,232.0
+Lehi Station,APC,13-Lehi Station,Southbound,3-PM Peak,104.0,349.0,226.5
+Lehi Station,APC,13-Lehi Station,Southbound,4-Evening,17.0,43.0,30.0
+Lehi Station,OBS,13-Lehi Station,Northbound,1-AM Peak,517.18924,220.59168,368.89046
+Lehi Station,OBS,13-Lehi Station,Northbound,4-Evening,34.87746,24.62061,29.749035
+Lehi Station,OBS,13-Lehi Station,Northbound,2-Midday,264.40953,14.5142,139.46186500000002
+Lehi Station,OBS,13-Lehi Station,Northbound,3-PM Peak,244.11969,80.09624,162.10796499999998
+Lehi Station,OBS,13-Lehi Station,Southbound,1-AM Peak,54.51050000000001,338.16279000000003,196.33664500000003
+Lehi Station,OBS,13-Lehi Station,Southbound,4-Evening,13.75746,41.39882,27.57814
+Lehi Station,OBS,13-Lehi Station,Southbound,2-Midday,128.45385000000002,344.01396,236.233905
+Lehi Station,OBS,13-Lehi Station,Southbound,3-PM Peak,107.8525,260.81066,184.33158
+Murray Central Station,APC,10-Murray Central Station,Northbound,1-AM Peak,172.0,522.0,347.0
+Murray Central Station,APC,10-Murray Central Station,Northbound,2-Midday,172.0,341.0,256.5
+Murray Central Station,APC,10-Murray Central Station,Northbound,3-PM Peak,188.0,374.0,281.0
+Murray Central Station,APC,10-Murray Central Station,Northbound,4-Evening,45.0,92.0,68.5
+Murray Central Station,APC,10-Murray Central Station,Southbound,1-AM Peak,425.0,227.0,326.0
+Murray Central Station,APC,10-Murray Central Station,Southbound,2-Midday,410.0,146.0,278.0
+Murray Central Station,APC,10-Murray Central Station,Southbound,3-PM Peak,405.0,165.0,285.0
+Murray Central Station,APC,10-Murray Central Station,Southbound,4-Evening,65.0,25.0,45.0
+Murray Central Station,OBS,10-Murray Central Station,Northbound,1-AM Peak,227.79804000000001,427.85496,327.8265
+Murray Central Station,OBS,10-Murray Central Station,Northbound,4-Evening,61.86115,121.20136,91.531255
+Murray Central Station,OBS,10-Murray Central Station,Northbound,2-Midday,154.34864,329.65936,242.004
+Murray Central Station,OBS,10-Murray Central Station,Northbound,3-PM Peak,178.08342,345.20711,261.645265
+Murray Central Station,OBS,10-Murray Central Station,Southbound,1-AM Peak,230.15120000000002,214.33872,222.24496
+Murray Central Station,OBS,10-Murray Central Station,Southbound,4-Evening,68.07282000000001,56.674099999999996,62.37346
+Murray Central Station,OBS,10-Murray Central Station,Southbound,2-Midday,499.01736,118.3452,308.68128
+Murray Central Station,OBS,10-Murray Central Station,Southbound,3-PM Peak,325.42622,129.07672,227.25146999999998
+North Temple Station,APC,08-North Temple Station,Northbound,1-AM Peak,144.0,1016.0,580.0
+North Temple Station,APC,08-North Temple Station,Northbound,2-Midday,480.0,317.0,398.5
+North Temple Station,APC,08-North Temple Station,Northbound,3-PM Peak,591.0,283.0,437.0
+North Temple Station,APC,08-North Temple Station,Northbound,4-Evening,114.0,89.0,101.5
+North Temple Station,APC,08-North Temple Station,Southbound,1-AM Peak,166.0,796.0,481.0
+North Temple Station,APC,08-North Temple Station,Southbound,2-Midday,567.0,231.0,399.0
+North Temple Station,APC,08-North Temple Station,Southbound,3-PM Peak,684.0,153.0,418.5
+North Temple Station,APC,08-North Temple Station,Southbound,4-Evening,131.0,42.0,86.5
+North Temple Station,OBS,08-North Temple Station,Northbound,1-AM Peak,104.73385,1175.44406,640.088955
+North Temple Station,OBS,08-North Temple Station,Northbound,4-Evening,101.05425,84.09523999999999,92.574745
+North Temple Station,OBS,08-North Temple Station,Northbound,2-Midday,405.77126999999996,338.31279,372.04202999999995
+North Temple Station,OBS,08-North Temple Station,Northbound,3-PM Peak,640.62468,303.70901,472.16684499999997
+North Temple Station,OBS,08-North Temple Station,Southbound,1-AM Peak,234.75992000000002,997.1133199999999,615.93662
+North Temple Station,OBS,08-North Temple Station,Southbound,4-Evening,94.67295,29.47046,62.071705
+North Temple Station,OBS,08-North Temple Station,Southbound,2-Midday,388.42896,245.27624,316.8526
+North Temple Station,OBS,08-North Temple Station,Southbound,3-PM Peak,674.2943,232.55700000000002,453.42565
+Ogden Station,APC,01-Ogden Station,Northbound,1-AM Peak,5.0,218.0,111.5
+Ogden Station,APC,01-Ogden Station,Northbound,2-Midday,11.0,396.0,203.5
+Ogden Station,APC,01-Ogden Station,Northbound,3-PM Peak,6.0,400.0,203.0
+Ogden Station,APC,01-Ogden Station,Northbound,4-Evening,6.0,98.0,52.0
+Ogden Station,APC,01-Ogden Station,Southbound,1-AM Peak,485.0,87.0,286.0
+Ogden Station,APC,01-Ogden Station,Southbound,2-Midday,343.0,41.0,192.0
+Ogden Station,APC,01-Ogden Station,Southbound,3-PM Peak,265.0,19.0,142.0
+Ogden Station,APC,01-Ogden Station,Southbound,4-Evening,83.0,16.0,49.5
+Ogden Station,OBS,01-Ogden Station,Northbound,1-AM Peak,0.0,192.11041,96.055205
+Ogden Station,OBS,01-Ogden Station,Northbound,4-Evening,0.0,84.28188,42.14094
+Ogden Station,OBS,01-Ogden Station,Northbound,2-Midday,0.0,507.38773999999995,253.69386999999998
+Ogden Station,OBS,01-Ogden Station,Northbound,3-PM Peak,0.0,505.67872,252.83936
+Ogden Station,OBS,01-Ogden Station,Southbound,1-AM Peak,601.9819,0.0,300.99095
+Ogden Station,OBS,01-Ogden Station,Southbound,4-Evening,100.74772,0.0,50.37386
+Ogden Station,OBS,01-Ogden Station,Southbound,2-Midday,423.00276,0.0,211.50138
+Ogden Station,OBS,01-Ogden Station,Southbound,3-PM Peak,299.15542,0.0,149.57771
+Orem Central Station,APC,15-Orem Central Station,Northbound,1-AM Peak,568.0,38.0,303.0
+Orem Central Station,APC,15-Orem Central Station,Northbound,2-Midday,477.0,27.0,252.0
+Orem Central Station,APC,15-Orem Central Station,Northbound,3-PM Peak,433.0,27.0,230.0
+Orem Central Station,APC,15-Orem Central Station,Northbound,4-Evening,135.0,12.0,73.5
+Orem Central Station,APC,15-Orem Central Station,Southbound,1-AM Peak,38.0,590.0,314.0
+Orem Central Station,APC,15-Orem Central Station,Southbound,2-Midday,58.0,485.0,271.5
+Orem Central Station,APC,15-Orem Central Station,Southbound,3-PM Peak,33.0,398.0,215.5
+Orem Central Station,APC,15-Orem Central Station,Southbound,4-Evening,6.0,87.0,46.5
+Orem Central Station,OBS,15-Orem Central Station,Northbound,1-AM Peak,517.9602199999999,0.0,258.98010999999997
+Orem Central Station,OBS,15-Orem Central Station,Northbound,4-Evening,102.05222,18.52764,60.289930000000005
+Orem Central Station,OBS,15-Orem Central Station,Northbound,2-Midday,490.50895,81.54336,286.026155
+Orem Central Station,OBS,15-Orem Central Station,Northbound,3-PM Peak,406.47998,42.96189,224.720935
+Orem Central Station,OBS,15-Orem Central Station,Southbound,1-AM Peak,50.66539,468.52111,259.59325
+Orem Central Station,OBS,15-Orem Central Station,Southbound,4-Evening,9.09098,62.086240000000004,35.58861
+Orem Central Station,OBS,15-Orem Central Station,Southbound,2-Midday,58.67148,496.91842,277.79495000000003
+Orem Central Station,OBS,15-Orem Central Station,Southbound,3-PM Peak,36.14454,482.34310999999997,259.24382499999996
+Provo Central Station,APC,16-Provo Central Station,Northbound,1-AM Peak,975.0,98.0,536.5
+Provo Central Station,APC,16-Provo Central Station,Northbound,2-Midday,531.0,69.0,300.0
+Provo Central Station,APC,16-Provo Central Station,Northbound,3-PM Peak,576.0,90.0,333.0
+Provo Central Station,APC,16-Provo Central Station,Northbound,4-Evening,194.0,41.0,117.5
+Provo Central Station,APC,16-Provo Central Station,Southbound,1-AM Peak,10.0,498.0,254.0
+Provo Central Station,APC,16-Provo Central Station,Southbound,2-Midday,15.0,751.0,383.0
+Provo Central Station,APC,16-Provo Central Station,Southbound,3-PM Peak,8.0,612.0,310.0
+Provo Central Station,APC,16-Provo Central Station,Southbound,4-Evening,2.0,144.0,73.0
+Provo Central Station,OBS,16-Provo Central Station,Northbound,1-AM Peak,1073.89124,0.0,536.94562
+Provo Central Station,OBS,16-Provo Central Station,Northbound,4-Evening,238.64075,0.0,119.320375
+Provo Central Station,OBS,16-Provo Central Station,Northbound,2-Midday,544.54085,0.0,272.270425
+Provo Central Station,OBS,16-Provo Central Station,Northbound,3-PM Peak,627.33641,0.0,313.668205
+Provo Central Station,OBS,16-Provo Central Station,Southbound,1-AM Peak,0.0,588.21126,294.10563
+Provo Central Station,OBS,16-Provo Central Station,Southbound,4-Evening,0.0,142.22087,71.110435
+Provo Central Station,OBS,16-Provo Central Station,Southbound,2-Midday,0.0,812.95717,406.478585
+Provo Central Station,OBS,16-Provo Central Station,Southbound,3-PM Peak,0.0,602.4991,301.24955
+Roy Station,APC,02-Roy Station,Northbound,1-AM Peak,15.0,28.0,21.5
+Roy Station,APC,02-Roy Station,Northbound,2-Midday,19.0,160.0,89.5
+Roy Station,APC,02-Roy Station,Northbound,3-PM Peak,14.0,199.0,106.5
+Roy Station,APC,02-Roy Station,Northbound,4-Evening,5.0,27.0,16.0
+Roy Station,APC,02-Roy Station,Southbound,1-AM Peak,279.0,12.0,145.5
+Roy Station,APC,02-Roy Station,Southbound,2-Midday,74.0,10.0,42.0
+Roy Station,APC,02-Roy Station,Southbound,3-PM Peak,71.0,6.0,38.5
+Roy Station,APC,02-Roy Station,Southbound,4-Evening,17.0,6.0,11.5
+Roy Station,OBS,02-Roy Station,Northbound,1-AM Peak,13.34063,26.1898,19.765215
+Roy Station,OBS,02-Roy Station,Northbound,4-Evening,8.61967,45.40524,27.012455
+Roy Station,OBS,02-Roy Station,Northbound,2-Midday,14.00268,160.35386,87.17827
+Roy Station,OBS,02-Roy Station,Northbound,3-PM Peak,0.0,200.57505,100.287525
+Roy Station,OBS,02-Roy Station,Southbound,1-AM Peak,293.76198,0.0,146.88099
+Roy Station,OBS,02-Roy Station,Southbound,4-Evening,9.98065,0.0,4.990325
+Roy Station,OBS,02-Roy Station,Southbound,2-Midday,48.22256,23.00395,35.613255
+Roy Station,OBS,02-Roy Station,Southbound,3-PM Peak,69.01668000000001,21.35531,45.185995000000005
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Northbound,1-AM Peak,79.0,627.0,353.0
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Northbound,2-Midday,233.0,183.0,208.0
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Northbound,3-PM Peak,317.0,203.0,260.0
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Northbound,4-Evening,43.0,77.0,60.0
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Southbound,1-AM Peak,176.0,423.0,299.5
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Southbound,2-Midday,256.0,130.0,193.0
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Southbound,3-PM Peak,350.0,101.0,225.5
+Salt Lake Central Station,APC,09-Salt Lake Central Station,Southbound,4-Evening,61.0,36.0,48.5
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Northbound,1-AM Peak,62.845380000000006,560.3823,311.61384
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Northbound,4-Evening,39.19535,46.38096,42.788155
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Northbound,2-Midday,325.26089,171.2391,248.249995
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Northbound,3-PM Peak,278.77936,210.4682,244.62378
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Southbound,1-AM Peak,301.68606,234.90474,268.2954
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Southbound,4-Evening,94.67295,16.99604,55.834495000000004
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Southbound,2-Midday,344.46264,143.97112,244.21688
+Salt Lake Central Station,OBS,09-Salt Lake Central Station,Southbound,3-PM Peak,439.99906999999996,56.751400000000004,248.37523499999998
+South Jordan Station,APC,11-South Jordan Station,Northbound,1-AM Peak,149.0,185.0,167.0
+South Jordan Station,APC,11-South Jordan Station,Northbound,2-Midday,116.0,126.0,121.0
+South Jordan Station,APC,11-South Jordan Station,Northbound,3-PM Peak,155.0,136.0,145.5
+South Jordan Station,APC,11-South Jordan Station,Northbound,4-Evening,25.0,39.0,32.0
+South Jordan Station,APC,11-South Jordan Station,Southbound,1-AM Peak,186.0,205.0,195.5
+South Jordan Station,APC,11-South Jordan Station,Southbound,2-Midday,139.0,89.0,114.0
+South Jordan Station,APC,11-South Jordan Station,Southbound,3-PM Peak,116.0,123.0,119.5
+South Jordan Station,APC,11-South Jordan Station,Southbound,4-Evening,16.0,13.0,14.5
+South Jordan Station,OBS,11-South Jordan Station,Northbound,1-AM Peak,148.71572,300.64677,224.681245
+South Jordan Station,OBS,11-South Jordan Station,Northbound,4-Evening,9.842020000000002,42.20676,26.024390000000004
+South Jordan Station,OBS,11-South Jordan Station,Northbound,2-Midday,90.78066,179.15396,134.96731
+South Jordan Station,OBS,11-South Jordan Station,Northbound,3-PM Peak,148.24007,195.38074999999998,171.81041
+South Jordan Station,OBS,11-South Jordan Station,Southbound,1-AM Peak,299.33912000000004,148.10532,223.72222000000002
+South Jordan Station,OBS,11-South Jordan Station,Southbound,4-Evening,9.17164,23.02153,16.096584999999997
+South Jordan Station,OBS,11-South Jordan Station,Southbound,2-Midday,179.36199,61.966680000000004,120.664335
+South Jordan Station,OBS,11-South Jordan Station,Southbound,3-PM Peak,98.5102,129.06372,113.78696
+Woods Cross Station,APC,06-Woods Cross Station,Northbound,1-AM Peak,50.0,58.0,54.0
+Woods Cross Station,APC,06-Woods Cross Station,Northbound,2-Midday,68.0,128.0,98.0
+Woods Cross Station,APC,06-Woods Cross Station,Northbound,3-PM Peak,63.0,170.0,116.5
+Woods Cross Station,APC,06-Woods Cross Station,Northbound,4-Evening,9.0,28.0,18.5
+Woods Cross Station,APC,06-Woods Cross Station,Southbound,1-AM Peak,249.0,77.0,163.0
+Woods Cross Station,APC,06-Woods Cross Station,Southbound,2-Midday,85.0,53.0,69.0
+Woods Cross Station,APC,06-Woods Cross Station,Southbound,3-PM Peak,65.0,34.0,49.5
+Woods Cross Station,APC,06-Woods Cross Station,Southbound,4-Evening,17.0,12.0,14.5
+Woods Cross Station,OBS,06-Woods Cross Station,Northbound,1-AM Peak,87.38923,46.2361,66.812665
+Woods Cross Station,OBS,06-Woods Cross Station,Northbound,4-Evening,7.10426,22.99407,15.049165
+Woods Cross Station,OBS,06-Woods Cross Station,Northbound,2-Midday,68.66067,119.02752,93.844095
+Woods Cross Station,OBS,06-Woods Cross Station,Northbound,3-PM Peak,39.53233,93.42070000000001,66.476515
+Woods Cross Station,OBS,06-Woods Cross Station,Southbound,1-AM Peak,224.03874,88.29654,156.16764
+Woods Cross Station,OBS,06-Woods Cross Station,Southbound,4-Evening,9.45552,16.7449,13.10021
+Woods Cross Station,OBS,06-Woods Cross Station,Southbound,2-Midday,63.75463,50.49468,57.124655000000004
+Woods Cross Station,OBS,06-Woods Cross Station,Southbound,3-PM Peak,74.17567,27.48698,50.831325

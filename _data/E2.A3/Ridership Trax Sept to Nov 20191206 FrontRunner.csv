@@ -1,0 +1,241 @@
+﻿Service,Route,DirName,FX_DirNum,Sequence,Station,StopID,TimePeriod, AvgDailyBoardings , AvgDailyAlightings 
+SAT,750,NORTHBOUND     ,0,1,Provo Central Station,23073,1-AM Peak, 213 , 19 
+SAT,750,NORTHBOUND     ,0,1,Provo Central Station,23073,2-Midday, 580 , 71 
+SAT,750,NORTHBOUND     ,0,1,Provo Central Station,23073,3-PM Peak, 321 , 41 
+SAT,750,NORTHBOUND     ,0,1,Provo Central Station,23073,4-Evening, 156 , 25 
+SAT,750,NORTHBOUND     ,0,2,Orem Central Station,23076,1-AM Peak, 91 , 2 
+SAT,750,NORTHBOUND     ,0,2,Orem Central Station,23076,2-Midday, 290 , 17 
+SAT,750,NORTHBOUND     ,0,2,Orem Central Station,23076,3-PM Peak, 158 , 15 
+SAT,750,NORTHBOUND     ,0,2,Orem Central Station,23076,4-Evening, 76 , 9 
+SAT,750,NORTHBOUND     ,0,3,American Fork Station,23071,1-AM Peak, 32 , 4 
+SAT,750,NORTHBOUND     ,0,3,American Fork Station,23071,2-Midday, 127 , 22 
+SAT,750,NORTHBOUND     ,0,3,American Fork Station,23071,3-PM Peak, 63 , 16 
+SAT,750,NORTHBOUND     ,0,3,American Fork Station,23071,4-Evening, 27 , 7 
+SAT,750,NORTHBOUND     ,0,4,Lehi Station,23074,1-AM Peak, 52 , 16 
+SAT,750,NORTHBOUND     ,0,4,Lehi Station,23074,2-Midday, 155 , 48 
+SAT,750,NORTHBOUND     ,0,4,Lehi Station,23074,3-PM Peak, 88 , 29 
+SAT,750,NORTHBOUND     ,0,4,Lehi Station,23074,4-Evening, 30 , 10 
+SAT,750,NORTHBOUND     ,0,5,Draper Station,23081,1-AM Peak, 13 , 14 
+SAT,750,NORTHBOUND     ,0,5,Draper Station,23081,2-Midday, 57 , 44 
+SAT,750,NORTHBOUND     ,0,5,Draper Station,23081,3-PM Peak, 40 , 28 
+SAT,750,NORTHBOUND     ,0,5,Draper Station,23081,4-Evening, 16 , 13 
+SAT,750,NORTHBOUND     ,0,6,South Jordan Station,23082,1-AM Peak, 12 , 14 
+SAT,750,NORTHBOUND     ,0,6,South Jordan Station,23082,2-Midday, 57 , 63 
+SAT,750,NORTHBOUND     ,0,6,South Jordan Station,23082,3-PM Peak, 33 , 34 
+SAT,750,NORTHBOUND     ,0,6,South Jordan Station,23082,4-Evening, 15 , 16 
+SAT,750,NORTHBOUND     ,0,7,Murray Central Station,23080,1-AM Peak, 32 , 55 
+SAT,750,NORTHBOUND     ,0,7,Murray Central Station,23080,2-Midday, 115 , 221 
+SAT,750,NORTHBOUND     ,0,7,Murray Central Station,23080,3-PM Peak, 54 , 145 
+SAT,750,NORTHBOUND     ,0,7,Murray Central Station,23080,4-Evening, 37 , 66 
+SAT,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,1-AM Peak, 38 , 104 
+SAT,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,2-Midday, 111 , 311 
+SAT,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,3-PM Peak, 99 , 169 
+SAT,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,4-Evening, 87 , 58 
+SAT,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,1-AM Peak, 55 , 119 
+SAT,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,2-Midday, 214 , 278 
+SAT,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,3-PM Peak, 149 , 127 
+SAT,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,4-Evening, 145 , 52 
+SAT,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,1-AM Peak, 16 , 15 
+SAT,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,2-Midday, 39 , 62 
+SAT,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,3-PM Peak, 13 , 38 
+SAT,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,4-Evening, 9 , 31 
+SAT,750,NORTHBOUND     ,0,12,Farmington Station,21758,1-AM Peak, 8 , 40 
+SAT,750,NORTHBOUND     ,0,12,Farmington Station,21758,2-Midday, 57 , 147 
+SAT,750,NORTHBOUND     ,0,12,Farmington Station,21758,3-PM Peak, 40 , 56 
+SAT,750,NORTHBOUND     ,0,12,Farmington Station,21758,4-Evening, 38 , 33 
+SAT,750,NORTHBOUND     ,0,13,Layton Station,21772,1-AM Peak, 8 , 27 
+SAT,750,NORTHBOUND     ,0,13,Layton Station,21772,2-Midday, 23 , 105 
+SAT,750,NORTHBOUND     ,0,13,Layton Station,21772,3-PM Peak, 10 , 74 
+SAT,750,NORTHBOUND     ,0,13,Layton Station,21772,4-Evening, 10 , 64 
+SAT,750,NORTHBOUND     ,0,14,Clearfield Station,21757,1-AM Peak, 9 , 27 
+SAT,750,NORTHBOUND     ,0,14,Clearfield Station,21757,2-Midday, 23 , 97 
+SAT,750,NORTHBOUND     ,0,14,Clearfield Station,21757,3-PM Peak, 9 , 73 
+SAT,750,NORTHBOUND     ,0,14,Clearfield Station,21757,4-Evening, 7 , 76 
+SAT,750,NORTHBOUND     ,0,15,Roy Station,21760,1-AM Peak, 6 , 18 
+SAT,750,NORTHBOUND     ,0,15,Roy Station,21760,2-Midday, 15 , 72 
+SAT,750,NORTHBOUND     ,0,15,Roy Station,21760,3-PM Peak, 5 , 53 
+SAT,750,NORTHBOUND     ,0,15,Roy Station,21760,4-Evening, 5 , 48 
+SAT,750,NORTHBOUND     ,0,16,Ogden Station,21753,1-AM Peak, 1 , 113 
+SAT,750,NORTHBOUND     ,0,16,Ogden Station,21753,2-Midday, 7 , 322 
+SAT,750,NORTHBOUND     ,0,16,Ogden Station,21753,3-PM Peak, 6 , 193 
+SAT,750,NORTHBOUND     ,0,16,Ogden Station,21753,4-Evening, 4 , 151 
+SAT,750,SOUTHBOUND     ,1,2,Ogden Station,21753,1-AM Peak, 104 , 1 
+SAT,750,SOUTHBOUND     ,1,2,Ogden Station,21753,2-Midday, 413 , 21 
+SAT,750,SOUTHBOUND     ,1,2,Ogden Station,21753,3-PM Peak, 192 , 15 
+SAT,750,SOUTHBOUND     ,1,2,Ogden Station,21753,4-Evening, 81 , 11 
+SAT,750,SOUTHBOUND     ,1,3,Roy Station,21760,1-AM Peak, 36 , 0 
+SAT,750,SOUTHBOUND     ,1,3,Roy Station,21760,2-Midday, 104 , 3 
+SAT,750,SOUTHBOUND     ,1,3,Roy Station,21760,3-PM Peak, 47 , 3 
+SAT,750,SOUTHBOUND     ,1,3,Roy Station,21760,4-Evening, 12 , 2 
+SAT,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,1-AM Peak, 47 , 2 
+SAT,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,2-Midday, 152 , 8 
+SAT,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,3-PM Peak, 69 , 4 
+SAT,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,4-Evening, 22 , 4 
+SAT,750,SOUTHBOUND     ,1,5,Layton Station,21772,1-AM Peak, 42 , 2 
+SAT,750,SOUTHBOUND     ,1,5,Layton Station,21772,2-Midday, 140 , 7 
+SAT,750,SOUTHBOUND     ,1,5,Layton Station,21772,3-PM Peak, 66 , 6 
+SAT,750,SOUTHBOUND     ,1,5,Layton Station,21772,4-Evening, 23 , 4 
+SAT,750,SOUTHBOUND     ,1,6,Farmington Station,21758,1-AM Peak, 18 , 18 
+SAT,750,SOUTHBOUND     ,1,6,Farmington Station,21758,2-Midday, 99 , 60 
+SAT,750,SOUTHBOUND     ,1,6,Farmington Station,21758,3-PM Peak, 73 , 22 
+SAT,750,SOUTHBOUND     ,1,6,Farmington Station,21758,4-Evening, 38 , 5 
+SAT,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,1-AM Peak, 23 , 6 
+SAT,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,2-Midday, 76 , 30 
+SAT,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,3-PM Peak, 37 , 15 
+SAT,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,4-Evening, 14 , 5 
+SAT,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,1-AM Peak, 53 , 95 
+SAT,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,2-Midday, 218 , 298 
+SAT,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,3-PM Peak, 134 , 146 
+SAT,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,4-Evening, 97 , 35 
+SAT,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,1-AM Peak, 44 , 45 
+SAT,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,2-Midday, 192 , 188 
+SAT,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,3-PM Peak, 150 , 89 
+SAT,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,4-Evening, 109 , 26 
+SAT,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,1-AM Peak, 81 , 30 
+SAT,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,2-Midday, 169 , 109 
+SAT,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,3-PM Peak, 101 , 57 
+SAT,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,4-Evening, 59 , 28 
+SAT,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,1-AM Peak, 24 , 12 
+SAT,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,2-Midday, 58 , 58 
+SAT,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,3-PM Peak, 26 , 22 
+SAT,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,4-Evening, 15 , 13 
+SAT,750,SOUTHBOUND     ,1,13,Draper Station,23081,1-AM Peak, 18 , 17 
+SAT,750,SOUTHBOUND     ,1,13,Draper Station,23081,2-Midday, 39 , 44 
+SAT,750,SOUTHBOUND     ,1,13,Draper Station,23081,3-PM Peak, 21 , 19 
+SAT,750,SOUTHBOUND     ,1,13,Draper Station,23081,4-Evening, 11 , 14 
+SAT,750,SOUTHBOUND     ,1,14,Lehi Station,23074,1-AM Peak, 13 , 28 
+SAT,750,SOUTHBOUND     ,1,14,Lehi Station,23074,2-Midday, 38 , 103 
+SAT,750,SOUTHBOUND     ,1,14,Lehi Station,23074,3-PM Peak, 13 , 62 
+SAT,750,SOUTHBOUND     ,1,14,Lehi Station,23074,4-Evening, 10 , 42 
+SAT,750,SOUTHBOUND     ,1,15,American Fork Station,23071,1-AM Peak, 15 , 20 
+SAT,750,SOUTHBOUND     ,1,15,American Fork Station,23071,2-Midday, 26 , 83 
+SAT,750,SOUTHBOUND     ,1,15,American Fork Station,23071,3-PM Peak, 9 , 57 
+SAT,750,SOUTHBOUND     ,1,15,American Fork Station,23071,4-Evening, 5 , 40 
+SAT,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,1-AM Peak, 14 , 71 
+SAT,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,2-Midday, 23 , 244 
+SAT,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,3-PM Peak, 10 , 152 
+SAT,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,4-Evening, 6 , 96 
+SAT,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,1-AM Peak, 9 , 194 
+SAT,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,2-Midday, 11 , 502 
+SAT,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,3-PM Peak, 4 , 283 
+SAT,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,4-Evening, 4 , 182 
+WKD,750,NORTHBOUND     ,0,1,Provo Central Station,23073,1-AM Peak, 975 , 98 
+WKD,750,NORTHBOUND     ,0,1,Provo Central Station,23073,2-Midday, 531 , 69 
+WKD,750,NORTHBOUND     ,0,1,Provo Central Station,23073,3-PM Peak, 576 , 90 
+WKD,750,NORTHBOUND     ,0,1,Provo Central Station,23073,4-Evening, 194 , 41 
+WKD,750,NORTHBOUND     ,0,2,Orem Central Station,23076,1-AM Peak, 568 , 38 
+WKD,750,NORTHBOUND     ,0,2,Orem Central Station,23076,2-Midday, 477 , 27 
+WKD,750,NORTHBOUND     ,0,2,Orem Central Station,23076,3-PM Peak, 433 , 27 
+WKD,750,NORTHBOUND     ,0,2,Orem Central Station,23076,4-Evening, 135 , 12 
+WKD,750,NORTHBOUND     ,0,3,American Fork Station,23071,1-AM Peak, 414 , 26 
+WKD,750,NORTHBOUND     ,0,3,American Fork Station,23071,2-Midday, 94 , 68 
+WKD,750,NORTHBOUND     ,0,3,American Fork Station,23071,3-PM Peak, 92 , 98 
+WKD,750,NORTHBOUND     ,0,3,American Fork Station,23071,4-Evening, 24 , 23 
+WKD,750,NORTHBOUND     ,0,4,Lehi Station,23074,1-AM Peak, 525 , 239 
+WKD,750,NORTHBOUND     ,0,4,Lehi Station,23074,2-Midday, 202 , 90 
+WKD,750,NORTHBOUND     ,0,4,Lehi Station,23074,3-PM Peak, 253 , 120 
+WKD,750,NORTHBOUND     ,0,4,Lehi Station,23074,4-Evening, 36 , 33 
+WKD,750,NORTHBOUND     ,0,5,Draper Station,23081,1-AM Peak, 192 , 156 
+WKD,750,NORTHBOUND     ,0,5,Draper Station,23081,2-Midday, 123 , 138 
+WKD,750,NORTHBOUND     ,0,5,Draper Station,23081,3-PM Peak, 175 , 123 
+WKD,750,NORTHBOUND     ,0,5,Draper Station,23081,4-Evening, 26 , 40 
+WKD,750,NORTHBOUND     ,0,6,South Jordan Station,23082,1-AM Peak, 149 , 185 
+WKD,750,NORTHBOUND     ,0,6,South Jordan Station,23082,2-Midday, 116 , 126 
+WKD,750,NORTHBOUND     ,0,6,South Jordan Station,23082,3-PM Peak, 155 , 136 
+WKD,750,NORTHBOUND     ,0,6,South Jordan Station,23082,4-Evening, 25 , 39 
+WKD,750,NORTHBOUND     ,0,7,Murray Central Station,23080,1-AM Peak, 172 , 522 
+WKD,750,NORTHBOUND     ,0,7,Murray Central Station,23080,2-Midday, 172 , 341 
+WKD,750,NORTHBOUND     ,0,7,Murray Central Station,23080,3-PM Peak, 188 , 374 
+WKD,750,NORTHBOUND     ,0,7,Murray Central Station,23080,4-Evening, 45 , 92 
+WKD,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,1-AM Peak, 79 , 627 
+WKD,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,2-Midday, 233 , 183 
+WKD,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,3-PM Peak, 317 , 203 
+WKD,750,NORTHBOUND     ,0,8,Salt Lake Central Departure,21771,4-Evening, 43 , 77 
+WKD,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,1-AM Peak, 144 ," 1,016 "
+WKD,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,2-Midday, 480 , 317 
+WKD,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,3-PM Peak, 591 , 283 
+WKD,750,NORTHBOUND     ,0,9,North Temple Station Departure,23113,4-Evening, 114 , 89 
+WKD,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,1-AM Peak, 50 , 58 
+WKD,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,2-Midday, 68 , 128 
+WKD,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,3-PM Peak, 63 , 170 
+WKD,750,NORTHBOUND     ,0,11,Woods Cross Station,21759,4-Evening, 9 , 28 
+WKD,750,NORTHBOUND     ,0,12,Farmington Station,21758,1-AM Peak, 28 , 54 
+WKD,750,NORTHBOUND     ,0,12,Farmington Station,21758,2-Midday, 50 , 127 
+WKD,750,NORTHBOUND     ,0,12,Farmington Station,21758,3-PM Peak, 58 , 146 
+WKD,750,NORTHBOUND     ,0,12,Farmington Station,21758,4-Evening, 14 , 23 
+WKD,750,NORTHBOUND     ,0,13,Layton Station,21772,1-AM Peak, 29 , 46 
+WKD,750,NORTHBOUND     ,0,13,Layton Station,21772,2-Midday, 35 , 230 
+WKD,750,NORTHBOUND     ,0,13,Layton Station,21772,3-PM Peak, 34 , 301 
+WKD,750,NORTHBOUND     ,0,13,Layton Station,21772,4-Evening, 8 , 41 
+WKD,750,NORTHBOUND     ,0,14,Clearfield Station,21757,1-AM Peak, 34 , 69 
+WKD,750,NORTHBOUND     ,0,14,Clearfield Station,21757,2-Midday, 40 , 257 
+WKD,750,NORTHBOUND     ,0,14,Clearfield Station,21757,3-PM Peak, 26 , 314 
+WKD,750,NORTHBOUND     ,0,14,Clearfield Station,21757,4-Evening, 6 , 46 
+WKD,750,NORTHBOUND     ,0,15,Roy Station,21760,1-AM Peak, 15 , 28 
+WKD,750,NORTHBOUND     ,0,15,Roy Station,21760,2-Midday, 19 , 160 
+WKD,750,NORTHBOUND     ,0,15,Roy Station,21760,3-PM Peak, 14 , 199 
+WKD,750,NORTHBOUND     ,0,15,Roy Station,21760,4-Evening, 5 , 27 
+WKD,750,NORTHBOUND     ,0,16,Ogden Station,21753,1-AM Peak, 5 , 218 
+WKD,750,NORTHBOUND     ,0,16,Ogden Station,21753,2-Midday, 11 , 396 
+WKD,750,NORTHBOUND     ,0,16,Ogden Station,21753,3-PM Peak, 6 , 400 
+WKD,750,NORTHBOUND     ,0,16,Ogden Station,21753,4-Evening, 6 , 98 
+WKD,750,SOUTHBOUND     ,1,2,Ogden Station,21753,1-AM Peak, 485 , 87 
+WKD,750,SOUTHBOUND     ,1,2,Ogden Station,21753,2-Midday, 343 , 41 
+WKD,750,SOUTHBOUND     ,1,2,Ogden Station,21753,3-PM Peak, 265 , 19 
+WKD,750,SOUTHBOUND     ,1,2,Ogden Station,21753,4-Evening, 83 , 16 
+WKD,750,SOUTHBOUND     ,1,3,Roy Station,21760,1-AM Peak, 279 , 12 
+WKD,750,SOUTHBOUND     ,1,3,Roy Station,21760,2-Midday, 74 , 10 
+WKD,750,SOUTHBOUND     ,1,3,Roy Station,21760,3-PM Peak, 71 , 6 
+WKD,750,SOUTHBOUND     ,1,3,Roy Station,21760,4-Evening, 17 , 6 
+WKD,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,1-AM Peak, 463 , 31 
+WKD,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,2-Midday, 132 , 18 
+WKD,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,3-PM Peak, 101 , 18 
+WKD,750,SOUTHBOUND     ,1,4,Clearfield Station,21757,4-Evening, 24 , 8 
+WKD,750,SOUTHBOUND     ,1,5,Layton Station,21772,1-AM Peak, 426 , 23 
+WKD,750,SOUTHBOUND     ,1,5,Layton Station,21772,2-Midday, 97 , 20 
+WKD,750,SOUTHBOUND     ,1,5,Layton Station,21772,3-PM Peak, 75 , 19 
+WKD,750,SOUTHBOUND     ,1,5,Layton Station,21772,4-Evening, 24 , 8 
+WKD,750,SOUTHBOUND     ,1,6,Farmington Station,21758,1-AM Peak, 174 , 47 
+WKD,750,SOUTHBOUND     ,1,6,Farmington Station,21758,2-Midday, 75 , 39 
+WKD,750,SOUTHBOUND     ,1,6,Farmington Station,21758,3-PM Peak, 64 , 28 
+WKD,750,SOUTHBOUND     ,1,6,Farmington Station,21758,4-Evening, 19 , 9 
+WKD,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,1-AM Peak, 249 , 77 
+WKD,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,2-Midday, 85 , 53 
+WKD,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,3-PM Peak, 65 , 34 
+WKD,750,SOUTHBOUND     ,1,7,Woods Cross Station,21759,4-Evening, 17 , 12 
+WKD,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,1-AM Peak, 166 , 796 
+WKD,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,2-Midday, 567 , 231 
+WKD,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,3-PM Peak, 684 , 153 
+WKD,750,SOUTHBOUND     ,1,9,North Temple Station Departure,23113,4-Evening, 131 , 42 
+WKD,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,1-AM Peak, 176 , 423 
+WKD,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,2-Midday, 256 , 130 
+WKD,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,3-PM Peak, 350 , 101 
+WKD,750,SOUTHBOUND     ,1,10,Salt Lake Central Departure,21771,4-Evening, 61 , 36 
+WKD,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,1-AM Peak, 425 , 227 
+WKD,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,2-Midday, 410 , 146 
+WKD,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,3-PM Peak, 405 , 165 
+WKD,750,SOUTHBOUND     ,1,11,Murray Central Station,23080,4-Evening, 65 , 25 
+WKD,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,1-AM Peak, 186 , 205 
+WKD,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,2-Midday, 139 , 89 
+WKD,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,3-PM Peak, 116 , 123 
+WKD,750,SOUTHBOUND     ,1,12,South Jordan Station,23082,4-Evening, 16 , 13 
+WKD,750,SOUTHBOUND     ,1,13,Draper Station,23081,1-AM Peak, 183 , 208 
+WKD,750,SOUTHBOUND     ,1,13,Draper Station,23081,2-Midday, 131 , 103 
+WKD,750,SOUTHBOUND     ,1,13,Draper Station,23081,3-PM Peak, 92 , 139 
+WKD,750,SOUTHBOUND     ,1,13,Draper Station,23081,4-Evening, 13 , 15 
+WKD,750,SOUTHBOUND     ,1,14,Lehi Station,23074,1-AM Peak, 126 , 262 
+WKD,750,SOUTHBOUND     ,1,14,Lehi Station,23074,2-Midday, 188 , 276 
+WKD,750,SOUTHBOUND     ,1,14,Lehi Station,23074,3-PM Peak, 104 , 349 
+WKD,750,SOUTHBOUND     ,1,14,Lehi Station,23074,4-Evening, 17 , 43 
+WKD,750,SOUTHBOUND     ,1,15,American Fork Station,23071,1-AM Peak, 155 , 54 
+WKD,750,SOUTHBOUND     ,1,15,American Fork Station,23071,2-Midday, 45 , 220 
+WKD,750,SOUTHBOUND     ,1,15,American Fork Station,23071,3-PM Peak, 31 , 302 
+WKD,750,SOUTHBOUND     ,1,15,American Fork Station,23071,4-Evening, 6 , 37 
+WKD,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,1-AM Peak, 38 , 590 
+WKD,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,2-Midday, 58 , 485 
+WKD,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,3-PM Peak, 33 , 398 
+WKD,750,SOUTHBOUND     ,1,16,Orem Central Station,23076,4-Evening, 6 , 87 
+WKD,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,1-AM Peak, 10 , 498 
+WKD,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,2-Midday, 15 , 751 
+WKD,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,3-PM Peak, 8 , 612 
+WKD,750,SOUTHBOUND     ,1,17,Provo Central Station,23073,4-Evening, 2 , 144 
