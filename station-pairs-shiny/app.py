@@ -342,24 +342,6 @@ def server(input, output, session):
         
         return render.DataTable(pivot_table, styles=color_ramp_styles(pivot_table)), render.DataTable(side_table, styles=color_ramp_styles(side_table))
 
-        #filtered_data_1.rename(columns={'trips_total':'display_value'}, inplace=True)
-        #total_table = total_stations_1.rename(columns={'trips_total':'display_value'})
-#
-        #total_table['display_value'] = total_table['display_value'].apply(
-        #    lambda x: f"{x:,.2f}%" if input.show_share() and x != 0 
-        #    else "--" if input.show_share() and x == 0 
-        #    else f"{int(x):,}" if x != 0 
-        #    else "--"
-        #)
-
-        # Create a crosstab view with STATION_ID_1 as rows and STATION_ID_2 as columns
-        #crosstab_table = filtered_data_1.pivot(index='STATION_ID_1', columns='STATION_ID_2', values='display_value').fillna(0)
-        #crosstab_table = crosstab_table.applymap(lambda x: f"{x:,.2f}%" if input.show_share() and x != 0 else "--" if input.show_share() and x == 0 else f"{int(x):,}" if x != 0 else "--")
-        #crosstab_table = crosstab_table.reset_index()  # Move index to a proper column
-        #crosstab_table.columns.name = None  # Remove extra column group name if exists
-        #return crosstab_table, total_table
-
-
 
     @output
     @render.data_frame
