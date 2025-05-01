@@ -1,0 +1,8 @@
+scenario_id,scenario_name,scenario_folder
+v910-official,v9.1-official,E:\GitHub\WF-TDM-v9x\Scenarios\v910-official
+E2.14.4,Recalib-RF2.5,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.14.4
+E2.16.2,Utah County MaxTime 15,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.2
+E2.16.3,All Counties MaxTime 15,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.3
+E2.17.3,UTCo dCRT Adj -15,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.17.3
+E2.18.2,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -60 Start in Dest Choice,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.2
+E2.18.3,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -45 Start in Dest Choice,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.3

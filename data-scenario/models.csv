@@ -1,0 +1,11 @@
+model_id,model_RID,model_name,model_overwrite,model_display,model_folder,model_label,scenario_id
+v910-official__BY_2019,WFv910_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v910-official\BY_2019,v9.1-official - BY 2019,v910-official
+v910-official__RTP_2050,WFv910_RTP_2050,RTP_2050,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v910-official\RTP_2050,v9.1-official - RTP 2050,v910-official
+E2.14.4__BY_2019,WFv920-E2.14.4_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.14.4\BY_2019,Recalib-RF2.5 - BY 2019,E2.14.4
+E2.16.2__BY_2019,WFv920-E2.16.2_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.2\BY_2019,Utah County MaxTime 15 - BY 2019,E2.16.2
+E2.16.3__BY_2019,WFv920-E2.16.3_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.3\BY_2019,All Counties MaxTime 15 - BY 2019,E2.16.3
+E2.17.3__BY_2019,WFv920-E2.17.3_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.17.3\BY_2019,UTCo dCRT Adj -15 - BY 2019,E2.17.3
+E2.18.2__BY_2019,WFv920-E2.18.2_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.2\BY_2019,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -60 Start in Dest Choice - BY 2019,E2.18.2
+E2.18.2__RTP_2050,WFv920-E2.18.2_RTP_2050,RTP_2050,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.2\RTP_2050,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -60 Start in Dest Choice - RTP 2050,E2.18.2
+E2.18.2__RTP_MedDistAdj_2050,WFv920-E2.18.2_RTP_MedDistAdj_2050,RTP_MedDistAdj_2050,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.2\RTP_MedDistAdj_2050,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -60 Start in Dest Choice - RTP MedDistAdj 2050,E2.18.2
+E2.18.3__BY_2019,WFv920-E2.18.3_BY_2019,BY_2019,False,True,E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.3\BY_2019,UTCo dCRT Adj -15 + SoUTCo dCRT Adj -45 Start in Dest Choice - BY 2019,E2.18.3
