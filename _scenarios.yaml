@@ -1,0 +1,74 @@
+- id: v910-official
+  name: v9.1-official
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v910-official
+  models:
+    - name: BY_2019
+      RID: WFv910_BY_2019
+      overwrite: false
+      display: true
+    - name: RTP_2050
+      RID: WFv910_RTP_2050
+      overwrite: false
+      display: true
+
+- id: E2.14.4
+  name: Recalib-RF2.5
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.14.4
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.14.4_BY_2019
+      overwrite: false
+      display: true
+
+- id: E2.16.2
+  name: Utah County MaxTime 15
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.2
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.16.2_BY_2019
+      overwrite: false
+      display: true
+
+- id: E2.16.3
+  name: All Counties MaxTime 15
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.16.3
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.16.3_BY_2019
+      overwrite: false
+      display: true
+
+- id: E2.17.3
+  name: UTCo dCRT Adj -15
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.17.3
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.17.3_BY_2019
+      overwrite: false
+      display: true
+
+- id: E2.18.2
+  name: UTCo dCRT Adj -15 + SoUTCo dCRT Adj -60 Start in Dest Choice
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.2
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.18.2_BY_2019
+      overwrite: false
+      display: true
+    - name: RTP_2050
+      RID: WFv920-E2.18.2_RTP_2050
+      overwrite: false
+      display: true
+    - name: RTP_MedDistAdj_2050
+      RID: WFv920-E2.18.2_RTP_MedDistAdj_2050
+      overwrite: false
+      display: true
+
+- id: E2.18.3
+  name: UTCo dCRT Adj -15 + SoUTCo dCRT Adj -45 Start in Dest Choice
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.3
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.18.3_BY_2019
+      overwrite: false
+      display: true
