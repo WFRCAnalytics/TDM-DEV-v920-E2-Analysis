@@ -104,6 +104,66 @@ v910-official__BY_2019,12-LEHI STATION,All,1309.25,2.57,5.58,9.98,6.315867863280
 v910-official__BY_2019,13-AMERICAN FORK STATION,All,1522.3899999999999,2.12,4.16,8.16,4.988550962631127,Boardings represent only direct boardings to CRT.
 v910-official__BY_2019,14-OREM CENTRAL STATION,All,1126.86,2.5,5.26,20.38,9.7593863479048,Boardings represent only direct boardings to CRT.
 v910-official__BY_2019,15-PROVO CENTRAL STATION,All,211.95999999999998,1.04,1.8,3.2,2.596192677863748,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,01-OGDEN STATION,walk,486.42999999999995,0.21,0.39,0.67,0.4110827868346936,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,02-ROY STATION,walk,796.2399999999999,0.37,0.45,0.78,0.528842434441877,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,03-CLEARFIELD STATION,walk,1249.38,0.29,0.48,0.64,0.5105891722294258,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,04-LAYTON STATION,walk,633.61,0.17,0.17,0.69,0.3133301242088982,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,05-FARMINGTON STATION,walk,1083.6599999999999,0.17,0.82,0.82,0.5892478268091469,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,06-WOODS CROSS STATION,walk,1074.9399999999998,0.22,0.23,0.92,0.5074309263772862,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,07-NORTH TEMPLE STATION,walk,2996.0,0.17,0.19,0.28,0.23810400534045395,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,08-SALT LAKE CENTRAL STATION,walk,1075.38,0.12,0.22,0.22,0.20044728375086016,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,09-MURRAY CENTRAL STATION,walk,1970.1599999999999,0.13,0.33,0.45,0.31672224590896175,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,10-SOUTH JORDAN STATION,walk,831.0699999999999,0.35,0.35,0.74,0.5025017146570083,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,11-DRAPER STATION,walk,754.3399999999999,0.4,0.41,0.65,0.4561798393297452,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,12-LEHI STATION,walk,864.41,0.18,0.47,0.66,0.43015802686225296,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,13-AMERICAN FORK STATION,walk,587.0099999999999,0.42,0.49,0.49,0.45339346859508367,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,14-OREM CENTRAL STATION,walk,1152.6799999999998,0.08,0.08,0.58,0.23171704202380541,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,15-PROVO CENTRAL STATION,walk,2916.92,0.16,0.24,0.56,0.30093502735762384,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,01-OGDEN STATION,drive,2959.51,2.07,4.21,7.58,5.722395160009596,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,02-ROY STATION,drive,4278.45,2.35,4.76,11.39,6.368926129789995,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,03-CLEARFIELD STATION,drive,2407.12,1.4,3.24,4.58,3.2042875718701183,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,04-LAYTON STATION,drive,3267.0,1.41,2.52,4.18,2.791434802571166,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,05-FARMINGTON STATION,drive,2418.6600000000003,1.43,2.3,4.76,2.847502914837141,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,06-WOODS CROSS STATION,drive,3866.1,1.51,2.62,3.92,2.6995221023770726,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,07-NORTH TEMPLE STATION,drive,122.41,1.23,2.43,4.89,3.1719655256923454,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,08-SALT LAKE CENTRAL STATION,drive,308.46,1.36,2.86,8.32,4.526129806133697,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,09-MURRAY CENTRAL STATION,drive,2321.53,2.04,4.31,7.42,4.7578127786416715,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,10-SOUTH JORDAN STATION,drive,4317.52,1.81,3.27,5.87,3.8295096722192365,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,11-DRAPER STATION,drive,2611.25,2.77,4.57,8.82,5.384964901866923,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,12-LEHI STATION,drive,8285.28,2.59,6.81,13.39,7.39643362686596,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,13-AMERICAN FORK STATION,drive,4365.38,1.77,4.2,8.38,5.116091084854011,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,14-OREM CENTRAL STATION,drive,1381.59,1.69,3.11,4.74,3.2194589567092993,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,15-PROVO CENTRAL STATION,drive,970.6099999999999,1.04,1.71,2.65,1.8762561688010633,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,01-OGDEN STATION,All,486.42999999999995,0.21,0.39,0.67,0.4110827868346936,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,02-ROY STATION,All,796.2399999999999,0.37,0.45,0.78,0.528842434441877,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,03-CLEARFIELD STATION,All,1249.38,0.29,0.48,0.64,0.5105891722294258,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,04-LAYTON STATION,All,633.61,0.17,0.17,0.69,0.3133301242088982,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,05-FARMINGTON STATION,All,1083.6599999999999,0.17,0.82,0.82,0.5892478268091469,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,06-WOODS CROSS STATION,All,1074.9399999999998,0.22,0.23,0.92,0.5074309263772862,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,07-NORTH TEMPLE STATION,All,2996.0,0.17,0.19,0.28,0.23810400534045395,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,08-SALT LAKE CENTRAL STATION,All,1075.38,0.12,0.22,0.22,0.20044728375086016,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,09-MURRAY CENTRAL STATION,All,1970.1599999999999,0.13,0.33,0.45,0.31672224590896175,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,10-SOUTH JORDAN STATION,All,831.0699999999999,0.35,0.35,0.74,0.5025017146570083,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,11-DRAPER STATION,All,754.3399999999999,0.4,0.41,0.65,0.4561798393297452,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,12-LEHI STATION,All,864.41,0.18,0.47,0.66,0.43015802686225296,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,13-AMERICAN FORK STATION,All,587.0099999999999,0.42,0.49,0.49,0.45339346859508367,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,14-OREM CENTRAL STATION,All,1152.6799999999998,0.08,0.08,0.58,0.23171704202380541,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,15-PROVO CENTRAL STATION,All,2916.92,0.16,0.24,0.56,0.30093502735762384,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,01-OGDEN STATION,All,2959.51,2.07,4.21,7.58,5.722395160009596,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,02-ROY STATION,All,4278.45,2.35,4.76,11.39,6.368926129789995,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,03-CLEARFIELD STATION,All,2407.12,1.4,3.24,4.58,3.2042875718701183,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,04-LAYTON STATION,All,3267.0,1.41,2.52,4.18,2.791434802571166,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,05-FARMINGTON STATION,All,2418.6600000000003,1.43,2.3,4.76,2.847502914837141,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,06-WOODS CROSS STATION,All,3866.1,1.51,2.62,3.92,2.6995221023770726,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,07-NORTH TEMPLE STATION,All,122.41,1.23,2.43,4.89,3.1719655256923454,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,08-SALT LAKE CENTRAL STATION,All,308.46,1.36,2.86,8.32,4.526129806133697,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,09-MURRAY CENTRAL STATION,All,2321.53,2.04,4.31,7.42,4.7578127786416715,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,10-SOUTH JORDAN STATION,All,4317.52,1.81,3.27,5.87,3.8295096722192365,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,11-DRAPER STATION,All,2611.25,2.77,4.57,8.82,5.384964901866923,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,12-LEHI STATION,All,8285.28,2.59,6.81,13.39,7.39643362686596,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,13-AMERICAN FORK STATION,All,4365.38,1.77,4.2,8.38,5.116091084854011,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,14-OREM CENTRAL STATION,All,1381.59,1.69,3.11,4.74,3.2194589567092993,Boardings represent only direct boardings to CRT.
+v910-official__RTP_2050,15-PROVO CENTRAL STATION,All,970.6099999999999,1.04,1.71,2.65,1.8762561688010633,Boardings represent only direct boardings to CRT.
 E2.14.4__BY_2019,01-OGDEN STATION,walk,73.64,0.28,0.44,0.83,0.46596958174904934,Boardings represent only direct boardings to CRT.
 E2.14.4__BY_2019,02-ROY STATION,walk,358.46999999999997,0.37,0.45,0.68,0.5235074064775296,Boardings represent only direct boardings to CRT.
 E2.14.4__BY_2019,03-CLEARFIELD STATION,walk,522.2099999999999,0.29,0.63,0.64,0.5293822408609563,Boardings represent only direct boardings to CRT.
@@ -164,6 +224,66 @@ E2.14.4__BY_2019,12-LEHI STATION,All,989.19,2.42,4.46,9.5,5.6782387610064795,Boa
 E2.14.4__BY_2019,13-AMERICAN FORK STATION,All,1481.7299999999998,2.35,4.26,9.16,5.215284161081979,Boardings represent only direct boardings to CRT.
 E2.14.4__BY_2019,14-OREM CENTRAL STATION,All,538.1,1.99,3.52,5.23,3.5843904478721424,Boardings represent only direct boardings to CRT.
 E2.14.4__BY_2019,15-PROVO CENTRAL STATION,All,749.1800000000001,2.04,8.97,17.87,9.722807602979255,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,01-OGDEN STATION,walk,475.05,0.21,0.32,0.67,0.4096154089043259,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,02-ROY STATION,walk,793.76,0.37,0.45,0.78,0.5283652489417456,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,03-CLEARFIELD STATION,walk,1266.29,0.29,0.48,0.64,0.5103334939073988,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,04-LAYTON STATION,walk,643.8900000000001,0.17,0.17,0.69,0.3146613552004224,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,05-FARMINGTON STATION,walk,1105.88,0.17,0.82,0.82,0.5937827793250623,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,06-WOODS CROSS STATION,walk,1118.11,0.22,0.23,0.92,0.5144860523562084,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,07-NORTH TEMPLE STATION,walk,3076.230000000001,0.17,0.19,0.28,0.23843769809149507,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,08-SALT LAKE CENTRAL STATION,walk,1105.51,0.12,0.22,0.22,0.2004019864135105,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,09-MURRAY CENTRAL STATION,walk,2034.2200000000003,0.13,0.33,0.45,0.317433266804967,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,10-SOUTH JORDAN STATION,walk,864.7400000000001,0.35,0.35,0.74,0.5044701297499826,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,11-DRAPER STATION,walk,769.3400000000001,0.4,0.41,0.65,0.4562608209634232,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,12-LEHI STATION,walk,887.17,0.18,0.47,0.66,0.432093848980466,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,13-AMERICAN FORK STATION,walk,599.39,0.42,0.49,0.49,0.4537698326632076,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,14-OREM CENTRAL STATION,walk,1160.33,0.08,0.08,0.58,0.23150724362896763,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,15-PROVO CENTRAL STATION,walk,3004.82,0.16,0.24,0.56,0.3015866840609421,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,01-OGDEN STATION,drive,3763.99,1.89,4.18,7.58,5.670474602748678,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,02-ROY STATION,drive,4823.02,2.35,5.06,11.39,6.525307317821614,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,03-CLEARFIELD STATION,drive,2359.01,1.4,3.24,4.6,3.209057825104599,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,04-LAYTON STATION,drive,2974.6900000000005,1.41,2.52,4.18,2.7903169742057155,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,05-FARMINGTON STATION,drive,2025.8000000000002,1.43,2.3,4.76,2.85398627702636,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,06-WOODS CROSS STATION,drive,2580.0600000000004,1.51,2.62,3.92,2.697935861956698,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,07-NORTH TEMPLE STATION,drive,98.34,1.23,2.52,5.05,3.3548047589993897,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,08-SALT LAKE CENTRAL STATION,drive,241.06,1.58,3.35,9.53,5.0373599933626485,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,09-MURRAY CENTRAL STATION,drive,1692.96,2.11,4.51,7.66,4.957980164918251,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,10-SOUTH JORDAN STATION,drive,3286.82,1.84,3.3,5.94,3.881430105694866,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,11-DRAPER STATION,drive,2391.53,2.77,4.57,8.63,5.356712690202506,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,12-LEHI STATION,drive,8462.87,2.7,6.74,12.88,7.219746693497596,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,13-AMERICAN FORK STATION,drive,3940.98,1.68,4.04,7.79,4.988834934457927,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,14-OREM CENTRAL STATION,drive,1756.0800000000002,1.84,3.21,4.77,3.303629732130654,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,15-PROVO CENTRAL STATION,drive,704.46,1.11,1.71,2.65,1.8841407602986684,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,01-OGDEN STATION,All,475.05,0.21,0.32,0.67,0.4096154089043259,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,02-ROY STATION,All,793.76,0.37,0.45,0.78,0.5283652489417456,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,03-CLEARFIELD STATION,All,1266.29,0.29,0.48,0.64,0.5103334939073988,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,04-LAYTON STATION,All,643.8900000000001,0.17,0.17,0.69,0.3146613552004224,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,05-FARMINGTON STATION,All,1105.88,0.17,0.82,0.82,0.5937827793250623,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,06-WOODS CROSS STATION,All,1118.11,0.22,0.23,0.92,0.5144860523562084,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,07-NORTH TEMPLE STATION,All,3076.230000000001,0.17,0.19,0.28,0.23843769809149507,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,08-SALT LAKE CENTRAL STATION,All,1105.51,0.12,0.22,0.22,0.2004019864135105,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,09-MURRAY CENTRAL STATION,All,2034.2200000000003,0.13,0.33,0.45,0.317433266804967,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,10-SOUTH JORDAN STATION,All,864.7400000000001,0.35,0.35,0.74,0.5044701297499826,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,11-DRAPER STATION,All,769.3400000000001,0.4,0.41,0.65,0.4562608209634232,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,12-LEHI STATION,All,887.17,0.18,0.47,0.66,0.432093848980466,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,13-AMERICAN FORK STATION,All,599.39,0.42,0.49,0.49,0.4537698326632076,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,14-OREM CENTRAL STATION,All,1160.33,0.08,0.08,0.58,0.23150724362896763,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,15-PROVO CENTRAL STATION,All,3004.82,0.16,0.24,0.56,0.3015866840609421,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,01-OGDEN STATION,All,3763.99,1.89,4.18,7.58,5.670474602748678,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,02-ROY STATION,All,4823.02,2.35,5.06,11.39,6.525307317821614,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,03-CLEARFIELD STATION,All,2359.01,1.4,3.24,4.6,3.209057825104599,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,04-LAYTON STATION,All,2974.6900000000005,1.41,2.52,4.18,2.7903169742057155,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,05-FARMINGTON STATION,All,2025.8000000000002,1.43,2.3,4.76,2.85398627702636,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,06-WOODS CROSS STATION,All,2580.0600000000004,1.51,2.62,3.92,2.697935861956698,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,07-NORTH TEMPLE STATION,All,98.34,1.23,2.52,5.05,3.3548047589993897,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,08-SALT LAKE CENTRAL STATION,All,241.06,1.58,3.35,9.53,5.0373599933626485,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,09-MURRAY CENTRAL STATION,All,1692.96,2.11,4.51,7.66,4.957980164918251,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,10-SOUTH JORDAN STATION,All,3286.82,1.84,3.3,5.94,3.881430105694866,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,11-DRAPER STATION,All,2391.53,2.77,4.57,8.63,5.356712690202506,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,12-LEHI STATION,All,8462.87,2.7,6.74,12.88,7.219746693497596,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,13-AMERICAN FORK STATION,All,3940.98,1.68,4.04,7.79,4.988834934457927,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,14-OREM CENTRAL STATION,All,1756.0800000000002,1.84,3.21,4.77,3.303629732130654,Boardings represent only direct boardings to CRT.
+E2.14.4__RTP_2050,15-PROVO CENTRAL STATION,All,704.46,1.11,1.71,2.65,1.8841407602986684,Boardings represent only direct boardings to CRT.
 E2.16.2__BY_2019,01-OGDEN STATION,walk,69.68,0.28,0.44,0.67,0.4603257749712973,Boardings represent only direct boardings to CRT.
 E2.16.2__BY_2019,02-ROY STATION,walk,341.41,0.37,0.45,0.68,0.521507278638587,Boardings represent only direct boardings to CRT.
 E2.16.2__BY_2019,03-CLEARFIELD STATION,walk,515.46,0.29,0.63,0.64,0.528048733170372,Boardings represent only direct boardings to CRT.
@@ -404,3 +524,243 @@ E2.18.2__BY_2019,12-LEHI STATION,All,1196.77,1.97,3.4,6.29,3.9539533912113436,Bo
 E2.18.2__BY_2019,13-AMERICAN FORK STATION,All,1853.98,2.12,3.58,6.24,3.9305292397976244,Boardings represent only direct boardings to CRT.
 E2.18.2__BY_2019,14-OREM CENTRAL STATION,All,1019.28,1.99,3.52,5.26,3.63640520759752,Boardings represent only direct boardings to CRT.
 E2.18.2__BY_2019,15-PROVO CENTRAL STATION,All,1856.45,1.31,2.82,8.16,4.218937811414258,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,01-OGDEN STATION,walk,470.03,0.21,0.32,0.67,0.40885134991383526,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,02-ROY STATION,walk,759.2900000000001,0.37,0.45,0.78,0.5272733738097434,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,03-CLEARFIELD STATION,walk,1388.6200000000001,0.29,0.48,0.64,0.5112604600250609,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,04-LAYTON STATION,walk,687.58,0.17,0.17,0.69,0.3151701620175107,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,05-FARMINGTON STATION,walk,1241.16,0.17,0.82,0.82,0.5970940894002384,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,06-WOODS CROSS STATION,walk,1252.08,0.22,0.23,0.92,0.5230105903776118,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,07-NORTH TEMPLE STATION,walk,3014.7599999999998,0.17,0.19,0.28,0.2387789077737531,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,08-SALT LAKE CENTRAL STATION,walk,1080.12,0.12,0.22,0.22,0.2006990889901122,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,09-MURRAY CENTRAL STATION,walk,1970.3000000000002,0.13,0.33,0.45,0.31674531797188243,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,10-SOUTH JORDAN STATION,walk,834.5000000000001,0.35,0.35,0.74,0.5033779508687837,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,11-DRAPER STATION,walk,742.26,0.4,0.41,0.65,0.4561560639129146,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,12-LEHI STATION,walk,727.87,0.18,0.47,0.66,0.4277990575240083,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,13-AMERICAN FORK STATION,walk,480.27000000000004,0.42,0.49,0.49,0.4538592874841235,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,14-OREM CENTRAL STATION,walk,1043.73,0.08,0.08,0.58,0.2248481887078076,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,15-PROVO CENTRAL STATION,walk,2333.5099999999998,0.16,0.24,0.49,0.2949508680057082,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,01-OGDEN STATION,drive,3787.17,1.89,4.18,7.58,5.664474185209536,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,02-ROY STATION,drive,5685.78,2.39,5.19,11.39,6.58608496987221,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,03-CLEARFIELD STATION,drive,2312.45,1.4,3.24,4.58,3.189818720404766,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,04-LAYTON STATION,drive,4218.83,1.41,2.53,4.18,2.8104768146618855,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,05-FARMINGTON STATION,drive,2393.5299999999997,1.43,2.3,4.76,2.845364085680982,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,06-WOODS CROSS STATION,drive,2548.790000000001,1.51,2.62,3.92,2.7043535167667785,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,07-NORTH TEMPLE STATION,drive,115.71,1.23,2.53,5.05,3.6407674358309565,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,08-SALT LAKE CENTRAL STATION,drive,297.7,1.51,3.26,8.66,4.798007389989923,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,09-MURRAY CENTRAL STATION,drive,1402.62,2.11,4.58,8.24,5.256823658581798,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,10-SOUTH JORDAN STATION,drive,3701.5499999999993,2.05,3.53,6.03,4.003044886601559,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,11-DRAPER STATION,drive,2910.44,3.01,4.91,8.88,5.565052809884415,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,12-LEHI STATION,drive,5872.750000000001,2.12,3.89,6.84,4.305907590140904,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,13-AMERICAN FORK STATION,drive,6677.41,2.02,5.13,9.32,5.3201758765749,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,14-OREM CENTRAL STATION,drive,2070.35,1.69,3.21,4.74,3.2532170405970002,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,15-PROVO CENTRAL STATION,drive,4213.24,0.62,1.47,2.44,1.59611652789777,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,01-OGDEN STATION,All,470.03,0.21,0.32,0.67,0.40885134991383526,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,02-ROY STATION,All,759.2900000000001,0.37,0.45,0.78,0.5272733738097434,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,03-CLEARFIELD STATION,All,1388.6200000000001,0.29,0.48,0.64,0.5112604600250609,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,04-LAYTON STATION,All,687.58,0.17,0.17,0.69,0.3151701620175107,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,05-FARMINGTON STATION,All,1241.16,0.17,0.82,0.82,0.5970940894002384,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,06-WOODS CROSS STATION,All,1252.08,0.22,0.23,0.92,0.5230105903776118,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,07-NORTH TEMPLE STATION,All,3014.7599999999998,0.17,0.19,0.28,0.2387789077737531,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,08-SALT LAKE CENTRAL STATION,All,1080.12,0.12,0.22,0.22,0.2006990889901122,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,09-MURRAY CENTRAL STATION,All,1970.3000000000002,0.13,0.33,0.45,0.31674531797188243,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,10-SOUTH JORDAN STATION,All,834.5000000000001,0.35,0.35,0.74,0.5033779508687837,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,11-DRAPER STATION,All,742.26,0.4,0.41,0.65,0.4561560639129146,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,12-LEHI STATION,All,727.87,0.18,0.47,0.66,0.4277990575240083,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,13-AMERICAN FORK STATION,All,480.27000000000004,0.42,0.49,0.49,0.4538592874841235,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,14-OREM CENTRAL STATION,All,1043.73,0.08,0.08,0.58,0.2248481887078076,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,15-PROVO CENTRAL STATION,All,2333.5099999999998,0.16,0.24,0.49,0.2949508680057082,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,01-OGDEN STATION,All,3787.17,1.89,4.18,7.58,5.664474185209536,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,02-ROY STATION,All,5685.78,2.39,5.19,11.39,6.58608496987221,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,03-CLEARFIELD STATION,All,2312.45,1.4,3.24,4.58,3.189818720404766,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,04-LAYTON STATION,All,4218.83,1.41,2.53,4.18,2.8104768146618855,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,05-FARMINGTON STATION,All,2393.5299999999997,1.43,2.3,4.76,2.845364085680982,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,06-WOODS CROSS STATION,All,2548.790000000001,1.51,2.62,3.92,2.7043535167667785,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,07-NORTH TEMPLE STATION,All,115.71,1.23,2.53,5.05,3.6407674358309565,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,08-SALT LAKE CENTRAL STATION,All,297.7,1.51,3.26,8.66,4.798007389989923,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,09-MURRAY CENTRAL STATION,All,1402.62,2.11,4.58,8.24,5.256823658581798,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,10-SOUTH JORDAN STATION,All,3701.5499999999993,2.05,3.53,6.03,4.003044886601559,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,11-DRAPER STATION,All,2910.44,3.01,4.91,8.88,5.565052809884415,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,12-LEHI STATION,All,5872.750000000001,2.12,3.89,6.84,4.305907590140904,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,13-AMERICAN FORK STATION,All,6677.41,2.02,5.13,9.32,5.3201758765749,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,14-OREM CENTRAL STATION,All,2070.35,1.69,3.21,4.74,3.2532170405970002,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_2050,15-PROVO CENTRAL STATION,All,4213.24,0.62,1.47,2.44,1.59611652789777,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,01-OGDEN STATION,walk,470.46000000000004,0.21,0.32,0.67,0.40884899885218723,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,02-ROY STATION,walk,760.56,0.37,0.45,0.78,0.5272752971494689,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,03-CLEARFIELD STATION,walk,1390.9499999999998,0.29,0.48,0.64,0.51123598979115,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,04-LAYTON STATION,walk,688.78,0.17,0.17,0.69,0.3152148726734226,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,05-FARMINGTON STATION,walk,1242.9099999999999,0.17,0.82,0.82,0.597267782864407,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,06-WOODS CROSS STATION,walk,1253.7699999999998,0.22,0.23,0.92,0.5230955438397794,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,07-NORTH TEMPLE STATION,walk,3015.62,0.17,0.19,0.28,0.23874576372354608,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,08-SALT LAKE CENTRAL STATION,walk,1080.8600000000001,0.12,0.22,0.22,0.20069555724145582,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,09-MURRAY CENTRAL STATION,walk,1971.19,0.13,0.33,0.45,0.3167578467829078,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,10-SOUTH JORDAN STATION,walk,835.5800000000002,0.35,0.35,0.74,0.503452093156849,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,11-DRAPER STATION,walk,742.9799999999999,0.4,0.41,0.65,0.4561758055398531,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,12-LEHI STATION,walk,729.91,0.18,0.47,0.66,0.42795330931210696,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,13-AMERICAN FORK STATION,walk,482.5999999999999,0.42,0.49,0.49,0.4538336096145878,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,14-OREM CENTRAL STATION,walk,1045.35,0.08,0.08,0.58,0.2253210886306022,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,15-PROVO CENTRAL STATION,walk,2740.1300000000006,0.16,0.24,0.53,0.299358315116436,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,01-OGDEN STATION,drive,3798.56,1.89,4.18,7.58,5.663138241860073,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,02-ROY STATION,drive,5702.79,2.39,5.19,11.39,6.584781080839379,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,03-CLEARFIELD STATION,drive,2318.4199999999996,1.4,3.24,4.58,3.1901375937060594,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,04-LAYTON STATION,drive,4231.71,1.41,2.53,4.18,2.810645271060635,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,05-FARMINGTON STATION,drive,2398.9399999999996,1.43,2.3,4.76,2.845405262324194,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,06-WOODS CROSS STATION,drive,2555.6000000000004,1.51,2.62,3.92,2.704375449992174,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,07-NORTH TEMPLE STATION,drive,115.66,1.23,2.53,5.05,3.6414438872557495,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,08-SALT LAKE CENTRAL STATION,drive,297.99,1.51,3.26,8.66,4.795556226719016,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,09-MURRAY CENTRAL STATION,drive,1402.1100000000001,2.11,4.58,8.24,5.256675439159552,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,10-SOUTH JORDAN STATION,drive,3709.5799999999995,2.05,3.58,6.03,4.003236781522436,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,11-DRAPER STATION,drive,2919.2,3.01,4.91,8.88,5.5646695670046595,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,12-LEHI STATION,drive,5905.530000000001,2.12,3.89,6.84,4.3054415437733775,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,13-AMERICAN FORK STATION,drive,6715.519999999999,2.02,5.13,9.32,5.3179882868340815,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,14-OREM CENTRAL STATION,drive,2048.94,1.69,3.13,4.74,3.220099710094,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,15-PROVO CENTRAL STATION,drive,890.8499999999999,1.03,1.71,2.65,1.840933153729584,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,01-OGDEN STATION,All,470.46000000000004,0.21,0.32,0.67,0.40884899885218723,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,02-ROY STATION,All,760.56,0.37,0.45,0.78,0.5272752971494689,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,03-CLEARFIELD STATION,All,1390.9499999999998,0.29,0.48,0.64,0.51123598979115,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,04-LAYTON STATION,All,688.78,0.17,0.17,0.69,0.3152148726734226,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,05-FARMINGTON STATION,All,1242.9099999999999,0.17,0.82,0.82,0.597267782864407,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,06-WOODS CROSS STATION,All,1253.7699999999998,0.22,0.23,0.92,0.5230955438397794,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,07-NORTH TEMPLE STATION,All,3015.62,0.17,0.19,0.28,0.23874576372354608,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,08-SALT LAKE CENTRAL STATION,All,1080.8600000000001,0.12,0.22,0.22,0.20069555724145582,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,09-MURRAY CENTRAL STATION,All,1971.19,0.13,0.33,0.45,0.3167578467829078,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,10-SOUTH JORDAN STATION,All,835.5800000000002,0.35,0.35,0.74,0.503452093156849,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,11-DRAPER STATION,All,742.9799999999999,0.4,0.41,0.65,0.4561758055398531,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,12-LEHI STATION,All,729.91,0.18,0.47,0.66,0.42795330931210696,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,13-AMERICAN FORK STATION,All,482.5999999999999,0.42,0.49,0.49,0.4538336096145878,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,14-OREM CENTRAL STATION,All,1045.35,0.08,0.08,0.58,0.2253210886306022,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,15-PROVO CENTRAL STATION,All,2740.1300000000006,0.16,0.24,0.53,0.299358315116436,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,01-OGDEN STATION,All,3798.56,1.89,4.18,7.58,5.663138241860073,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,02-ROY STATION,All,5702.79,2.39,5.19,11.39,6.584781080839379,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,03-CLEARFIELD STATION,All,2318.4199999999996,1.4,3.24,4.58,3.1901375937060594,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,04-LAYTON STATION,All,4231.71,1.41,2.53,4.18,2.810645271060635,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,05-FARMINGTON STATION,All,2398.9399999999996,1.43,2.3,4.76,2.845405262324194,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,06-WOODS CROSS STATION,All,2555.6000000000004,1.51,2.62,3.92,2.704375449992174,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,07-NORTH TEMPLE STATION,All,115.66,1.23,2.53,5.05,3.6414438872557495,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,08-SALT LAKE CENTRAL STATION,All,297.99,1.51,3.26,8.66,4.795556226719016,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,09-MURRAY CENTRAL STATION,All,1402.1100000000001,2.11,4.58,8.24,5.256675439159552,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,10-SOUTH JORDAN STATION,All,3709.5799999999995,2.05,3.58,6.03,4.003236781522436,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,11-DRAPER STATION,All,2919.2,3.01,4.91,8.88,5.5646695670046595,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,12-LEHI STATION,All,5905.530000000001,2.12,3.89,6.84,4.3054415437733775,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,13-AMERICAN FORK STATION,All,6715.519999999999,2.02,5.13,9.32,5.3179882868340815,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,14-OREM CENTRAL STATION,All,2048.94,1.69,3.13,4.74,3.220099710094,Boardings represent only direct boardings to CRT.
+E2.18.2__RTP_MedDistAdj_2050,15-PROVO CENTRAL STATION,All,890.8499999999999,1.03,1.71,2.65,1.840933153729584,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,01-OGDEN STATION,walk,70.58,0.28,0.44,0.67,0.4610838764522527,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,02-ROY STATION,walk,342.75000000000006,0.37,0.45,0.68,0.5231696571845368,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,03-CLEARFIELD STATION,walk,520.3399999999999,0.29,0.63,0.64,0.5292722066341239,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,04-LAYTON STATION,walk,132.21,0.17,0.17,0.66,0.3101028666515392,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,05-FARMINGTON STATION,walk,136.77999999999997,0.17,0.17,0.82,0.306529463371838,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,06-WOODS CROSS STATION,walk,341.07,0.22,0.22,0.57,0.3423311930102325,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,07-NORTH TEMPLE STATION,walk,645.8100000000001,0.17,0.22,0.56,0.30383286105820595,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,08-SALT LAKE CENTRAL STATION,walk,74.63,0.12,0.12,0.22,0.18080396623341818,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,09-MURRAY CENTRAL STATION,walk,528.25,0.33,0.45,0.75,0.5213915759583531,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,10-SOUTH JORDAN STATION,walk,246.13,0.35,0.67,0.67,0.5287896639987,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,11-DRAPER STATION,walk,144.60000000000002,0.4,0.41,0.47,0.4374778699861687,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,12-LEHI STATION,walk,181.17000000000002,0.21,0.47,0.66,0.4705856377987525,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,13-AMERICAN FORK STATION,walk,64.68,0.42,0.42,0.77,0.5576963512677798,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,14-OREM CENTRAL STATION,walk,437.0,0.08,0.08,0.58,0.2487599542334096,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,15-PROVO CENTRAL STATION,walk,384.88000000000005,0.24,0.56,0.56,0.4254869050093536,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,01-OGDEN STATION,drive,1045.9299999999998,1.89,3.86,6.44,4.184459093820811,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,02-ROY STATION,drive,830.2800000000001,2.01,3.37,5.26,3.5999447174447172,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,03-CLEARFIELD STATION,drive,675.2400000000001,1.24,2.7,4.43,2.950913156803506,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,04-LAYTON STATION,drive,1464.1499999999999,1.41,2.53,3.9,2.7560056688180867,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,05-FARMINGTON STATION,drive,437.28999999999996,1.43,2.49,4.2,2.7544789498959505,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,06-WOODS CROSS STATION,drive,503.55999999999995,1.61,2.67,4.04,2.761002661053301,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,07-NORTH TEMPLE STATION,drive,66.47999999999999,1.55,2.91,5.93,3.328816185318893,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,08-SALT LAKE CENTRAL STATION,drive,107.69,1.58,2.92,4.45,3.1437700807874456,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,09-MURRAY CENTRAL STATION,drive,561.5699999999999,2.21,4.27,6.32,4.437175418914829,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,10-SOUTH JORDAN STATION,drive,1125.8600000000001,2.18,3.7,5.4,3.7446087435382718,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,11-DRAPER STATION,drive,1093.6799999999998,2.48,4.41,6.25,4.576986778582402,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,12-LEHI STATION,drive,1238.8400000000001,1.97,3.4,6.29,3.953450889541829,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,13-AMERICAN FORK STATION,drive,1899.06,2.12,3.58,6.24,3.927376228239235,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,14-OREM CENTRAL STATION,drive,1084.39,1.99,3.52,5.26,3.6335752819557534,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,15-PROVO CENTRAL STATION,drive,1333.59,1.31,2.82,8.16,4.200024895207673,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,01-OGDEN STATION,All,70.58,0.28,0.44,0.67,0.4610838764522527,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,02-ROY STATION,All,342.75000000000006,0.37,0.45,0.68,0.5231696571845368,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,03-CLEARFIELD STATION,All,520.3399999999999,0.29,0.63,0.64,0.5292722066341239,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,04-LAYTON STATION,All,132.21,0.17,0.17,0.66,0.3101028666515392,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,05-FARMINGTON STATION,All,136.77999999999997,0.17,0.17,0.82,0.306529463371838,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,06-WOODS CROSS STATION,All,341.07,0.22,0.22,0.57,0.3423311930102325,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,07-NORTH TEMPLE STATION,All,645.8100000000001,0.17,0.22,0.56,0.30383286105820595,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,08-SALT LAKE CENTRAL STATION,All,74.63,0.12,0.12,0.22,0.18080396623341818,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,09-MURRAY CENTRAL STATION,All,528.25,0.33,0.45,0.75,0.5213915759583531,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,10-SOUTH JORDAN STATION,All,246.13,0.35,0.67,0.67,0.5287896639987,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,11-DRAPER STATION,All,144.60000000000002,0.4,0.41,0.47,0.4374778699861687,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,12-LEHI STATION,All,181.17000000000002,0.21,0.47,0.66,0.4705856377987525,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,13-AMERICAN FORK STATION,All,64.68,0.42,0.42,0.77,0.5576963512677798,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,14-OREM CENTRAL STATION,All,437.0,0.08,0.08,0.58,0.2487599542334096,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,15-PROVO CENTRAL STATION,All,384.88000000000005,0.24,0.56,0.56,0.4254869050093536,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,01-OGDEN STATION,All,1045.9299999999998,1.89,3.86,6.44,4.184459093820811,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,02-ROY STATION,All,830.2800000000001,2.01,3.37,5.26,3.5999447174447172,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,03-CLEARFIELD STATION,All,675.2400000000001,1.24,2.7,4.43,2.950913156803506,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,04-LAYTON STATION,All,1464.1499999999999,1.41,2.53,3.9,2.7560056688180867,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,05-FARMINGTON STATION,All,437.28999999999996,1.43,2.49,4.2,2.7544789498959505,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,06-WOODS CROSS STATION,All,503.55999999999995,1.61,2.67,4.04,2.761002661053301,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,07-NORTH TEMPLE STATION,All,66.47999999999999,1.55,2.91,5.93,3.328816185318893,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,08-SALT LAKE CENTRAL STATION,All,107.69,1.58,2.92,4.45,3.1437700807874456,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,09-MURRAY CENTRAL STATION,All,561.5699999999999,2.21,4.27,6.32,4.437175418914829,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,10-SOUTH JORDAN STATION,All,1125.8600000000001,2.18,3.7,5.4,3.7446087435382718,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,11-DRAPER STATION,All,1093.6799999999998,2.48,4.41,6.25,4.576986778582402,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,12-LEHI STATION,All,1238.8400000000001,1.97,3.4,6.29,3.953450889541829,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,13-AMERICAN FORK STATION,All,1899.06,2.12,3.58,6.24,3.927376228239235,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,14-OREM CENTRAL STATION,All,1084.39,1.99,3.52,5.26,3.6335752819557534,Boardings represent only direct boardings to CRT.
+E2.18.3__BY_2019,15-PROVO CENTRAL STATION,All,1333.59,1.31,2.82,8.16,4.200024895207673,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,01-OGDEN STATION,walk,70.47,0.28,0.44,0.67,0.4608954164892863,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,02-ROY STATION,walk,344.11999999999995,0.37,0.45,0.68,0.5230233639428107,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,03-CLEARFIELD STATION,walk,521.0799999999999,0.29,0.63,0.64,0.5291316112689031,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,04-LAYTON STATION,walk,132.53,0.17,0.17,0.66,0.3098664453331321,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,05-FARMINGTON STATION,walk,136.98000000000002,0.17,0.17,0.82,0.30666447656592194,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,06-WOODS CROSS STATION,walk,342.57,0.22,0.22,0.57,0.34248007706454153,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,07-NORTH TEMPLE STATION,walk,646.1899999999999,0.17,0.22,0.56,0.30379021649979115,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,08-SALT LAKE CENTRAL STATION,walk,74.72,0.12,0.12,0.22,0.1808043361884368,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,09-MURRAY CENTRAL STATION,walk,529.13,0.33,0.45,0.75,0.5214907489652826,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,10-SOUTH JORDAN STATION,walk,247.6,0.35,0.67,0.67,0.5288877221324717,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,11-DRAPER STATION,walk,145.02999999999997,0.4,0.41,0.47,0.43742880783286225,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,12-LEHI STATION,walk,181.42000000000002,0.21,0.47,0.66,0.470632785800904,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,13-AMERICAN FORK STATION,walk,64.81,0.42,0.42,0.77,0.5575929640487579,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,14-OREM CENTRAL STATION,walk,436.45,0.08,0.08,0.58,0.24860854622522627,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,15-PROVO CENTRAL STATION,walk,387.72,0.24,0.56,0.56,0.42479650263076446,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,01-OGDEN STATION,drive,1093.26,1.89,3.86,6.44,4.180135283464136,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,02-ROY STATION,drive,859.0800000000002,2.01,3.37,5.26,3.595278088187363,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,03-CLEARFIELD STATION,drive,701.28,1.24,2.7,4.43,2.954156399726215,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,04-LAYTON STATION,drive,1508.74,1.41,2.53,3.9,2.7568490926203326,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,05-FARMINGTON STATION,drive,451.65999999999997,1.43,2.49,4.2,2.751012487269185,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,06-WOODS CROSS STATION,drive,527.75,1.61,2.67,3.92,2.761902415916628,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,07-NORTH TEMPLE STATION,drive,68.49000000000001,1.55,2.89,5.93,3.3190611768141327,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,08-SALT LAKE CENTRAL STATION,drive,110.02000000000001,1.58,2.92,4.49,3.1440974368296675,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,09-MURRAY CENTRAL STATION,drive,575.1099999999999,2.21,4.25,6.32,4.431090400097373,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,10-SOUTH JORDAN STATION,drive,1150.1200000000001,2.18,3.7,5.4,3.7432772232462703,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,11-DRAPER STATION,drive,1122.4099999999999,2.48,4.41,6.29,4.579221852977077,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,12-LEHI STATION,drive,1267.44,1.97,3.4,6.29,3.953309663573818,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,13-AMERICAN FORK STATION,drive,1930.2600000000002,2.12,3.58,6.24,3.925441494928144,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,14-OREM CENTRAL STATION,drive,1143.69,1.99,3.52,5.26,3.6316284132938117,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,15-PROVO CENTRAL STATION,drive,950.4399999999999,1.32,2.87,8.16,4.209531901014268,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,01-OGDEN STATION,All,70.47,0.28,0.44,0.67,0.4608954164892863,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,02-ROY STATION,All,344.11999999999995,0.37,0.45,0.68,0.5230233639428107,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,03-CLEARFIELD STATION,All,521.0799999999999,0.29,0.63,0.64,0.5291316112689031,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,04-LAYTON STATION,All,132.53,0.17,0.17,0.66,0.3098664453331321,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,05-FARMINGTON STATION,All,136.98000000000002,0.17,0.17,0.82,0.30666447656592194,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,06-WOODS CROSS STATION,All,342.57,0.22,0.22,0.57,0.34248007706454153,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,07-NORTH TEMPLE STATION,All,646.1899999999999,0.17,0.22,0.56,0.30379021649979115,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,08-SALT LAKE CENTRAL STATION,All,74.72,0.12,0.12,0.22,0.1808043361884368,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,09-MURRAY CENTRAL STATION,All,529.13,0.33,0.45,0.75,0.5214907489652826,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,10-SOUTH JORDAN STATION,All,247.6,0.35,0.67,0.67,0.5288877221324717,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,11-DRAPER STATION,All,145.02999999999997,0.4,0.41,0.47,0.43742880783286225,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,12-LEHI STATION,All,181.42000000000002,0.21,0.47,0.66,0.470632785800904,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,13-AMERICAN FORK STATION,All,64.81,0.42,0.42,0.77,0.5575929640487579,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,14-OREM CENTRAL STATION,All,436.45,0.08,0.08,0.58,0.24860854622522627,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,15-PROVO CENTRAL STATION,All,387.72,0.24,0.56,0.56,0.42479650263076446,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,01-OGDEN STATION,All,1093.26,1.89,3.86,6.44,4.180135283464136,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,02-ROY STATION,All,859.0800000000002,2.01,3.37,5.26,3.595278088187363,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,03-CLEARFIELD STATION,All,701.28,1.24,2.7,4.43,2.954156399726215,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,04-LAYTON STATION,All,1508.74,1.41,2.53,3.9,2.7568490926203326,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,05-FARMINGTON STATION,All,451.65999999999997,1.43,2.49,4.2,2.751012487269185,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,06-WOODS CROSS STATION,All,527.75,1.61,2.67,3.92,2.761902415916628,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,07-NORTH TEMPLE STATION,All,68.49000000000001,1.55,2.89,5.93,3.3190611768141327,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,08-SALT LAKE CENTRAL STATION,All,110.02000000000001,1.58,2.92,4.49,3.1440974368296675,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,09-MURRAY CENTRAL STATION,All,575.1099999999999,2.21,4.25,6.32,4.431090400097373,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,10-SOUTH JORDAN STATION,All,1150.1200000000001,2.18,3.7,5.4,3.7432772232462703,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,11-DRAPER STATION,All,1122.4099999999999,2.48,4.41,6.29,4.579221852977077,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,12-LEHI STATION,All,1267.44,1.97,3.4,6.29,3.953309663573818,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,13-AMERICAN FORK STATION,All,1930.2600000000002,2.12,3.58,6.24,3.925441494928144,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,14-OREM CENTRAL STATION,All,1143.69,1.99,3.52,5.26,3.6316284132938117,Boardings represent only direct boardings to CRT.
+E2.18.4__BY_2019,15-PROVO CENTRAL STATION,All,950.4399999999999,1.32,2.87,8.16,4.209531901014268,Boardings represent only direct boardings to CRT.

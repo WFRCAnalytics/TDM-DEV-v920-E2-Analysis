@@ -19,6 +19,10 @@
       RID: WFv920-E2.14.4_BY_2019
       overwrite: false
       display: true
+    - name: RTP_2050
+      RID: WFv920-E2.14.4_RTP_2050
+      overwrite: false
+      display: true
 
 - id: E2.16.2
   name: Utah County MaxTime 15
@@ -70,5 +74,14 @@
   models:
     - name: BY_2019
       RID: WFv920-E2.18.3_BY_2019
+      overwrite: false
+      display: true
+
+- id: E2.18.4
+  name: UTCo dCRT Adj -15 + SoUTCo dCRT Adj -30 Start in Dest Choice
+  folder: E:\GitHub\WF-TDM-v9x\Scenarios\v920-E2.18.4
+  models:
+    - name: BY_2019
+      RID: WFv920-E2.18.4_BY_2019
       overwrite: false
       display: true

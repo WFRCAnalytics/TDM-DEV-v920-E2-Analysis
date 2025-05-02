@@ -1,23 +1,29 @@
 import pandas as pd
 
+obs_df = pd.read_csv(r"C:\Users\bhereth\Documents\2019 Final Weighted UTA OD Data - 2022-04-05 - processed.csv", low_memory=False)
+
+purposes = ['HBW','HBC','NHB','HBO']
+periods = ['PK','OK']
+accesses = ['dCRT','wCRT']
+
 # station input variable
 df_stations = pd.DataFrame([
-    ["01-PROVO CENTRAL STATION"    , 50024, 40.22544 , -111.660632,  850 ],
-    ["02-OREM CENTRAL STATION"     , 50029, 40.28014 , -111.725489,  500 ],
-    ["03-AMERICAN FORK STATION"    , 50035, 40.374774, -111.820649,  550 ],
-    ["04-LEHI STATION"             , 50040, 40.425196, -111.896354,  735 ],
-    ["05-DRAPER STATION"           , 10008, 40.515484, -111.904407,  600 ],
-    ["06-SOUTH JORDAN STATION"     , 10010, 40.563155, -111.900753,  575 ],
-    ["07-MURRAY CENTRAL STATION"   , 10016, 40.659758, -111.896432, 1100 ],
-    ["08-SALT LAKE CENTRAL STATION", 10019, 40.76234 , -111.909052,  150 ],
-    ["09-NORTH TEMPLE STATION"     , 10021, 40.772532, -111.905124,  375 ],
-    ["10-WOODS CROSS STATION"      , 10025, 40.880457, -111.903151,  230 ],
-    ["11-FARMINGTON STATION"       , 10031, 40.987266, -111.903667,  870 ],
-    ["12-LAYTON STATION"           , 10035, 41.056903, -111.964955,  380 ],
-    ["13-CLEARFIELD STATION"       , 10036, 41.094769, -112.013807,  560 ],
-    ["14-ROY STATION"              , 10042, 41.188757, -112.039378,  500 ],
-    ["15-OGDEN STATION"            , 10046, 41.224285, -111.980631,  475 ]
-], columns=["station", "N", 'Lat', 'Lon', 'PNR_Spaces'])
+    ["15-PROVO CENTRAL STATION"    , 50024, 40.22544 , -111.660632,  850, 'Utah'      ],
+    ["14-OREM CENTRAL STATION"     , 50029, 40.28014 , -111.725489,  500, 'Utah'      ],
+    ["13-AMERICAN FORK STATION"    , 50035, 40.374774, -111.820649,  550, 'Utah'      ],
+    ["12-LEHI STATION"             , 50040, 40.425196, -111.896354,  735, 'Utah'      ],
+    ["11-DRAPER STATION"           , 10008, 40.515484, -111.904407,  600, 'Salt Lake' ],
+    ["10-SOUTH JORDAN STATION"     , 10010, 40.563155, -111.900753,  575, 'Salt Lake' ],
+    ["09-MURRAY CENTRAL STATION"   , 10016, 40.659758, -111.896432, 1100, 'Salt Lake' ],
+    ["08-SALT LAKE CENTRAL STATION", 10019, 40.76234 , -111.909052,  150, 'Salt Lake' ],
+    ["07-NORTH TEMPLE STATION"     , 10021, 40.772532, -111.905124,  375, 'Salt Lake' ],
+    ["06-WOODS CROSS STATION"      , 10025, 40.880457, -111.903151,  230, 'Davis'     ],
+    ["05-FARMINGTON STATION"       , 10031, 40.987266, -111.903667,  870, 'Davis'     ],
+    ["04-LAYTON STATION"           , 10035, 41.056903, -111.964955,  380, 'Davis'     ],
+    ["03-CLEARFIELD STATION"       , 10036, 41.094769, -112.013807,  560, 'Davis'     ],
+    ["02-ROY STATION"              , 10042, 41.188757, -112.039378,  500, 'Weber'     ],
+    ["01-OGDEN STATION"            , 10046, 41.224285, -111.980631,  475, 'Weber'     ]
+], columns=["station", "N", 'Lat', 'Lon', 'PNR_Spaces', 'County'])
 
 # function to summarize tdm values
 def summarize_tdm_stats(path_brdings, path_riders, df_stations1, source_name, pa_od):
